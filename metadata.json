@@ -1,0 +1,6 @@
+{
+  "name": "AffiliateRadar 2026 - Top 100 Mais Buscados",
+  "description": "Monitor de inteligência com os 300 produtos com mais buscas no Google de Setembro e Outubro de 2026 em ordem crescente nas plataformas ClickBank, Digistore24, MediaScalers e SmartADV (1.200 ofertas ativas), com métricas de buscas, acessos e países compradores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
