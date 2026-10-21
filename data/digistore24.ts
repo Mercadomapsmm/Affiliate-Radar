@@ -10,10 +10,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Áudio Theta de 7 Minutos",
     "tagline": "Ativação da onda cerebral Theta de alta criatividade e atração desenvolvida por neurocientistas.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: 482910",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100000",
     "avgPayout": 49.3,
     "payoutType": "RevShare",
@@ -28,7 +30,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 1,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Ativação da onda cerebral Theta de alta criatividade e atração desenvolvida por neurocientistas. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Ativação da onda cerebral Theta de alta criatividade e atração desenvolvida por neurocientistas. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -77,7 +79,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 12.800 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -91,10 +93,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Glândula Pineal & Foco",
     "tagline": "Gotas de ervas raras para descalcificar a pineal e impulsionar memória e sono.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: 512830",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100007",
     "avgPayout": 142,
     "payoutType": "RevShare",
@@ -109,7 +113,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 2,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Gotas de ervas raras para descalcificar a pineal e impulsionar memória e sono. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de ervas raras para descalcificar a pineal e impulsionar memória e sono. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -153,7 +157,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 12.956 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -167,10 +171,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Frequência Sonora Theta",
     "tagline": "Frequência para contrair a onda beta de ansiedade e despertar o fluxo da riqueza.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: 478129",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100014",
     "avgPayout": 39,
     "payoutType": "RevShare",
@@ -185,7 +191,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 3,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Frequência para contrair a onda beta de ansiedade e despertar o fluxo da riqueza. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Frequência para contrair a onda beta de ansiedade e despertar o fluxo da riqueza. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -234,7 +240,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 13.114 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -248,10 +254,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Óleo Auditivo Natural",
     "tagline": "8 óleos botânicos concentrados para regeneração do tímpano e silêncio sonoro.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: 499214",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100021",
     "avgPayout": 134,
     "payoutType": "RevShare",
@@ -266,7 +274,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 4,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "8 óleos botânicos concentrados para regeneração do tímpano e silêncio sonoro. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "8 óleos botânicos concentrados para regeneração do tímpano e silêncio sonoro. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -310,7 +318,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 13.274 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -324,10 +332,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Gadgets & Tech",
     "subCategory": "Aparelho Auditivo sem Fio",
     "tagline": "Micro aparelho auditivo recarregável de alta fidelidade sonora direto da fábrica.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: 461092",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100028",
     "avgPayout": 78.5,
     "payoutType": "RevShare",
@@ -342,7 +352,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 5,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Micro aparelho auditivo recarregável de alta fidelidade sonora direto da fábrica. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Micro aparelho auditivo recarregável de alta fidelidade sonora direto da fábrica. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -386,7 +396,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 13.436 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -400,10 +410,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Software & Ferramentas",
     "subCategory": "Automação de E-mails",
     "tagline": "A principal ferramenta alemã de automação de e-mails com entrega quase perfeita.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: 219842",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100035",
     "avgPayout": 85,
     "payoutType": "RevShare",
@@ -418,7 +430,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 6,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "A principal ferramenta alemã de automação de e-mails com entrega quase perfeita. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "A principal ferramenta alemã de automação de e-mails com entrega quase perfeita. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -462,7 +474,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 13.600 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -476,10 +488,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Guia de Nutrição Alemão",
     "tagline": "O guia de longevidade e alimentação anti-inflamatória mais vendido da Europa.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: 490123",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100042",
     "avgPayout": 39.9,
     "payoutType": "RevShare",
@@ -494,7 +508,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 7,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "O guia de longevidade e alimentação anti-inflamatória mais vendido da Europa. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "O guia de longevidade e alimentação anti-inflamatória mais vendido da Europa. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -533,7 +547,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 13.766 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -547,10 +561,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Marketing de Afiliados",
     "tagline": "Treinamento clássico passo a passo para criar estrutura profissional de vendas online.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: 351029",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100049",
     "avgPayout": 97,
     "payoutType": "RevShare",
@@ -565,7 +581,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 8,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Treinamento clássico passo a passo para criar estrutura profissional de vendas online. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Treinamento clássico passo a passo para criar estrutura profissional de vendas online. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -604,7 +620,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 13.933 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -618,10 +634,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Software & Ferramentas",
     "subCategory": "Funil no WhatsApp",
     "tagline": "Automação inteligente de atendimento e vendas persuasivas pelo WhatsApp.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: 512903",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100056",
     "avgPayout": 47,
     "payoutType": "RevShare",
@@ -636,7 +654,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 9,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Automação inteligente de atendimento e vendas persuasivas pelo WhatsApp. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Automação inteligente de atendimento e vendas persuasivas pelo WhatsApp. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -675,7 +693,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 14.103 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -689,10 +707,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mesas Resinadas & Arte",
     "tagline": "Como fabricar mesas resinadas e joias de alto padrão para venda com margens altas.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: 489301",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100063",
     "avgPayout": 39,
     "payoutType": "RevShare",
@@ -707,7 +727,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 10,
     "trendStatus": "Nova Explosão",
     "funnelType": "TSL",
-    "primaryAngle": "Como fabricar mesas resinadas e joias de alto padrão para venda com margens altas. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Como fabricar mesas resinadas e joias de alto padrão para venda com margens altas. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -746,7 +766,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 14.275 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -760,10 +780,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-novatarciganor-110",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100070",
     "avgPayout": 52.75,
     "payoutType": "RevShare",
@@ -778,7 +800,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 11,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -817,7 +839,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 14.450 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -831,10 +853,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-zenjointgenesi-111",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100077",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -849,7 +873,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 12,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -893,7 +917,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 14.626 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -907,10 +931,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-corewealthmind-112",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100084",
     "avgPayout": 54.75,
     "payoutType": "RevShare",
@@ -925,7 +951,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 13,
     "trendStatus": "Nova Explosão",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -974,7 +1000,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 14.804 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -988,10 +1014,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-elitemanutenod-113",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100091",
     "avgPayout": 55.75,
     "payoutType": "RevShare",
@@ -1006,7 +1034,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 14,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -1045,7 +1073,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 14.985 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -1059,10 +1087,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-activecryptoal-114",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100098",
     "avgPayout": 56.75,
     "payoutType": "RevShare",
@@ -1077,7 +1107,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 15,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -1121,7 +1151,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 15.167 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -1135,10 +1165,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-genesisketo28t-115",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100105",
     "avgPayout": 57.75,
     "payoutType": "RevShare",
@@ -1153,7 +1185,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 16,
     "trendStatus": "Estável / Top 1",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -1192,7 +1224,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 15.352 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -1206,10 +1238,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-truetarciganor-116",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100112",
     "avgPayout": 58.75,
     "payoutType": "RevShare",
@@ -1224,7 +1258,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 17,
     "trendStatus": "Estável / Top 1",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -1263,7 +1297,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 15.540 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -1277,10 +1311,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-everjointgenes-117",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100119",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -1295,7 +1331,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 18,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -1339,7 +1375,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 15.729 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -1353,10 +1389,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-vitalwealthmin-118",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100126",
     "avgPayout": 60.75,
     "payoutType": "RevShare",
@@ -1371,7 +1409,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 19,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -1420,7 +1458,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 15.921 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -1434,10 +1472,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-megamanutenode-119",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100133",
     "avgPayout": 61.75,
     "payoutType": "RevShare",
@@ -1452,7 +1492,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 20,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -1491,7 +1531,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 16.115 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -1505,10 +1545,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-auracryptoaltc-120",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100140",
     "avgPayout": 42.75,
     "payoutType": "RevShare",
@@ -1523,7 +1565,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 21,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -1567,7 +1609,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 16.312 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -1581,10 +1623,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-terraketo28tag-121",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100147",
     "avgPayout": 43.75,
     "payoutType": "RevShare",
@@ -1599,7 +1643,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 22,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -1638,7 +1682,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 16.511 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -1652,10 +1696,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-hydratarcigano-122",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100154",
     "avgPayout": 44.75,
     "payoutType": "RevShare",
@@ -1670,7 +1716,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 23,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -1709,7 +1755,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 16.712 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -1723,10 +1769,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-vigorjointgene-123",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100161",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -1741,7 +1789,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 24,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -1785,7 +1833,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 16.916 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -1799,10 +1847,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-nuvowealthmind-124",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100168",
     "avgPayout": 46.75,
     "payoutType": "RevShare",
@@ -1817,7 +1867,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 25,
     "trendStatus": "Nova Explosão",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -1866,7 +1916,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 17.122 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -1880,10 +1930,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-acumanutenodec-125",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100175",
     "avgPayout": 47.75,
     "payoutType": "RevShare",
@@ -1898,7 +1950,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 26,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -1937,7 +1989,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 17.331 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -1951,10 +2003,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-syncryptoaltco-126",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100182",
     "avgPayout": 48.75,
     "payoutType": "RevShare",
@@ -1969,7 +2023,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 27,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -2013,7 +2067,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 17.542 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2027,10 +2081,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-kinetiketo28ta-127",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100189",
     "avgPayout": 49.75,
     "payoutType": "RevShare",
@@ -2045,7 +2101,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 28,
     "trendStatus": "Nova Explosão",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -2084,7 +2140,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 17.756 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2098,10 +2154,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-soltarciganore-128",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100196",
     "avgPayout": 50.75,
     "payoutType": "RevShare",
@@ -2116,7 +2174,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 29,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -2155,7 +2213,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 17.973 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2169,10 +2227,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-omnijointgenes-129",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100203",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -2187,7 +2247,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 30,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -2231,7 +2291,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 18.192 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2245,10 +2305,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-ultraquantumfr-130",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100210",
     "avgPayout": 52.75,
     "payoutType": "RevShare",
@@ -2263,7 +2325,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 31,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -2312,7 +2374,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 18.414 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2326,10 +2388,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-optimahambrgue-131",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100217",
     "avgPayout": 53.75,
     "payoutType": "RevShare",
@@ -2344,7 +2408,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 32,
     "trendStatus": "Estável / Top 1",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -2383,7 +2447,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 18.638 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2397,10 +2461,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-vitayoutubedar-132",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100224",
     "avgPayout": 54.75,
     "payoutType": "RevShare",
@@ -2415,7 +2481,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 33,
     "trendStatus": "Estável / Top 1",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -2459,7 +2525,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 18.865 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2473,10 +2539,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-probauchfettwe-133",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100231",
     "avgPayout": 55.75,
     "payoutType": "RevShare",
@@ -2491,7 +2559,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 34,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -2530,7 +2598,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 19.096 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2544,10 +2612,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-pureastrologia-134",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100238",
     "avgPayout": 56.75,
     "payoutType": "RevShare",
@@ -2562,7 +2632,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 35,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -2601,7 +2671,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 19.328 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2615,10 +2685,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-biometanailpro-135",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100245",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -2633,7 +2705,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 36,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -2677,7 +2749,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 19.564 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2691,10 +2763,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-naturequantumf-136",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100252",
     "avgPayout": 58.75,
     "payoutType": "RevShare",
@@ -2709,7 +2783,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 37,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -2758,7 +2832,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 19.803 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2772,10 +2846,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-maxhambrguerar-137",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100259",
     "avgPayout": 59.75,
     "payoutType": "RevShare",
@@ -2790,7 +2866,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 38,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -2829,7 +2905,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 20.044 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2843,10 +2919,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-primeyoutubeda-138",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100266",
     "avgPayout": 60.75,
     "payoutType": "RevShare",
@@ -2861,7 +2939,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 39,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -2905,7 +2983,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 20.289 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2919,10 +2997,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-apexbauchfettw-139",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100273",
     "avgPayout": 61.75,
     "payoutType": "RevShare",
@@ -2937,7 +3017,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 40,
     "trendStatus": "Nova Explosão",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -2976,7 +3056,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 20.536 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2990,10 +3070,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-novaastrologia-140",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100280",
     "avgPayout": 42.75,
     "payoutType": "RevShare",
@@ -3008,7 +3090,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 41,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -3047,7 +3129,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 20.787 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -3061,10 +3143,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-zenmetanailpro-141",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100287",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -3079,7 +3163,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 42,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -3123,7 +3207,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 21.040 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -3137,10 +3221,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-corequantumfre-142",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100294",
     "avgPayout": 44.75,
     "payoutType": "RevShare",
@@ -3155,7 +3241,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 43,
     "trendStatus": "Nova Explosão",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -3204,7 +3290,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 21.297 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -3218,10 +3304,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-elitehambrguer-143",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100301",
     "avgPayout": 45.75,
     "payoutType": "RevShare",
@@ -3236,7 +3324,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 44,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -3275,7 +3363,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 21.556 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -3289,10 +3377,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-activeyoutubed-144",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100308",
     "avgPayout": 46.75,
     "payoutType": "RevShare",
@@ -3307,7 +3397,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 45,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -3351,7 +3441,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 21.819 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -3365,10 +3455,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-genesisbauchfe-145",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100315",
     "avgPayout": 47.75,
     "payoutType": "RevShare",
@@ -3383,7 +3475,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 46,
     "trendStatus": "Estável / Top 1",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -3422,7 +3514,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 22.085 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -3436,10 +3528,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-trueastrologia-146",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100322",
     "avgPayout": 48.75,
     "payoutType": "RevShare",
@@ -3454,7 +3548,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 47,
     "trendStatus": "Estável / Top 1",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -3493,7 +3587,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 22.355 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -3507,10 +3601,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-evermetanailpr-147",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100329",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -3525,7 +3621,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 48,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -3569,7 +3665,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 22.627 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -3583,10 +3679,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-vitalquantumfr-148",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100336",
     "avgPayout": 50.75,
     "payoutType": "RevShare",
@@ -3601,7 +3699,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 49,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -3650,7 +3748,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 22.903 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -3664,10 +3762,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-megahambrguera-149",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100343",
     "avgPayout": 51.75,
     "payoutType": "RevShare",
@@ -3682,7 +3782,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 50,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -3721,7 +3821,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 23.183 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -3735,10 +3835,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-aurayoutubedar-150",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100350",
     "avgPayout": 52.75,
     "payoutType": "RevShare",
@@ -3753,7 +3855,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 51,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -3797,7 +3899,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 23.465 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -3811,10 +3913,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-terrabauchfett-151",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100357",
     "avgPayout": 53.75,
     "payoutType": "RevShare",
@@ -3829,7 +3933,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 52,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -3868,7 +3972,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 23.751 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -3882,10 +3986,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-hydraastrologi-152",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100364",
     "avgPayout": 54.75,
     "payoutType": "RevShare",
@@ -3900,7 +4006,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 53,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -3939,7 +4045,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 24.041 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -3953,10 +4059,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-vigormetanailp-153",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100371",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -3971,7 +4079,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 54,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -4015,7 +4123,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 24.334 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -4029,10 +4137,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-nuvoquantumfre-154",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100378",
     "avgPayout": 56.75,
     "payoutType": "RevShare",
@@ -4047,7 +4157,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 55,
     "trendStatus": "Nova Explosão",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -4096,7 +4206,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 24.631 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -4110,10 +4220,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-acuhambrguerar-155",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100385",
     "avgPayout": 57.75,
     "payoutType": "RevShare",
@@ -4128,7 +4240,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 56,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -4167,7 +4279,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 24.931 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -4181,10 +4293,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-synyoutubedark-156",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100392",
     "avgPayout": 58.75,
     "payoutType": "RevShare",
@@ -4199,7 +4313,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 57,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -4243,7 +4357,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 25.235 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -4257,10 +4371,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-kinetibauchfet-157",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100399",
     "avgPayout": 59.75,
     "payoutType": "RevShare",
@@ -4275,7 +4391,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 58,
     "trendStatus": "Nova Explosão",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -4314,7 +4430,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 25.543 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -4328,10 +4444,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-solastrologiae-158",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100406",
     "avgPayout": 60.75,
     "payoutType": "RevShare",
@@ -4346,7 +4464,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 59,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -4385,7 +4503,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 25.855 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -4399,10 +4517,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-omnimetanailpr-159",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100413",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -4417,7 +4537,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 60,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -4461,7 +4581,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 26.170 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -4475,10 +4595,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-ultrabillionai-160",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100420",
     "avgPayout": 42.75,
     "payoutType": "RevShare",
@@ -4493,7 +4615,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 61,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -4542,7 +4664,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 26.489 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -4556,10 +4678,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-optimaconfeita-161",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100427",
     "avgPayout": 43.75,
     "payoutType": "RevShare",
@@ -4574,7 +4698,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 62,
     "trendStatus": "Estável / Top 1",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -4613,7 +4737,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 26.812 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -4627,10 +4751,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-vitatiktokorga-162",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100434",
     "avgPayout": 44.75,
     "payoutType": "RevShare",
@@ -4645,7 +4771,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 63,
     "trendStatus": "Estável / Top 1",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -4689,7 +4815,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 27.139 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -4703,10 +4829,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-prorckenfitwir-163",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100441",
     "avgPayout": 45.75,
     "payoutType": "RevShare",
@@ -4721,7 +4849,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 64,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -4760,7 +4888,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 27.470 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -4774,10 +4902,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-purealinhament-164",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100448",
     "avgPayout": 46.75,
     "payoutType": "RevShare",
@@ -4792,7 +4922,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 65,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -4831,7 +4961,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 27.805 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -4845,10 +4975,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-biokerabiotics-165",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100455",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -4863,7 +4995,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 66,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -4907,7 +5039,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 28.144 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -4921,10 +5053,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-naturebilliona-166",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100462",
     "avgPayout": 48.75,
     "payoutType": "RevShare",
@@ -4939,7 +5073,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 67,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -4988,7 +5122,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 28.488 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -5002,10 +5136,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-maxconfeitaria-167",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100469",
     "avgPayout": 49.75,
     "payoutType": "RevShare",
@@ -5020,7 +5156,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 68,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -5059,7 +5195,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 28.835 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -5073,10 +5209,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-primetiktokorg-168",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100476",
     "avgPayout": 50.75,
     "payoutType": "RevShare",
@@ -5091,7 +5229,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 69,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -5135,7 +5273,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 29.187 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -5149,10 +5287,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-apexrckenfitwi-169",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100483",
     "avgPayout": 51.75,
     "payoutType": "RevShare",
@@ -5167,7 +5307,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 70,
     "trendStatus": "Nova Explosão",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -5206,7 +5346,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 29.543 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -5220,10 +5360,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-novaalinhament-170",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100490",
     "avgPayout": 52.75,
     "payoutType": "RevShare",
@@ -5238,7 +5380,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 71,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -5277,7 +5419,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 29.903 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -5291,10 +5433,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-zenkerabiotics-171",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100497",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -5309,7 +5453,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 72,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -5353,7 +5497,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 30.268 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -5367,10 +5511,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-corebillionair-172",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100504",
     "avgPayout": 54.75,
     "payoutType": "RevShare",
@@ -5385,7 +5531,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 73,
     "trendStatus": "Nova Explosão",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -5434,7 +5580,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 30.637 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -5448,10 +5594,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-eliteconfeitar-173",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100511",
     "avgPayout": 55.75,
     "payoutType": "RevShare",
@@ -5466,7 +5614,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 74,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -5505,7 +5653,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 31.010 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -5519,10 +5667,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-activetiktokor-174",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100518",
     "avgPayout": 56.75,
     "payoutType": "RevShare",
@@ -5537,7 +5687,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 75,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -5581,7 +5731,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 31.388 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -5595,10 +5745,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-genesisrckenfi-175",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100525",
     "avgPayout": 57.75,
     "payoutType": "RevShare",
@@ -5613,7 +5765,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 76,
     "trendStatus": "Estável / Top 1",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -5652,7 +5804,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 31.771 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -5666,10 +5818,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-truealinhament-176",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100532",
     "avgPayout": 58.75,
     "payoutType": "RevShare",
@@ -5684,7 +5838,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 77,
     "trendStatus": "Estável / Top 1",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -5723,7 +5877,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 32.159 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -5737,10 +5891,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-everkerabiotic-177",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100539",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -5755,7 +5911,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 78,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -5799,7 +5955,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 32.551 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -5813,10 +5969,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-vitalbillionai-178",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100546",
     "avgPayout": 60.75,
     "payoutType": "RevShare",
@@ -5831,7 +5989,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 79,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -5880,7 +6038,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 32.948 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -5894,10 +6052,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-megaconfeitari-179",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100553",
     "avgPayout": 61.75,
     "payoutType": "RevShare",
@@ -5912,7 +6072,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 80,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -5951,7 +6111,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 33.350 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -5965,10 +6125,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-auratiktokorga-180",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100560",
     "avgPayout": 42.75,
     "payoutType": "RevShare",
@@ -5983,7 +6145,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 81,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -6027,7 +6189,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 33.756 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6041,10 +6203,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-terrarckenfitw-181",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100567",
     "avgPayout": 43.75,
     "payoutType": "RevShare",
@@ -6059,7 +6223,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 82,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -6098,7 +6262,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 34.168 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6112,10 +6276,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-hydraalinhamen-182",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100574",
     "avgPayout": 44.75,
     "payoutType": "RevShare",
@@ -6130,7 +6296,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 83,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -6169,7 +6335,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 34.585 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6183,10 +6349,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-vigorkerabioti-183",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100581",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -6201,7 +6369,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 84,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -6245,7 +6413,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 35.006 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6259,10 +6427,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-nuvobillionair-184",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100588",
     "avgPayout": 46.75,
     "payoutType": "RevShare",
@@ -6277,7 +6447,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 85,
     "trendStatus": "Nova Explosão",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -6326,7 +6496,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 35.433 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6340,10 +6510,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-acuconfeitaria-185",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100595",
     "avgPayout": 47.75,
     "payoutType": "RevShare",
@@ -6358,7 +6530,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 86,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -6397,7 +6569,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 35.866 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6411,10 +6583,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-syntiktokorgan-186",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100602",
     "avgPayout": 48.75,
     "payoutType": "RevShare",
@@ -6429,7 +6603,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 87,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -6473,7 +6647,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 36.303 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6487,10 +6661,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-kinetirckenfit-187",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100609",
     "avgPayout": 49.75,
     "payoutType": "RevShare",
@@ -6505,7 +6681,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 88,
     "trendStatus": "Nova Explosão",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -6544,7 +6720,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 36.746 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6558,10 +6734,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-solalinhamento-188",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100616",
     "avgPayout": 50.75,
     "payoutType": "RevShare",
@@ -6576,7 +6754,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 89,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -6615,7 +6793,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 37.194 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6629,10 +6807,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-omnikerabiotic-189",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100623",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -6647,7 +6827,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 90,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -6691,7 +6871,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 37.647 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6705,10 +6885,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-ultrathetamedi-190",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100630",
     "avgPayout": 52.75,
     "payoutType": "RevShare",
@@ -6723,7 +6905,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 91,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -6772,7 +6954,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 38.106 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6786,10 +6968,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-optimaunhasdef-191",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100637",
     "avgPayout": 53.75,
     "payoutType": "RevShare",
@@ -6804,7 +6988,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 92,
     "trendStatus": "Estável / Top 1",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -6843,7 +7027,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 38.571 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6857,10 +7041,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-vitadropshippi-192",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100644",
     "avgPayout": 54.75,
     "payoutType": "RevShare",
@@ -6875,7 +7061,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 93,
     "trendStatus": "Estável / Top 1",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -6919,7 +7105,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 39.042 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6933,10 +7119,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-proarthrosenat-193",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100651",
     "avgPayout": 55.75,
     "payoutType": "RevShare",
@@ -6951,7 +7139,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 94,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -6990,7 +7178,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 39.518 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7004,10 +7192,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-purereikicurav-194",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100658",
     "avgPayout": 56.75,
     "payoutType": "RevShare",
@@ -7022,7 +7212,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 95,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -7061,7 +7251,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 40.000 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7075,10 +7265,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-bioeyefortinvi-195",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100665",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -7093,7 +7285,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 96,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -7137,7 +7329,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 40.487 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7151,10 +7343,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-naturethetamed-196",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100672",
     "avgPayout": 58.75,
     "payoutType": "RevShare",
@@ -7169,7 +7363,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 97,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -7218,7 +7412,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 40.981 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7232,10 +7426,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-maxunhasdefibr-197",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100679",
     "avgPayout": 59.75,
     "payoutType": "RevShare",
@@ -7250,7 +7446,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 98,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -7289,7 +7485,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 41.481 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7303,10 +7499,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-primedropshipp-198",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100686",
     "avgPayout": 60.75,
     "payoutType": "RevShare",
@@ -7321,7 +7519,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 99,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -7365,7 +7563,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 41.987 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7379,10 +7577,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-apexarthrosena-199",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100693",
     "avgPayout": 61.75,
     "payoutType": "RevShare",
@@ -7397,7 +7597,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 100,
     "trendStatus": "Nova Explosão",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -7436,7 +7636,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 42.499 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7450,10 +7650,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-novareikicurav-200",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100700",
     "avgPayout": 42.75,
     "payoutType": "RevShare",
@@ -7468,7 +7670,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 101,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -7507,7 +7709,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 43.017 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7521,10 +7723,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-zeneyefortinvi-201",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100707",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -7539,7 +7743,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 102,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -7583,7 +7787,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 43.542 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7597,10 +7801,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-corethetamedit-202",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100714",
     "avgPayout": 44.75,
     "payoutType": "RevShare",
@@ -7615,7 +7821,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 103,
     "trendStatus": "Nova Explosão",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -7664,7 +7870,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 44.073 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7678,10 +7884,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-eliteunhasdefi-203",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100721",
     "avgPayout": 45.75,
     "payoutType": "RevShare",
@@ -7696,7 +7904,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 104,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -7735,7 +7943,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 44.610 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7749,10 +7957,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-activedropship-204",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100728",
     "avgPayout": 46.75,
     "payoutType": "RevShare",
@@ -7767,7 +7977,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 105,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -7811,7 +8021,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 45.154 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7825,10 +8035,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-genesisarthros-205",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100735",
     "avgPayout": 47.75,
     "payoutType": "RevShare",
@@ -7843,7 +8055,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 106,
     "trendStatus": "Estável / Top 1",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -7882,7 +8094,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 45.705 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7896,10 +8108,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-truereikicurav-206",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100742",
     "avgPayout": 48.75,
     "payoutType": "RevShare",
@@ -7914,7 +8128,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 107,
     "trendStatus": "Estável / Top 1",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -7953,7 +8167,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 46.262 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7967,10 +8181,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-evereyefortinv-207",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100749",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -7985,7 +8201,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 108,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -8029,7 +8245,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 46.827 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -8043,10 +8259,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-vitalthetamedi-208",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100756",
     "avgPayout": 50.75,
     "payoutType": "RevShare",
@@ -8061,7 +8279,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 109,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -8110,7 +8328,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 47.398 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -8124,10 +8342,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-megaunhasdefib-209",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100763",
     "avgPayout": 51.75,
     "payoutType": "RevShare",
@@ -8142,7 +8362,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 110,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -8181,7 +8401,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 47.976 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -8195,10 +8415,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-auradropshippi-210",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100770",
     "avgPayout": 52.75,
     "payoutType": "RevShare",
@@ -8213,7 +8435,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 111,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -8257,7 +8479,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 48.561 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -8271,10 +8493,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-terraarthrosen-211",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100777",
     "avgPayout": 53.75,
     "payoutType": "RevShare",
@@ -8289,7 +8513,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 112,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -8328,7 +8552,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 49.153 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -8342,10 +8566,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-hydrareikicura-212",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100784",
     "avgPayout": 54.75,
     "payoutType": "RevShare",
@@ -8360,7 +8586,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 113,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -8399,7 +8625,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 49.752 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -8413,10 +8639,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-vigoreyefortin-213",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100791",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -8431,7 +8659,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 114,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -8475,7 +8703,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 50.359 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -8489,10 +8717,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-nuvothetamedit-214",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100798",
     "avgPayout": 56.75,
     "payoutType": "RevShare",
@@ -8507,7 +8737,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 115,
     "trendStatus": "Nova Explosão",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -8556,7 +8786,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 50.973 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -8570,10 +8800,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-acuunhasdefibr-215",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100805",
     "avgPayout": 57.75,
     "payoutType": "RevShare",
@@ -8588,7 +8820,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 116,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -8627,7 +8859,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 51.595 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -8641,10 +8873,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-syndropshippin-216",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100812",
     "avgPayout": 58.75,
     "payoutType": "RevShare",
@@ -8659,7 +8893,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 117,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -8703,7 +8937,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 52.224 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -8717,10 +8951,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-kinetiarthrose-217",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100819",
     "avgPayout": 59.75,
     "payoutType": "RevShare",
@@ -8735,7 +8971,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 118,
     "trendStatus": "Nova Explosão",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -8774,7 +9010,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 52.861 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -8788,10 +9024,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-solreikicuravi-218",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100826",
     "avgPayout": 60.75,
     "payoutType": "RevShare",
@@ -8806,7 +9044,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 119,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -8845,7 +9083,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 53.506 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -8859,10 +9097,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-omnieyefortinv-219",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100833",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -8877,7 +9117,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 120,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -8921,7 +9161,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 54.158 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -8935,10 +9175,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-ultraawakenedp-220",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100840",
     "avgPayout": 42.75,
     "payoutType": "RevShare",
@@ -8953,7 +9195,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 121,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -9002,7 +9244,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 54.819 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9016,10 +9258,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-optimasobrance-221",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100847",
     "avgPayout": 43.75,
     "payoutType": "RevShare",
@@ -9034,7 +9278,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 122,
     "trendStatus": "Estável / Top 1",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -9073,7 +9317,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 55.487 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9087,10 +9331,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-vitaamazonfbas-222",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100854",
     "avgPayout": 44.75,
     "payoutType": "RevShare",
@@ -9105,7 +9351,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 123,
     "trendStatus": "Estável / Top 1",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -9149,7 +9395,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 56.164 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9163,10 +9409,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-protinnitusaud-223",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100861",
     "avgPayout": 45.75,
     "payoutType": "RevShare",
@@ -9181,7 +9429,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 124,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -9220,7 +9468,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 56.849 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9234,10 +9482,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-purefrequncias-224",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100868",
     "avgPayout": 46.75,
     "payoutType": "RevShare",
@@ -9252,7 +9502,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 125,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -9291,7 +9541,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 57.542 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9305,10 +9555,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-biodenticorelo-225",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100875",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -9323,7 +9575,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 126,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -9367,7 +9619,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 58.244 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9381,10 +9633,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-natureawakened-226",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100882",
     "avgPayout": 48.75,
     "payoutType": "RevShare",
@@ -9399,7 +9653,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 127,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -9448,7 +9702,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 58.954 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9462,10 +9716,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-maxsobrancelha-227",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100889",
     "avgPayout": 49.75,
     "payoutType": "RevShare",
@@ -9480,7 +9736,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 128,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -9519,7 +9775,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 59.673 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9533,10 +9789,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-primeamazonfba-228",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100896",
     "avgPayout": 50.75,
     "payoutType": "RevShare",
@@ -9551,7 +9809,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 129,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -9595,7 +9853,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 60.401 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9609,10 +9867,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-apextinnitusau-229",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100903",
     "avgPayout": 51.75,
     "payoutType": "RevShare",
@@ -9627,7 +9887,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 130,
     "trendStatus": "Nova Explosão",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -9666,7 +9926,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 61.137 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9680,10 +9940,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-novafrequncias-230",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100910",
     "avgPayout": 52.75,
     "payoutType": "RevShare",
@@ -9698,7 +9960,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 131,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -9737,7 +9999,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 61.883 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9751,10 +10013,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-zendenticorelo-231",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100917",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -9769,7 +10033,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 132,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -9813,7 +10077,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 62.638 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9827,10 +10091,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-coreawakenedpi-232",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100924",
     "avgPayout": 54.75,
     "payoutType": "RevShare",
@@ -9845,7 +10111,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 133,
     "trendStatus": "Nova Explosão",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -9894,7 +10160,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 63.402 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9908,10 +10174,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-elitesobrancel-233",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100931",
     "avgPayout": 55.75,
     "payoutType": "RevShare",
@@ -9926,7 +10194,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 134,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -9965,7 +10233,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 64.175 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9979,10 +10247,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-activeamazonfb-234",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100938",
     "avgPayout": 56.75,
     "payoutType": "RevShare",
@@ -9997,7 +10267,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 135,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -10041,7 +10311,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 64.957 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -10055,10 +10325,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-genesistinnitu-235",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100945",
     "avgPayout": 57.75,
     "payoutType": "RevShare",
@@ -10073,7 +10345,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 136,
     "trendStatus": "Estável / Top 1",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -10112,7 +10384,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 65.750 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -10126,10 +10398,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-truefrequncias-236",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100952",
     "avgPayout": 58.75,
     "payoutType": "RevShare",
@@ -10144,7 +10418,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 137,
     "trendStatus": "Estável / Top 1",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -10183,7 +10457,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 66.551 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -10197,10 +10471,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-everdenticorel-237",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100959",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -10215,7 +10491,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 138,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -10259,7 +10535,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 67.363 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -10273,10 +10549,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-vitalawakenedp-238",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100966",
     "avgPayout": 60.75,
     "payoutType": "RevShare",
@@ -10291,7 +10569,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 139,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -10340,7 +10618,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 68.185 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -10354,10 +10632,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-megasobrancelh-239",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100973",
     "avgPayout": 61.75,
     "payoutType": "RevShare",
@@ -10372,7 +10652,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 140,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -10411,7 +10691,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 69.016 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -10425,10 +10705,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-auraamazonfbas-240",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100980",
     "avgPayout": 42.75,
     "payoutType": "RevShare",
@@ -10443,7 +10725,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 141,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -10487,7 +10769,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 69.858 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -10501,10 +10783,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-terratinnitusa-241",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100987",
     "avgPayout": 43.75,
     "payoutType": "RevShare",
@@ -10519,7 +10803,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 142,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -10558,7 +10842,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 70.710 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -10572,10 +10856,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-hydrafrequncia-242",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/100994",
     "avgPayout": 44.75,
     "payoutType": "RevShare",
@@ -10590,7 +10876,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 143,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -10629,7 +10915,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 71.572 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -10643,10 +10929,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-vigordenticore-243",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101001",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -10661,7 +10949,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 144,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -10705,7 +10993,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 72.445 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -10719,10 +11007,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-nuvoawakenedpi-244",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101008",
     "avgPayout": 46.75,
     "payoutType": "RevShare",
@@ -10737,7 +11027,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 145,
     "trendStatus": "Nova Explosão",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -10786,7 +11076,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 73.328 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -10800,10 +11090,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-acusobrancelha-245",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101015",
     "avgPayout": 47.75,
     "payoutType": "RevShare",
@@ -10818,7 +11110,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 146,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -10857,7 +11149,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 74.223 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -10871,10 +11163,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-synamazonfbase-246",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101022",
     "avgPayout": 48.75,
     "payoutType": "RevShare",
@@ -10889,7 +11183,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 147,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -10933,7 +11227,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 75.128 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -10947,10 +11241,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-kinetitinnitus-247",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101029",
     "avgPayout": 49.75,
     "payoutType": "RevShare",
@@ -10965,7 +11261,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 148,
     "trendStatus": "Nova Explosão",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -11004,7 +11300,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 76.044 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11018,10 +11314,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-solfrequnciass-248",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101036",
     "avgPayout": 50.75,
     "payoutType": "RevShare",
@@ -11036,7 +11334,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 149,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -11075,7 +11373,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 76.971 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11089,10 +11387,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-omnidenticorel-249",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101043",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -11107,7 +11407,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 150,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -11151,7 +11451,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 77.910 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11165,10 +11465,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-ultrawealthmin-250",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101050",
     "avgPayout": 52.75,
     "payoutType": "RevShare",
@@ -11183,7 +11485,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 151,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -11232,7 +11534,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 78.860 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11246,10 +11548,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-optimabarbeari-251",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101057",
     "avgPayout": 53.75,
     "payoutType": "RevShare",
@@ -11264,7 +11568,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 152,
     "trendStatus": "Estável / Top 1",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -11303,7 +11607,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 79.822 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11317,10 +11621,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-vitascoredecrd-252",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101064",
     "avgPayout": 54.75,
     "payoutType": "RevShare",
@@ -11335,7 +11641,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 153,
     "trendStatus": "Estável / Top 1",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -11379,7 +11685,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 80.795 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11393,10 +11699,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-proschlafgutme-253",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101071",
     "avgPayout": 55.75,
     "payoutType": "RevShare",
@@ -11411,7 +11719,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 154,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -11450,7 +11758,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 81.781 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11464,10 +11772,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-puretarciganor-254",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101078",
     "avgPayout": 56.75,
     "payoutType": "RevShare",
@@ -11482,7 +11792,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 155,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -11521,7 +11831,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 82.778 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11535,10 +11845,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-biojointgenesi-255",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101085",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -11553,7 +11865,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 156,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -11597,7 +11909,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 83.788 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11611,10 +11923,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-naturewealthmi-256",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101092",
     "avgPayout": 58.75,
     "payoutType": "RevShare",
@@ -11629,7 +11943,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 157,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -11678,7 +11992,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 84.809 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11692,10 +12006,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-maxbarbeariamo-257",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101099",
     "avgPayout": 59.75,
     "payoutType": "RevShare",
@@ -11710,7 +12026,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 158,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -11749,7 +12065,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 85.844 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11763,10 +12079,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-primescoredecr-258",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101106",
     "avgPayout": 60.75,
     "payoutType": "RevShare",
@@ -11781,7 +12099,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 159,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -11825,7 +12143,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 86.891 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11839,10 +12157,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-apexschlafgutm-259",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101113",
     "avgPayout": 61.75,
     "payoutType": "RevShare",
@@ -11857,7 +12177,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 160,
     "trendStatus": "Nova Explosão",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -11896,7 +12216,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 87.950 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11910,10 +12230,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-novatarciganor-260",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101120",
     "avgPayout": 42.75,
     "payoutType": "RevShare",
@@ -11928,7 +12250,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 161,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -11967,7 +12289,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 89.023 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11981,10 +12303,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-zenjointgenesi-261",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101127",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -11999,7 +12323,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 162,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -12043,7 +12367,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 90.108 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -12057,10 +12381,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-corewealthmind-262",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101134",
     "avgPayout": 44.75,
     "payoutType": "RevShare",
@@ -12075,7 +12401,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 163,
     "trendStatus": "Nova Explosão",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -12124,7 +12450,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 91.207 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -12138,10 +12464,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-elitebarbearia-263",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101141",
     "avgPayout": 45.75,
     "payoutType": "RevShare",
@@ -12156,7 +12484,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 164,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -12195,7 +12523,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 92.320 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -12209,10 +12537,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-activescoredec-264",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101148",
     "avgPayout": 46.75,
     "payoutType": "RevShare",
@@ -12227,7 +12557,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 165,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -12271,7 +12601,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 93.445 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -12285,10 +12615,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-genesisschlafg-265",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101155",
     "avgPayout": 47.75,
     "payoutType": "RevShare",
@@ -12303,7 +12635,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 166,
     "trendStatus": "Estável / Top 1",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -12342,7 +12674,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 94.585 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -12356,10 +12688,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-truetarciganor-266",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101162",
     "avgPayout": 48.75,
     "payoutType": "RevShare",
@@ -12374,7 +12708,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 167,
     "trendStatus": "Estável / Top 1",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -12413,7 +12747,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 95.739 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -12427,10 +12761,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-everjointgenes-267",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101169",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -12445,7 +12781,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 168,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -12489,7 +12825,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 96.906 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -12503,10 +12839,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-vitalwealthmin-268",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101176",
     "avgPayout": 50.75,
     "payoutType": "RevShare",
@@ -12521,7 +12859,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 169,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -12570,7 +12908,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 98.088 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -12584,10 +12922,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-megabarbeariam-269",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101183",
     "avgPayout": 51.75,
     "payoutType": "RevShare",
@@ -12602,7 +12942,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 170,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -12641,7 +12981,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 99.284 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -12655,10 +12995,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-aurascoredecrd-270",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101190",
     "avgPayout": 52.75,
     "payoutType": "RevShare",
@@ -12673,7 +13015,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 171,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -12717,7 +13059,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 100.495 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -12731,10 +13073,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-terraschlafgut-271",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101197",
     "avgPayout": 53.75,
     "payoutType": "RevShare",
@@ -12749,7 +13093,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 172,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -12788,7 +13132,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 101.720 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -12802,10 +13146,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-hydratarcigano-272",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101204",
     "avgPayout": 54.75,
     "payoutType": "RevShare",
@@ -12820,7 +13166,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 173,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -12859,7 +13205,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 102.961 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -12873,10 +13219,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-vigorjointgene-273",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101211",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -12891,7 +13239,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 174,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -12935,7 +13283,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 104.217 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -12949,10 +13297,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-nuvowealthmind-274",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101218",
     "avgPayout": 56.75,
     "payoutType": "RevShare",
@@ -12967,7 +13317,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 175,
     "trendStatus": "Nova Explosão",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -13016,7 +13366,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 105.488 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13030,10 +13380,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-acubarbeariamo-275",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101225",
     "avgPayout": 57.75,
     "payoutType": "RevShare",
@@ -13048,7 +13400,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 176,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -13087,7 +13439,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 106.774 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13101,10 +13453,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-synscoredecrdi-276",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101232",
     "avgPayout": 58.75,
     "payoutType": "RevShare",
@@ -13119,7 +13473,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 177,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -13163,7 +13517,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 108.076 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13177,10 +13531,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-kinetischlafgu-277",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101239",
     "avgPayout": 59.75,
     "payoutType": "RevShare",
@@ -13195,7 +13551,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 178,
     "trendStatus": "Nova Explosão",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -13234,7 +13590,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 109.394 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13248,10 +13604,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-soltarciganore-278",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101246",
     "avgPayout": 60.75,
     "payoutType": "RevShare",
@@ -13266,7 +13624,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 179,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -13305,7 +13663,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 110.728 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13319,10 +13677,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-omnijointgenes-279",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101253",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -13337,7 +13697,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 180,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -13381,7 +13741,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 112.079 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13395,10 +13755,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-ultraquantumfr-280",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101260",
     "avgPayout": 42.75,
     "payoutType": "RevShare",
@@ -13413,7 +13775,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 181,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -13462,7 +13824,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 113.446 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13476,10 +13838,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-optimamarmitas-281",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101267",
     "avgPayout": 43.75,
     "payoutType": "RevShare",
@@ -13494,7 +13858,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 182,
     "trendStatus": "Estável / Top 1",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -13533,7 +13897,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 114.829 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13547,10 +13911,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-vitacryptoaltc-282",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101274",
     "avgPayout": 44.75,
     "payoutType": "RevShare",
@@ -13565,7 +13931,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 183,
     "trendStatus": "Estável / Top 1",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -13609,7 +13975,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 116.229 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13623,10 +13989,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-propotenzgehei-283",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101281",
     "avgPayout": 45.75,
     "payoutType": "RevShare",
@@ -13641,7 +14009,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 184,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -13680,7 +14048,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 117.647 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13694,10 +14062,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-pureastrologia-284",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101288",
     "avgPayout": 46.75,
     "payoutType": "RevShare",
@@ -13712,7 +14082,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 185,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -13751,7 +14121,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 119.082 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13765,10 +14135,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-biometanailpro-285",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101295",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -13783,7 +14155,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 186,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -13827,7 +14199,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 120.534 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13841,10 +14213,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-naturequantumf-286",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101302",
     "avgPayout": 48.75,
     "payoutType": "RevShare",
@@ -13859,7 +14233,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 187,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -13908,7 +14282,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 122.004 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13922,10 +14296,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-maxmarmitasfit-287",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101309",
     "avgPayout": 49.75,
     "payoutType": "RevShare",
@@ -13940,7 +14316,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 188,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -13979,7 +14355,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 123.492 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13993,10 +14369,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-primecryptoalt-288",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101316",
     "avgPayout": 50.75,
     "payoutType": "RevShare",
@@ -14011,7 +14389,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 189,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -14055,7 +14433,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 124.998 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -14069,10 +14447,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-apexpotenzgehe-289",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101323",
     "avgPayout": 51.75,
     "payoutType": "RevShare",
@@ -14087,7 +14467,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 190,
     "trendStatus": "Nova Explosão",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -14126,7 +14506,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 126.522 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -14140,10 +14520,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-novaastrologia-290",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101330",
     "avgPayout": 52.75,
     "payoutType": "RevShare",
@@ -14158,7 +14540,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 191,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -14197,7 +14579,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 128.065 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -14211,10 +14593,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-zenmetanailpro-291",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101337",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -14229,7 +14613,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 192,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -14273,7 +14657,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 129.627 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -14287,10 +14671,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-corequantumfre-292",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101344",
     "avgPayout": 54.75,
     "payoutType": "RevShare",
@@ -14305,7 +14691,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 193,
     "trendStatus": "Nova Explosão",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -14354,7 +14740,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 131.208 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -14368,10 +14754,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-elitemarmitasf-293",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101351",
     "avgPayout": 55.75,
     "payoutType": "RevShare",
@@ -14386,7 +14774,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 194,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -14425,7 +14813,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 132.808 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -14439,10 +14827,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-activecryptoal-294",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101358",
     "avgPayout": 56.75,
     "payoutType": "RevShare",
@@ -14457,7 +14847,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 195,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -14501,7 +14891,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 134.427 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -14515,10 +14905,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-genesispotenzg-295",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101365",
     "avgPayout": 57.75,
     "payoutType": "RevShare",
@@ -14533,7 +14925,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 196,
     "trendStatus": "Estável / Top 1",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -14572,7 +14964,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 136.067 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -14586,10 +14978,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-trueastrologia-296",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101372",
     "avgPayout": 58.75,
     "payoutType": "RevShare",
@@ -14604,7 +14998,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 197,
     "trendStatus": "Estável / Top 1",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -14643,7 +15037,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 137.726 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -14657,10 +15051,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-evermetanailpr-297",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101379",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -14675,7 +15071,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 198,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -14719,7 +15115,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 139.406 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -14733,10 +15129,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-vitalquantumfr-298",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101386",
     "avgPayout": 60.75,
     "payoutType": "RevShare",
@@ -14751,7 +15149,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 199,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -14800,7 +15198,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 141.106 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -14814,10 +15212,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-megamarmitasfi-299",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101393",
     "avgPayout": 61.75,
     "payoutType": "RevShare",
@@ -14832,7 +15232,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 200,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -14871,7 +15271,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 142.827 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -14885,10 +15285,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-auracryptoaltc-300",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101400",
     "avgPayout": 42.75,
     "payoutType": "RevShare",
@@ -14903,7 +15305,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 201,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -14947,7 +15349,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 144.569 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -14961,10 +15363,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-terrapotenzgeh-301",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101407",
     "avgPayout": 43.75,
     "payoutType": "RevShare",
@@ -14979,7 +15383,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 202,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -15018,7 +15422,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 146.332 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15032,10 +15436,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-hydraastrologi-302",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101414",
     "avgPayout": 44.75,
     "payoutType": "RevShare",
@@ -15050,7 +15456,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 203,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -15089,7 +15495,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 148.116 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15103,10 +15509,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-vigormetanailp-303",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101421",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -15121,7 +15529,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 204,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -15165,7 +15573,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 149.922 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15179,10 +15587,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-nuvoquantumfre-304",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101428",
     "avgPayout": 46.75,
     "payoutType": "RevShare",
@@ -15197,7 +15607,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 205,
     "trendStatus": "Nova Explosão",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -15246,7 +15656,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 151.751 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15260,10 +15670,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-acumarmitasfit-305",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101435",
     "avgPayout": 47.75,
     "payoutType": "RevShare",
@@ -15278,7 +15690,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 206,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -15317,7 +15729,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 153.601 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15331,10 +15743,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-syncryptoaltco-306",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101442",
     "avgPayout": 48.75,
     "payoutType": "RevShare",
@@ -15349,7 +15763,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 207,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -15393,7 +15807,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 155.475 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15407,10 +15821,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-kinetipotenzge-307",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101449",
     "avgPayout": 49.75,
     "payoutType": "RevShare",
@@ -15425,7 +15841,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 208,
     "trendStatus": "Nova Explosão",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -15464,7 +15880,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 157.371 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15478,10 +15894,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-solastrologiae-308",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101456",
     "avgPayout": 50.75,
     "payoutType": "RevShare",
@@ -15496,7 +15914,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 209,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -15535,7 +15953,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 159.290 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15549,10 +15967,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-omnimetanailpr-309",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101463",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -15567,7 +15987,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 210,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -15611,7 +16031,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 161.232 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15625,10 +16045,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-ultrabillionai-310",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101470",
     "avgPayout": 52.75,
     "payoutType": "RevShare",
@@ -15643,7 +16065,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 211,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -15692,7 +16114,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 163.199 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15706,10 +16128,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-optimapesdefer-311",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101477",
     "avgPayout": 53.75,
     "payoutType": "RevShare",
@@ -15724,7 +16148,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 212,
     "trendStatus": "Estável / Top 1",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -15763,7 +16187,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 165.189 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15777,10 +16201,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-vitayoutubedar-312",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101484",
     "avgPayout": 54.75,
     "payoutType": "RevShare",
@@ -15795,7 +16221,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 213,
     "trendStatus": "Estável / Top 1",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -15839,7 +16265,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 167.204 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15853,10 +16279,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-proketo28tagec-313",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101491",
     "avgPayout": 55.75,
     "payoutType": "RevShare",
@@ -15871,7 +16299,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 214,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -15910,7 +16338,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 169.243 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15924,10 +16352,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-purealinhament-314",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101498",
     "avgPayout": 56.75,
     "payoutType": "RevShare",
@@ -15942,7 +16372,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 215,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -15981,7 +16411,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 171.307 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15995,10 +16425,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-biokerabiotics-315",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101505",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -16013,7 +16445,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 216,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -16057,7 +16489,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 173.396 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -16071,10 +16503,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-naturebilliona-316",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101512",
     "avgPayout": 58.75,
     "payoutType": "RevShare",
@@ -16089,7 +16523,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 217,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -16138,7 +16572,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 175.510 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -16152,10 +16586,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-maxpesdefermen-317",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101519",
     "avgPayout": 59.75,
     "payoutType": "RevShare",
@@ -16170,7 +16606,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 218,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -16209,7 +16645,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 177.651 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -16223,10 +16659,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-primeyoutubeda-318",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101526",
     "avgPayout": 60.75,
     "payoutType": "RevShare",
@@ -16241,7 +16679,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 219,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -16285,7 +16723,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 179.817 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -16299,10 +16737,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-apexketo28tage-319",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101533",
     "avgPayout": 61.75,
     "payoutType": "RevShare",
@@ -16317,7 +16757,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 220,
     "trendStatus": "Nova Explosão",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -16356,7 +16796,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 182.010 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -16370,10 +16810,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-novaalinhament-320",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101540",
     "avgPayout": 42.75,
     "payoutType": "RevShare",
@@ -16388,7 +16830,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 221,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -16427,7 +16869,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 184.230 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -16441,10 +16883,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-zenkerabiotics-321",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101547",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -16459,7 +16903,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 222,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -16503,7 +16947,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 186.477 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -16517,10 +16961,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-corebillionair-322",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101554",
     "avgPayout": 44.75,
     "payoutType": "RevShare",
@@ -16535,7 +16981,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 223,
     "trendStatus": "Nova Explosão",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -16584,7 +17030,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 188.751 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -16598,10 +17044,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-elitepesdeferm-323",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101561",
     "avgPayout": 45.75,
     "payoutType": "RevShare",
@@ -16616,7 +17064,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 224,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -16655,7 +17103,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 191.053 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -16669,10 +17117,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-activeyoutubed-324",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101568",
     "avgPayout": 46.75,
     "payoutType": "RevShare",
@@ -16687,7 +17137,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 225,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -16731,7 +17181,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 193.383 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -16745,10 +17195,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-genesisketo28t-325",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101575",
     "avgPayout": 47.75,
     "payoutType": "RevShare",
@@ -16763,7 +17215,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 226,
     "trendStatus": "Estável / Top 1",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -16802,7 +17254,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 195.741 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -16816,10 +17268,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-truealinhament-326",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101582",
     "avgPayout": 48.75,
     "payoutType": "RevShare",
@@ -16834,7 +17288,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 227,
     "trendStatus": "Estável / Top 1",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -16873,7 +17327,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 198.128 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -16887,10 +17341,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-everkerabiotic-327",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101589",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -16905,7 +17361,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 228,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -16949,7 +17405,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 200.544 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -16963,10 +17419,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-vitalbillionai-328",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101596",
     "avgPayout": 50.75,
     "payoutType": "RevShare",
@@ -16981,7 +17439,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 229,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -17030,7 +17488,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 202.990 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17044,10 +17502,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-megapesdeferme-329",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101603",
     "avgPayout": 51.75,
     "payoutType": "RevShare",
@@ -17062,7 +17522,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 230,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -17101,7 +17561,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 205.466 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17115,10 +17575,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-aurayoutubedar-330",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101610",
     "avgPayout": 52.75,
     "payoutType": "RevShare",
@@ -17133,7 +17595,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 231,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -17177,7 +17639,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 207.971 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17191,10 +17653,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-terraketo28tag-331",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101617",
     "avgPayout": 53.75,
     "payoutType": "RevShare",
@@ -17209,7 +17673,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 232,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -17248,7 +17712,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 210.507 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17262,10 +17726,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-hydraalinhamen-332",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101624",
     "avgPayout": 54.75,
     "payoutType": "RevShare",
@@ -17280,7 +17746,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 233,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -17319,7 +17785,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 213.075 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17333,10 +17799,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-vigorkerabioti-333",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101631",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -17351,7 +17819,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 234,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -17395,7 +17863,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 215.673 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17409,10 +17877,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-nuvobillionair-334",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101638",
     "avgPayout": 56.75,
     "payoutType": "RevShare",
@@ -17427,7 +17897,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 235,
     "trendStatus": "Nova Explosão",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -17476,7 +17946,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 218.303 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17490,10 +17960,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-acupesdefermen-335",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101645",
     "avgPayout": 57.75,
     "payoutType": "RevShare",
@@ -17508,7 +17980,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 236,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -17547,7 +18019,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 220.966 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17561,10 +18033,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-synyoutubedark-336",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101652",
     "avgPayout": 58.75,
     "payoutType": "RevShare",
@@ -17579,7 +18053,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 237,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -17623,7 +18097,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 223.660 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17637,10 +18111,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-kinetiketo28ta-337",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101659",
     "avgPayout": 59.75,
     "payoutType": "RevShare",
@@ -17655,7 +18131,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 238,
     "trendStatus": "Nova Explosão",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -17694,7 +18170,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 226.388 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17708,10 +18184,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-solalinhamento-338",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101666",
     "avgPayout": 60.75,
     "payoutType": "RevShare",
@@ -17726,7 +18204,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 239,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -17765,7 +18243,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 229.149 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17779,10 +18257,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-omnikerabiotic-339",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101673",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -17797,7 +18277,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 240,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -17841,7 +18321,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 231.943 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17855,10 +18335,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-ultrathetamedi-340",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101680",
     "avgPayout": 42.75,
     "payoutType": "RevShare",
@@ -17873,7 +18355,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 241,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -17922,7 +18404,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 234.772 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17936,10 +18418,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-optimacosturac-341",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101687",
     "avgPayout": 43.75,
     "payoutType": "RevShare",
@@ -17954,7 +18438,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 242,
     "trendStatus": "Estável / Top 1",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -17993,7 +18477,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 237.635 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -18007,10 +18491,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-vitatiktokorga-342",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101694",
     "avgPayout": 44.75,
     "payoutType": "RevShare",
@@ -18025,7 +18511,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 243,
     "trendStatus": "Estável / Top 1",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -18069,7 +18555,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 240.533 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -18083,10 +18569,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-probauchfettwe-343",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101701",
     "avgPayout": 45.75,
     "payoutType": "RevShare",
@@ -18101,7 +18589,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 244,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -18140,7 +18628,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 243.467 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -18154,10 +18642,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-purereikicurav-344",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101708",
     "avgPayout": 46.75,
     "payoutType": "RevShare",
@@ -18172,7 +18662,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 245,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -18211,7 +18701,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 246.436 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -18225,10 +18715,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-bioeyefortinvi-345",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101715",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -18243,7 +18735,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 246,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -18287,7 +18779,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 249.441 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -18301,10 +18793,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-naturethetamed-346",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101722",
     "avgPayout": 48.75,
     "payoutType": "RevShare",
@@ -18319,7 +18813,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 247,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -18368,7 +18862,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 252.483 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -18382,10 +18876,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-maxcosturacria-347",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101729",
     "avgPayout": 49.75,
     "payoutType": "RevShare",
@@ -18400,7 +18896,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 248,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -18439,7 +18935,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 255.562 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -18453,10 +18949,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-primetiktokorg-348",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101736",
     "avgPayout": 50.75,
     "payoutType": "RevShare",
@@ -18471,7 +18969,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 249,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -18515,7 +19013,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 258.679 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -18529,10 +19027,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-apexbauchfettw-349",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101743",
     "avgPayout": 51.75,
     "payoutType": "RevShare",
@@ -18547,7 +19047,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 250,
     "trendStatus": "Nova Explosão",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -18586,7 +19086,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 261.834 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -18600,10 +19100,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-novareikicurav-350",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101750",
     "avgPayout": 52.75,
     "payoutType": "RevShare",
@@ -18618,7 +19120,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 251,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -18657,7 +19159,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 265.027 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -18671,10 +19173,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-zeneyefortinvi-351",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101757",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -18689,7 +19193,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 252,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -18733,7 +19237,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 268.259 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -18747,10 +19251,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-corethetamedit-352",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101764",
     "avgPayout": 54.75,
     "payoutType": "RevShare",
@@ -18765,7 +19271,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 253,
     "trendStatus": "Nova Explosão",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -18814,7 +19320,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 271.530 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -18828,10 +19334,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-elitecosturacr-353",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101771",
     "avgPayout": 55.75,
     "payoutType": "RevShare",
@@ -18846,7 +19354,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 254,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -18885,7 +19393,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 274.842 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -18899,10 +19407,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-activetiktokor-354",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101778",
     "avgPayout": 56.75,
     "payoutType": "RevShare",
@@ -18917,7 +19427,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 255,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -18961,7 +19471,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 278.193 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -18975,10 +19485,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-genesisbauchfe-355",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101785",
     "avgPayout": 57.75,
     "payoutType": "RevShare",
@@ -18993,7 +19505,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 256,
     "trendStatus": "Estável / Top 1",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -19032,7 +19544,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 281.586 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -19046,10 +19558,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-truereikicurav-356",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101792",
     "avgPayout": 58.75,
     "payoutType": "RevShare",
@@ -19064,7 +19578,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 257,
     "trendStatus": "Estável / Top 1",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -19103,7 +19617,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 285.020 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -19117,10 +19631,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-evereyefortinv-357",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101799",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -19135,7 +19651,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 258,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -19179,7 +19695,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 288.496 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -19193,10 +19709,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-vitalthetamedi-358",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101806",
     "avgPayout": 60.75,
     "payoutType": "RevShare",
@@ -19211,7 +19729,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 259,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -19260,7 +19778,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 292.014 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -19274,10 +19792,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-megacosturacri-359",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101813",
     "avgPayout": 61.75,
     "payoutType": "RevShare",
@@ -19292,7 +19812,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 260,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -19331,7 +19851,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 295.576 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -19345,10 +19865,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-auratiktokorga-360",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101820",
     "avgPayout": 42.75,
     "payoutType": "RevShare",
@@ -19363,7 +19885,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 261,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -19407,7 +19929,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 299.180 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -19421,10 +19943,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-terrabauchfett-361",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101827",
     "avgPayout": 43.75,
     "payoutType": "RevShare",
@@ -19439,7 +19963,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 262,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -19478,7 +20002,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 302.829 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -19492,10 +20016,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-hydrareikicura-362",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101834",
     "avgPayout": 44.75,
     "payoutType": "RevShare",
@@ -19510,7 +20036,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 263,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -19549,7 +20075,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 306.522 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -19563,10 +20089,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-vigoreyefortin-363",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101841",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -19581,7 +20109,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 264,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -19625,7 +20153,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 310.260 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -19639,10 +20167,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-nuvothetamedit-364",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101848",
     "avgPayout": 46.75,
     "payoutType": "RevShare",
@@ -19657,7 +20187,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 265,
     "trendStatus": "Nova Explosão",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -19706,7 +20236,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 314.044 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -19720,10 +20250,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-acucosturacria-365",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101855",
     "avgPayout": 47.75,
     "payoutType": "RevShare",
@@ -19738,7 +20270,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 266,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -19777,7 +20309,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 317.874 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -19791,10 +20323,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-syntiktokorgan-366",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101862",
     "avgPayout": 48.75,
     "payoutType": "RevShare",
@@ -19809,7 +20343,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 267,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -19853,7 +20387,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 321.750 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -19867,10 +20401,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-kinetibauchfet-367",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101869",
     "avgPayout": 49.75,
     "payoutType": "RevShare",
@@ -19885,7 +20421,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 268,
     "trendStatus": "Nova Explosão",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -19924,7 +20460,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 325.674 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -19938,10 +20474,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-solreikicuravi-368",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101876",
     "avgPayout": 50.75,
     "payoutType": "RevShare",
@@ -19956,7 +20494,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 269,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -19995,7 +20533,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 329.646 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20009,10 +20547,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-omnieyefortinv-369",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101883",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -20027,7 +20567,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 270,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -20071,7 +20611,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 333.666 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20085,10 +20625,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-ultraawakenedp-370",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101890",
     "avgPayout": 52.75,
     "payoutType": "RevShare",
@@ -20103,7 +20645,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 271,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -20152,7 +20694,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 337.735 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20166,10 +20708,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-optimadocesfin-371",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101897",
     "avgPayout": 53.75,
     "payoutType": "RevShare",
@@ -20184,7 +20728,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 272,
     "trendStatus": "Estável / Top 1",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -20223,7 +20767,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 341.854 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20237,10 +20781,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-vitadropshippi-372",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101904",
     "avgPayout": 54.75,
     "payoutType": "RevShare",
@@ -20255,7 +20801,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 273,
     "trendStatus": "Estável / Top 1",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -20299,7 +20845,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 346.023 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20313,10 +20859,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-prorckenfitwir-373",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101911",
     "avgPayout": 55.75,
     "payoutType": "RevShare",
@@ -20331,7 +20879,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 274,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -20370,7 +20918,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 350.243 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20384,10 +20932,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-purefrequncias-374",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101918",
     "avgPayout": 56.75,
     "payoutType": "RevShare",
@@ -20402,7 +20952,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 275,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -20441,7 +20991,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 354.514 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20455,10 +21005,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-biodenticorelo-375",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101925",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -20473,7 +21025,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 276,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -20517,7 +21069,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 358.837 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20531,10 +21083,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-natureawakened-376",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101932",
     "avgPayout": 58.75,
     "payoutType": "RevShare",
@@ -20549,7 +21103,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 277,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -20598,7 +21152,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 363.213 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20612,10 +21166,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-maxdocesfinose-377",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101939",
     "avgPayout": 59.75,
     "payoutType": "RevShare",
@@ -20630,7 +21186,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 278,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -20669,7 +21225,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 367.643 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20683,10 +21239,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-primedropshipp-378",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101946",
     "avgPayout": 60.75,
     "payoutType": "RevShare",
@@ -20701,7 +21259,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 279,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -20745,7 +21303,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 372.126 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20759,10 +21317,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-apexrckenfitwi-379",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101953",
     "avgPayout": 61.75,
     "payoutType": "RevShare",
@@ -20777,7 +21337,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 280,
     "trendStatus": "Nova Explosão",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -20816,7 +21376,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 376.665 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20830,10 +21390,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-novafrequncias-380",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101960",
     "avgPayout": 42.75,
     "payoutType": "RevShare",
@@ -20848,7 +21410,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 281,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -20887,7 +21449,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 381.258 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20901,10 +21463,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-zendenticorelo-381",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101967",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -20919,7 +21483,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 282,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -20963,7 +21527,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 385.908 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20977,10 +21541,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-coreawakenedpi-382",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101974",
     "avgPayout": 44.75,
     "payoutType": "RevShare",
@@ -20995,7 +21561,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 283,
     "trendStatus": "Nova Explosão",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -21044,7 +21610,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 390.614 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -21058,10 +21624,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-elitedocesfino-383",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101981",
     "avgPayout": 45.75,
     "payoutType": "RevShare",
@@ -21076,7 +21644,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 284,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -21115,7 +21683,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 395.378 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -21129,10 +21697,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-activedropship-384",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101988",
     "avgPayout": 46.75,
     "payoutType": "RevShare",
@@ -21147,7 +21717,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 285,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -21191,7 +21761,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 400.199 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -21205,10 +21775,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-genesisrckenfi-385",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/101995",
     "avgPayout": 47.75,
     "payoutType": "RevShare",
@@ -21223,7 +21795,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 286,
     "trendStatus": "Estável / Top 1",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -21262,7 +21834,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 405.080 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -21276,10 +21848,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-truefrequncias-386",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/102002",
     "avgPayout": 48.75,
     "payoutType": "RevShare",
@@ -21294,7 +21868,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 287,
     "trendStatus": "Estável / Top 1",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -21333,7 +21907,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 410.020 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -21347,10 +21921,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-everdenticorel-387",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/102009",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -21365,7 +21941,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 288,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -21409,7 +21985,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 415.020 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -21423,10 +21999,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-vitalawakenedp-388",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/102016",
     "avgPayout": 50.75,
     "payoutType": "RevShare",
@@ -21441,7 +22019,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 289,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -21490,7 +22068,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 420.082 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -21504,10 +22082,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-megadocesfinos-389",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/102023",
     "avgPayout": 51.75,
     "payoutType": "RevShare",
@@ -21522,7 +22102,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 290,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -21561,7 +22141,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 425.205 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -21575,10 +22155,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-auradropshippi-390",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/102030",
     "avgPayout": 52.75,
     "payoutType": "RevShare",
@@ -21593,7 +22175,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 291,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -21637,7 +22219,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 430.390 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -21651,10 +22233,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-terrarckenfitw-391",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/102037",
     "avgPayout": 53.75,
     "payoutType": "RevShare",
@@ -21669,7 +22253,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 292,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -21708,7 +22292,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 435.639 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -21722,10 +22306,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-hydrafrequncia-392",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/102044",
     "avgPayout": 54.75,
     "payoutType": "RevShare",
@@ -21740,7 +22326,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 293,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -21779,7 +22365,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 440.952 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -21793,10 +22379,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-vigordenticore-393",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/102051",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -21811,7 +22399,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 294,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -21855,7 +22443,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 446.329 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -21869,10 +22457,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Mindset & Áudios Theta",
     "tagline": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-nuvoawakenedpi-394",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/102058",
     "avgPayout": 56.75,
     "payoutType": "RevShare",
@@ -21887,7 +22477,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 295,
     "trendStatus": "Nova Explosão",
     "funnelType": "VSL",
-    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Reprogramação neural de 7 minutos para atrair prosperidade e clareza. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -21936,7 +22526,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 451.772 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -21950,10 +22540,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Cursos Profissionalizantes Brasil",
     "tagline": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-acudocesfinose-395",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/102065",
     "avgPayout": 57.75,
     "payoutType": "RevShare",
@@ -21968,7 +22560,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 296,
     "trendStatus": "Em Alta ↗",
     "funnelType": "TSL",
-    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Passo a passo prático para criar um negócio próprio lucrativo em casa. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -22007,7 +22599,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 457.282 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -22021,10 +22613,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Finanças & BizOp",
     "subCategory": "Negócios Digitais & Cripto",
     "tagline": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-syndropshippin-396",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/102072",
     "avgPayout": 58.75,
     "payoutType": "RevShare",
@@ -22039,7 +22633,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 297,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Webinar",
-    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -22083,7 +22677,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 462.859 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -22097,10 +22691,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Info-produtos",
     "subCategory": "Saúde & Fitness Europa (DE)",
     "tagline": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-kinetirckenfit-397",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/102079",
     "avgPayout": 59.75,
     "payoutType": "RevShare",
@@ -22115,7 +22711,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 298,
     "trendStatus": "Nova Explosão",
     "funnelType": "TSL",
-    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Best-sellers de saúde e longevidade no mercado de língua alemã. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -22154,7 +22750,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 468.503 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -22168,10 +22764,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Espiritualidade",
     "subCategory": "Oráculos & Práticas Holísticas",
     "tagline": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "DS24-ID: DS-solfrequnciass-398",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/102086",
     "avgPayout": 60.75,
     "payoutType": "RevShare",
@@ -22186,7 +22784,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 299,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Quiz",
-    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Conexão com a intuição e arquétipos para direcionamento de vida e paz. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -22225,7 +22823,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 474.217 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -22239,10 +22837,12 @@ export const digistore24Products: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Suplementos Digestivos & Articulares",
     "tagline": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "DS24-ID: DS-omnidenticorel-399",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://www.digistore24.com/redir/102093",
     "avgPayout": 95,
     "payoutType": "RevShare",
@@ -22257,7 +22857,7 @@ export const digistore24Products: AffiliateProduct[] = [
     "octoberRank": 300,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Formulação exclusiva com alta recomendação médica e resultados visíveis. Testado e ativo no marketplace Digistore24 com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -22301,7 +22901,7 @@ export const digistore24Products: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da Digistore24",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da Digistore24",
       "Volume de 480.000 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]

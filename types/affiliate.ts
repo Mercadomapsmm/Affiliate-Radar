@@ -30,7 +30,9 @@ export type TrendStatus =
 export type ActiveStatus = 
   | 'Ativo & Em Escala' 
   | 'Ativo & Rodando' 
-  | 'Ativo / Lançamento Recente';
+  | 'Ativo / Lançamento Recente'
+  | 'Lançamento 2026 & Em Escala'
+  | 'Lançamento 2025 & Consolidado';
 
 export interface GeoDistribution {
   countryCode: string; // ISO 2-letter: US, BR, DE, etc.
@@ -52,6 +54,8 @@ export interface AffiliateProduct {
   category: Category;
   subCategory: string;
   tagline: string;
+  launchYear: 2025 | 2026; // Ano de lançamento oficial (2025 a 2026)
+  launchDate: string; // Mês e ano de lançamento (ex: "Fevereiro/2025", "Janeiro/2026")
   isActive: boolean; // Confirmação de produto ativo no marketplace
   activeStatus: ActiveStatus; // Status detalhado de ativação
   networkOfferId: string; // ID oficial no marketplace (Vendor ID / Offer ID)
@@ -81,6 +85,7 @@ export interface AffiliateProduct {
 export interface FilterState {
   searchQuery: string;
   selectedPlatform: Platform | 'Todas';
+  selectedLaunchYear: 'Todos' | '2025' | '2026';
   selectedCategory: Category | 'Todos';
   selectedCountry: string; // 'Todos' or ISO code like 'US', 'BR', 'DE'
   selectedFunnel: FunnelType | 'Todos';

@@ -32,6 +32,7 @@ import {
 const INITIAL_FILTERS: FilterState = {
   searchQuery: '',
   selectedPlatform: 'Todas',
+  selectedLaunchYear: 'Todos',
   selectedCategory: 'Todos',
   selectedCountry: 'Todos',
   selectedFunnel: 'Todos',

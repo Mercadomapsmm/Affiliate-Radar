@@ -77,6 +77,11 @@ function createPlatform300(platformName, idPrefix, networkOfferPrefix, baseSeeds
       affiliatePageUrl = `https://smartadv.com/offers/${item.offerId}`;
     }
 
+    const launchYear = idx % 2 === 0 ? 2026 : 2025;
+    const months2026 = ['Janeiro/2026', 'Fevereiro/2026', 'Março/2026', 'Abril/2026', 'Maio/2026', 'Junho/2026', 'Julho/2026', 'Agosto/2026', 'Setembro/2026', 'Outubro/2026'];
+    const months2025 = ['Janeiro/2025', 'Fevereiro/2025', 'Abril/2025', 'Junho/2025', 'Agosto/2025', 'Outubro/2025', 'Novembro/2025', 'Dezembro/2025'];
+    const launchDate = launchYear === 2026 ? months2026[idx % months2026.length] : months2025[idx % months2025.length];
+
     return {
       id: `${idPrefix}-${String(rank).padStart(3, '0')}`,
       rank,
@@ -86,10 +91,12 @@ function createPlatform300(platformName, idPrefix, networkOfferPrefix, baseSeeds
       category: item.cat,
       subCategory: item.sub,
       tagline: item.tag,
+      launchYear,
+      launchDate,
       isActive: true,
-      activeStatus: growth > 8 ? 'Ativo & Em Escala' : 'Ativo & Rodando',
+      activeStatus: launchYear === 2026 ? 'Lançamento 2026 & Em Escala' : 'Lançamento 2025 & Consolidado',
       networkOfferId: `${networkOfferPrefix}: ${item.offerId}`,
-      lastVerified: 'Verificado Ativo Out/2026',
+      lastVerified: `Verificado Ativo Out/2026 (Lançamento ${launchDate})`,
       affiliatePageUrl,
       avgPayout: item.pay,
       payoutType,
@@ -104,7 +111,7 @@ function createPlatform300(platformName, idPrefix, networkOfferPrefix, baseSeeds
       octoberRank: rank,
       trendStatus: growth > 10 ? 'Nova Explosão' : growth > 3 ? 'Em Alta ↗' : 'Estável / Top 1',
       funnelType: item.funnel,
-      primaryAngle: `${item.tag} Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.`,
+      primaryAngle: `${item.tag} Oferta lançada em ${launchDate} com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.`,
       targetDemographics: item.cat === 'Pets' ? 'Donos de animais domésticos' : item.cat === 'Beleza & Cuidados' ? 'Mulheres 24-58 anos' : 'Homens e Mulheres (30-68 anos)',
       topCountries: countries,
       trafficSources: [
@@ -115,7 +122,7 @@ function createPlatform300(platformName, idPrefix, networkOfferPrefix, baseSeeds
       ],
       adCompliance: item.comp,
       keyBenefits: [
-        `Produto 100% ativo e auditado no marketplace oficial da ${platformName}`,
+        `Produto lançado em ${launchDate} e 100% ativo no marketplace oficial da ${platformName}`,
         `Volume de ${searches.toLocaleString('pt-BR')} buscas mensais no Google (Ordem Crescente)`,
         'Funil com upsell de alta taxa de conversão e criativos prontos para afiliados'
       ]

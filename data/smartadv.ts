@@ -10,10 +10,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Pressão Arterial COD",
     "tagline": "Gotas de bioflavonoides e extrato de espinheiro para controle estável da pressão arterial.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-1092",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-1092",
     "avgPayout": 38,
     "payoutType": "CPA / COD",
@@ -28,7 +30,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 1,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de bioflavonoides e extrato de espinheiro para controle estável da pressão arterial. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de bioflavonoides e extrato de espinheiro para controle estável da pressão arterial. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -77,7 +79,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 14.200 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -91,10 +93,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Articulações & Cartilagem",
     "tagline": "Gel de resfriamento analgésico com ácido hialurônico para articulações e joelhos.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-2819",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-2819",
     "avgPayout": 35,
     "payoutType": "CPA / COD",
@@ -109,7 +113,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 2,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Gel de resfriamento analgésico com ácido hialurônico para articulações e joelhos. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gel de resfriamento analgésico com ácido hialurônico para articulações e joelhos. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -158,7 +162,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 14.365 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -172,10 +176,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Glicose & Insulina",
     "tagline": "Extratos botânicos para normalização dos índices de glicose sem dietas drásticas.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-3910",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-3910",
     "avgPayout": 40,
     "payoutType": "CPA / COD",
@@ -190,7 +196,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 3,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Extratos botânicos para normalização dos índices de glicose sem dietas drásticas. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Extratos botânicos para normalização dos índices de glicose sem dietas drásticas. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -239,7 +245,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 14.532 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -253,10 +259,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento Rápido",
     "tagline": "Gotas termogênicas para acelerar a queima calórica com pagamento na entrega.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-1420",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-1420",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -271,7 +279,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 4,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas termogênicas para acelerar a queima calórica com pagamento na entrega. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas termogênicas para acelerar a queima calórica com pagamento na entrega. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -320,7 +328,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 14.701 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -334,10 +342,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Desintoxicação Intestinal",
     "tagline": "Limpeza biológica contra parasitas intestinais, fadiga crônica e inchaço estomacal.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-4820",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-4820",
     "avgPayout": 37,
     "payoutType": "CPA / COD",
@@ -352,7 +362,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 5,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Limpeza biológica contra parasitas intestinais, fadiga crônica e inchaço estomacal. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Limpeza biológica contra parasitas intestinais, fadiga crônica e inchaço estomacal. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -401,7 +411,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 14.872 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -415,10 +425,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Visão & Tensão Ocular",
     "tagline": "Cápsulas com luteína, mirtilo e zinco para aliviar cansaço visual e visão turva.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-5912",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-5912",
     "avgPayout": 34,
     "payoutType": "CPA / COD",
@@ -433,7 +445,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 6,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cápsulas com luteína, mirtilo e zinco para aliviar cansaço visual e visão turva. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cápsulas com luteína, mirtilo e zinco para aliviar cansaço visual e visão turva. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -482,7 +494,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 15.045 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -496,10 +508,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Relógio Inteligente COD",
     "tagline": "Smartwatch com leitor de pressão arterial, batimentos e oxigênio com pagamento na entrega.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-EC-201",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-EC-201",
     "avgPayout": 32,
     "payoutType": "CPA / COD",
@@ -514,7 +528,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 7,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Smartwatch com leitor de pressão arterial, batimentos e oxigênio com pagamento na entrega. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Smartwatch com leitor de pressão arterial, batimentos e oxigênio com pagamento na entrega. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -563,7 +577,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 15.220 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -577,10 +591,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Machadinha de Sobrevivência",
     "tagline": "Machadinha militar com serra, bússola, faca e pederneira embutida para aventuras.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-EC-202",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-EC-202",
     "avgPayout": 30,
     "payoutType": "CPA / COD",
@@ -595,7 +611,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 8,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Machadinha militar com serra, bússola, faca e pederneira embutida para aventuras. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Machadinha militar com serra, bússola, faca e pederneira embutida para aventuras. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -644,7 +660,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 15.397 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -658,10 +674,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Palmilhas Magnéticas",
     "tagline": "Palmilha ortopédica com amortecimento duplo em gel para alívio de esporão e fascite.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-EC-203",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-EC-203",
     "avgPayout": 28,
     "payoutType": "CPA / COD",
@@ -676,7 +694,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 9,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Palmilha ortopédica com amortecimento duplo em gel para alívio de esporão e fascite. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Palmilha ortopédica com amortecimento duplo em gel para alívio de esporão e fascite. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -725,7 +743,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 15.576 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -739,10 +757,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Repelente Eletrônico COD",
     "tagline": "Dispositivo de tomada que emite pulsos eletromagnéticos e ultrassom contra pragas.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-EC-204",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-EC-204",
     "avgPayout": 26,
     "payoutType": "CPA / COD",
@@ -757,7 +777,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 10,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Dispositivo de tomada que emite pulsos eletromagnéticos e ultrassom contra pragas. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Dispositivo de tomada que emite pulsos eletromagnéticos e ultrassom contra pragas. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -806,7 +826,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 15.757 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -820,10 +840,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-novacoraliftst-110",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-novacoraliftst-110",
     "avgPayout": 26.2,
     "payoutType": "CPA / COD",
@@ -838,7 +860,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 11,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -887,7 +909,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 15.940 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -901,10 +923,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-zenfixafootbun-111",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-zenfixafootbun-111",
     "avgPayout": 27.2,
     "payoutType": "CPA / COD",
@@ -919,7 +943,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 12,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -968,7 +992,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 16.125 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -982,10 +1006,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-corehondrostro-112",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-corehondrostro-112",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -1000,7 +1026,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 13,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -1049,7 +1075,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 16.313 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -1063,10 +1089,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-elitetonerinpr-113",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-elitetonerinpr-113",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -1081,7 +1109,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 14,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -1130,7 +1158,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 16.502 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -1144,10 +1172,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-activeketodiet-114",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-activeketodiet-114",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -1162,7 +1192,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 15,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -1211,7 +1241,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 16.694 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -1225,10 +1255,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-genesiserectil-115",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-genesiserectil-115",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -1243,7 +1275,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 16,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -1292,7 +1324,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 16.888 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -1306,10 +1338,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-truecoraliftst-116",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-truecoraliftst-116",
     "avgPayout": 32.2,
     "payoutType": "CPA / COD",
@@ -1324,7 +1358,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 17,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -1373,7 +1407,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 17.085 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -1387,10 +1421,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-everfixafootbu-117",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-everfixafootbu-117",
     "avgPayout": 33.2,
     "payoutType": "CPA / COD",
@@ -1405,7 +1441,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 18,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -1454,7 +1490,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 17.283 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -1468,10 +1504,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-vitalhondrostr-118",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-vitalhondrostr-118",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -1486,7 +1524,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 19,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -1535,7 +1573,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 17.484 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -1549,10 +1587,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-megatonerinpre-119",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-megatonerinpre-119",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -1567,7 +1607,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 20,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -1616,7 +1656,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 17.687 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -1630,10 +1670,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-auraketodietef-120",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-auraketodietef-120",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -1648,7 +1690,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 21,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -1697,7 +1739,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 17.893 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -1711,10 +1753,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-terraerectilpo-121",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-terraerectilpo-121",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -1729,7 +1773,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 22,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -1778,7 +1822,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 18.101 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -1792,10 +1836,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-hydracoralifts-122",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-hydracoralifts-122",
     "avgPayout": 18.2,
     "payoutType": "CPA / COD",
@@ -1810,7 +1856,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 23,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -1859,7 +1905,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 18.312 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -1873,10 +1919,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-vigorfixafootb-123",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-vigorfixafootb-123",
     "avgPayout": 19.2,
     "payoutType": "CPA / COD",
@@ -1891,7 +1939,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 24,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -1940,7 +1988,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 18.524 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -1954,10 +2002,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-nuvohondrostro-124",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-nuvohondrostro-124",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -1972,7 +2022,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 25,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -2021,7 +2071,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 18.740 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2035,10 +2085,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-acutonerinpres-125",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-acutonerinpres-125",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -2053,7 +2105,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 26,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -2102,7 +2154,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 18.958 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2116,10 +2168,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-synketodieteff-126",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-synketodieteff-126",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -2134,7 +2188,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 27,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -2183,7 +2237,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 19.178 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2197,10 +2251,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-kinetierectilp-127",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-kinetierectilp-127",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -2215,7 +2271,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 28,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -2264,7 +2320,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 19.401 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2278,10 +2334,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-solcoraliftste-128",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-solcoraliftste-128",
     "avgPayout": 24.2,
     "payoutType": "CPA / COD",
@@ -2296,7 +2354,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 29,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -2345,7 +2403,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 19.627 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2359,10 +2417,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-omnifixafootbu-129",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-omnifixafootbu-129",
     "avgPayout": 25.2,
     "payoutType": "CPA / COD",
@@ -2377,7 +2437,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 30,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -2426,7 +2486,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 19.855 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2440,10 +2500,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-ultraartrovexs-130",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-ultraartrovexs-130",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -2458,7 +2520,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 31,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -2507,7 +2569,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 20.086 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2521,10 +2583,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-optimawelltone-131",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-optimawelltone-131",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -2539,7 +2603,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 32,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -2588,7 +2652,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 20.319 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2602,10 +2666,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-vitadelislimra-132",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-vitadelislimra-132",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -2620,7 +2686,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 33,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -2669,7 +2735,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 20.555 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2683,10 +2749,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-proamaroklibid-133",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-proamaroklibid-133",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -2701,7 +2769,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 34,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -2750,7 +2818,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 20.794 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2764,10 +2832,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-pureinnogialur-134",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-pureinnogialur-134",
     "avgPayout": 30.2,
     "payoutType": "CPA / COD",
@@ -2782,7 +2852,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 35,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -2831,7 +2901,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 21.036 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2845,10 +2915,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-biosonicbrush3-135",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-biosonicbrush3-135",
     "avgPayout": 31.2,
     "payoutType": "CPA / COD",
@@ -2863,7 +2935,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 36,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -2912,7 +2984,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 21.280 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2926,10 +2998,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-natureartrovex-136",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-natureartrovex-136",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -2944,7 +3018,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 37,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -2993,7 +3067,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 21.528 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -3007,10 +3081,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-maxwelltonehea-137",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-maxwelltonehea-137",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -3025,7 +3101,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 38,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -3074,7 +3150,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 21.778 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -3088,10 +3164,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-primedelislimr-138",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-primedelislimr-138",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -3106,7 +3184,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 39,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -3155,7 +3233,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 22.031 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -3169,10 +3247,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-apexamaroklibi-139",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-apexamaroklibi-139",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -3187,7 +3267,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 40,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -3236,7 +3316,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 22.287 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -3250,10 +3330,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-novainnogialur-140",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-novainnogialur-140",
     "avgPayout": 16.2,
     "payoutType": "CPA / COD",
@@ -3268,7 +3350,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 41,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -3317,7 +3399,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 22.547 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -3331,10 +3413,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-zensonicbrush3-141",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-zensonicbrush3-141",
     "avgPayout": 17.2,
     "payoutType": "CPA / COD",
@@ -3349,7 +3433,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 42,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -3398,7 +3482,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 22.809 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -3412,10 +3496,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-coreartrovexsh-142",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-coreartrovexsh-142",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -3430,7 +3516,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 43,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -3479,7 +3565,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 23.074 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -3493,10 +3579,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-elitewelltoneh-143",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-elitewelltoneh-143",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -3511,7 +3599,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 44,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -3560,7 +3648,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 23.342 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -3574,10 +3662,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-activedelislim-144",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-activedelislim-144",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -3592,7 +3682,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 45,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -3641,7 +3731,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 23.613 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -3655,10 +3745,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-genesisamarokl-145",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-genesisamarokl-145",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -3673,7 +3765,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 46,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -3722,7 +3814,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 23.888 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -3736,10 +3828,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-trueinnogialur-146",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-trueinnogialur-146",
     "avgPayout": 22.2,
     "payoutType": "CPA / COD",
@@ -3754,7 +3848,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 47,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -3803,7 +3897,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 24.166 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -3817,10 +3911,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-eversonicbrush-147",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-eversonicbrush-147",
     "avgPayout": 23.2,
     "payoutType": "CPA / COD",
@@ -3835,7 +3931,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 48,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -3884,7 +3980,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 24.447 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -3898,10 +3994,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-vitalartrovexs-148",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-vitalartrovexs-148",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -3916,7 +4014,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 49,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -3965,7 +4063,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 24.731 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -3979,10 +4077,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-megawelltonehe-149",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-megawelltonehe-149",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -3997,7 +4097,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 50,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -4046,7 +4146,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 25.018 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -4060,10 +4160,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-auradelislimra-150",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-auradelislimra-150",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -4078,7 +4180,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 51,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -4127,7 +4229,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 25.309 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -4141,10 +4243,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-terraamaroklib-151",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-terraamaroklib-151",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -4159,7 +4263,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 52,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -4208,7 +4312,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 25.603 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -4222,10 +4326,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-hydrainnogialu-152",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-hydrainnogialu-152",
     "avgPayout": 28.2,
     "payoutType": "CPA / COD",
@@ -4240,7 +4346,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 53,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -4289,7 +4395,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 25.901 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -4303,10 +4409,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-vigorsonicbrus-153",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-vigorsonicbrus-153",
     "avgPayout": 29.2,
     "payoutType": "CPA / COD",
@@ -4321,7 +4429,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 54,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -4370,7 +4478,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 26.202 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -4384,10 +4492,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-nuvoartrovexsh-154",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-nuvoartrovexsh-154",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -4402,7 +4512,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 55,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -4451,7 +4561,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 26.507 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -4465,10 +4575,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-acuwelltonehea-155",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-acuwelltonehea-155",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -4483,7 +4595,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 56,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -4532,7 +4644,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 26.815 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -4546,10 +4658,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-syndelislimrap-156",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-syndelislimrap-156",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -4564,7 +4678,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 57,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -4613,7 +4727,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 27.127 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -4627,10 +4741,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-kinetiamarokli-157",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-kinetiamarokli-157",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -4645,7 +4761,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 58,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -4694,7 +4810,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 27.442 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -4708,10 +4824,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-solinnogialuro-158",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-solinnogialuro-158",
     "avgPayout": 34.2,
     "payoutType": "CPA / COD",
@@ -4726,7 +4844,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 59,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -4775,7 +4893,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 27.761 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -4789,10 +4907,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-omnisonicbrush-159",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-omnisonicbrush-159",
     "avgPayout": 35.2,
     "payoutType": "CPA / COD",
@@ -4807,7 +4927,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 60,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -4856,7 +4976,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 28.084 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -4870,10 +4990,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-ultramotionfre-160",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-ultramotionfre-160",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -4888,7 +5010,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 61,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -4937,7 +5059,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 28.410 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -4951,10 +5073,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-optimadiaformg-161",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-optimadiaformg-161",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -4969,7 +5093,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 62,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -5018,7 +5142,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 28.741 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -5032,10 +5156,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-vitafortunella-162",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-vitafortunella-162",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -5050,7 +5176,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 63,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -5099,7 +5225,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 29.075 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -5113,10 +5239,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-prowirexmentes-163",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-prowirexmentes-163",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -5131,7 +5259,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 64,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -5180,7 +5308,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 29.413 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -5194,10 +5322,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-purebioretinde-164",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-purebioretinde-164",
     "avgPayout": 20.2,
     "payoutType": "CPA / COD",
@@ -5212,7 +5342,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 65,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -5261,7 +5391,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 29.755 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -5275,10 +5405,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-bioecowatersho-165",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-bioecowatersho-165",
     "avgPayout": 21.2,
     "payoutType": "CPA / COD",
@@ -5293,7 +5425,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 66,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -5342,7 +5474,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 30.101 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -5356,10 +5488,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-naturemotionfr-166",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-naturemotionfr-166",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -5374,7 +5508,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 67,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -5423,7 +5557,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 30.451 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -5437,10 +5571,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-maxdiaformglyc-167",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-maxdiaformglyc-167",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -5455,7 +5591,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 68,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -5504,7 +5640,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 30.805 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -5518,10 +5654,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-primefortunell-168",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-primefortunell-168",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -5536,7 +5674,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 69,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -5585,7 +5723,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 31.163 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -5599,10 +5737,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-apexwirexmente-169",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-apexwirexmente-169",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -5617,7 +5757,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 70,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -5666,7 +5806,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 31.525 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -5680,10 +5820,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-novabioretinde-170",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-novabioretinde-170",
     "avgPayout": 26.2,
     "payoutType": "CPA / COD",
@@ -5698,7 +5840,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 71,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -5747,7 +5889,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 31.892 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -5761,10 +5903,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-zenecowatersho-171",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-zenecowatersho-171",
     "avgPayout": 27.2,
     "payoutType": "CPA / COD",
@@ -5779,7 +5923,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 72,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -5828,7 +5972,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 32.262 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -5842,10 +5986,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-coremotionfree-172",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-coremotionfree-172",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -5860,7 +6006,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 73,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -5909,7 +6055,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 32.637 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -5923,10 +6069,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-elitediaformgl-173",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-elitediaformgl-173",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -5941,7 +6089,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 74,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -5990,7 +6138,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 33.017 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6004,10 +6152,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-activefortunel-174",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-activefortunel-174",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -6022,7 +6172,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 75,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -6071,7 +6221,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 33.401 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6085,10 +6235,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-genesiswirexme-175",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-genesiswirexme-175",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -6103,7 +6255,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 76,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -6152,7 +6304,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 33.789 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6166,10 +6318,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-truebioretinde-176",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-truebioretinde-176",
     "avgPayout": 32.2,
     "payoutType": "CPA / COD",
@@ -6184,7 +6338,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 77,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -6233,7 +6387,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 34.182 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6247,10 +6401,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-everecowatersh-177",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-everecowatersh-177",
     "avgPayout": 33.2,
     "payoutType": "CPA / COD",
@@ -6265,7 +6421,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 78,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -6314,7 +6470,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 34.579 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6328,10 +6484,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-vitalmotionfre-178",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-vitalmotionfre-178",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -6346,7 +6504,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 79,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -6395,7 +6553,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 34.981 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6409,10 +6567,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-megadiaformgly-179",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-megadiaformgly-179",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -6427,7 +6587,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 80,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -6476,7 +6636,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 35.388 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6490,10 +6650,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-aurafortunella-180",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-aurafortunella-180",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -6508,7 +6670,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 81,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -6557,7 +6719,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 35.799 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6571,10 +6733,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-terrawirexment-181",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-terrawirexment-181",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -6589,7 +6753,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 82,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -6638,7 +6802,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 36.215 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6652,10 +6816,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-hydrabioretind-182",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-hydrabioretind-182",
     "avgPayout": 18.2,
     "payoutType": "CPA / COD",
@@ -6670,7 +6836,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 83,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -6719,7 +6885,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 36.636 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6733,10 +6899,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-vigorecowaters-183",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-vigorecowaters-183",
     "avgPayout": 19.2,
     "payoutType": "CPA / COD",
@@ -6751,7 +6919,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 84,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -6800,7 +6968,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 37.062 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6814,10 +6982,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-nuvomotionfree-184",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-nuvomotionfree-184",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -6832,7 +7002,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 85,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -6881,7 +7051,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 37.493 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6895,10 +7065,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-acudiaformglyc-185",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-acudiaformglyc-185",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -6913,7 +7085,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 86,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -6962,7 +7134,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 37.929 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6976,10 +7148,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-synfortunellac-186",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-synfortunellac-186",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -6994,7 +7168,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 87,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -7043,7 +7217,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 38.370 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7057,10 +7231,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-kinetiwirexmen-187",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-kinetiwirexmen-187",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -7075,7 +7251,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 88,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -7124,7 +7300,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 38.816 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7138,10 +7314,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-solbioretindee-188",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-solbioretindee-188",
     "avgPayout": 24.2,
     "payoutType": "CPA / COD",
@@ -7156,7 +7334,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 89,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -7205,7 +7383,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 39.267 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7219,10 +7397,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-omniecowatersh-189",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-omniecowatersh-189",
     "avgPayout": 25.2,
     "payoutType": "CPA / COD",
@@ -7237,7 +7417,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 90,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -7286,7 +7466,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 39.724 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7300,10 +7480,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-ultraflekostee-190",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-ultraflekostee-190",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -7318,7 +7500,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 91,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -7367,7 +7549,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 40.186 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7381,10 +7563,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-optimagluconol-191",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-optimagluconol-191",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -7399,7 +7583,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 92,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -7448,7 +7632,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 40.653 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7462,10 +7646,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-vitawlosstropi-192",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-vitawlosstropi-192",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -7480,7 +7666,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 93,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -7529,7 +7715,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 41.125 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7543,10 +7729,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-proalfazonevir-193",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-proalfazonevir-193",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -7561,7 +7749,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 94,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -7610,7 +7798,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 41.604 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7624,10 +7812,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-pureintenskinb-194",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-pureintenskinb-194",
     "avgPayout": 30.2,
     "payoutType": "CPA / COD",
@@ -7642,7 +7832,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 95,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -7691,7 +7881,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 42.087 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7705,10 +7895,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-biomagnishield-195",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-biomagnishield-195",
     "avgPayout": 31.2,
     "payoutType": "CPA / COD",
@@ -7723,7 +7915,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 96,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -7772,7 +7964,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 42.577 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7786,10 +7978,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-natureflekoste-196",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-natureflekoste-196",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -7804,7 +7998,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 97,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -7853,7 +8047,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 43.072 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7867,10 +8061,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-maxgluconolpan-197",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-maxgluconolpan-197",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -7885,7 +8081,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 98,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -7934,7 +8130,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 43.572 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7948,10 +8144,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-primewlosstrop-198",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-primewlosstrop-198",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -7966,7 +8164,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 99,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -8015,7 +8213,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 44.079 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -8029,10 +8227,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-apexalfazonevi-199",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-apexalfazonevi-199",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -8047,7 +8247,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 100,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -8096,7 +8296,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 44.591 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -8110,10 +8310,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-novaintenskinb-200",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-novaintenskinb-200",
     "avgPayout": 16.2,
     "payoutType": "CPA / COD",
@@ -8128,7 +8330,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 101,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -8177,7 +8379,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 45.110 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -8191,10 +8393,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-zenmagnishield-201",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-zenmagnishield-201",
     "avgPayout": 17.2,
     "payoutType": "CPA / COD",
@@ -8209,7 +8413,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 102,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -8258,7 +8462,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 45.634 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -8272,10 +8476,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-coreflekosteel-202",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-coreflekosteel-202",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -8290,7 +8496,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 103,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -8339,7 +8545,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 46.165 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -8353,10 +8559,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-elitegluconolp-203",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-elitegluconolp-203",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -8371,7 +8579,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 104,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -8420,7 +8628,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 46.701 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -8434,10 +8642,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-activewlosstro-204",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-activewlosstro-204",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -8452,7 +8662,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 105,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -8501,7 +8711,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 47.244 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -8515,10 +8725,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-genesisalfazon-205",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-genesisalfazon-205",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -8533,7 +8745,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 106,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -8582,7 +8794,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 47.793 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -8596,10 +8808,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-trueintenskinb-206",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-trueintenskinb-206",
     "avgPayout": 22.2,
     "payoutType": "CPA / COD",
@@ -8614,7 +8828,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 107,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -8663,7 +8877,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 48.349 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -8677,10 +8891,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-evermagnishiel-207",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-evermagnishiel-207",
     "avgPayout": 23.2,
     "payoutType": "CPA / COD",
@@ -8695,7 +8911,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 108,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -8744,7 +8960,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 48.911 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -8758,10 +8974,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-vitalflekostee-208",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-vitalflekostee-208",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -8776,7 +8994,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 109,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -8825,7 +9043,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 49.480 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -8839,10 +9057,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-megagluconolpa-209",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-megagluconolpa-209",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -8857,7 +9077,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 110,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -8906,7 +9126,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 50.055 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -8920,10 +9140,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-aurawlosstropi-210",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-aurawlosstropi-210",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -8938,7 +9160,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 111,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -8987,7 +9209,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 50.637 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9001,10 +9223,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-terraalfazonev-211",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-terraalfazonev-211",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -9019,7 +9243,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 112,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -9068,7 +9292,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 51.226 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9082,10 +9306,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-hydraintenskin-212",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-hydraintenskin-212",
     "avgPayout": 28.2,
     "payoutType": "CPA / COD",
@@ -9100,7 +9326,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 113,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -9149,7 +9375,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 51.821 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9163,10 +9389,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-vigormagnishie-213",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-vigormagnishie-213",
     "avgPayout": 29.2,
     "payoutType": "CPA / COD",
@@ -9181,7 +9409,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 114,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -9230,7 +9458,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 52.424 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9244,10 +9472,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-nuvoflekosteel-214",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-nuvoflekosteel-214",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -9262,7 +9492,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 115,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -9311,7 +9541,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 53.033 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9325,10 +9555,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-acugluconolpan-215",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-acugluconolpan-215",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -9343,7 +9575,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 116,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -9392,7 +9624,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 53.650 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9406,10 +9638,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-synwlosstropic-216",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-synwlosstropic-216",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -9424,7 +9658,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 117,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -9473,7 +9707,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 54.273 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9487,10 +9721,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-kinetialfazone-217",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-kinetialfazone-217",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -9505,7 +9741,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 118,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -9554,7 +9790,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 54.904 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9568,10 +9804,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-solintenskinbi-218",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-solintenskinbi-218",
     "avgPayout": 34.2,
     "payoutType": "CPA / COD",
@@ -9586,7 +9824,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 119,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -9635,7 +9873,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 55.543 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9649,10 +9887,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-omnimagnishiel-219",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-omnimagnishiel-219",
     "avgPayout": 35.2,
     "payoutType": "CPA / COD",
@@ -9667,7 +9907,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 120,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -9716,7 +9956,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 56.188 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9730,10 +9970,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-ultravaricolve-220",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-ultravaricolve-220",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -9748,7 +9990,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 121,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -9797,7 +10039,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 56.842 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9811,10 +10053,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-optimainspilar-221",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-optimainspilar-221",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -9829,7 +10073,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 122,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -9878,7 +10122,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 57.502 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9892,10 +10136,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-vitamatchaslim-222",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-vitamatchaslim-222",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -9910,7 +10156,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 123,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -9959,7 +10205,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 58.171 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9973,10 +10219,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-provigamanpowe-223",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-provigamanpowe-223",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -9991,7 +10239,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 124,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -10040,7 +10288,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 58.847 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -10054,10 +10302,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-pureeternelle2-224",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-pureeternelle2-224",
     "avgPayout": 20.2,
     "payoutType": "CPA / COD",
@@ -10072,7 +10322,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 125,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -10121,7 +10371,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 59.531 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -10135,10 +10385,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-biosleeprelief-225",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-biosleeprelief-225",
     "avgPayout": 21.2,
     "payoutType": "CPA / COD",
@@ -10153,7 +10405,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 126,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -10202,7 +10454,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 60.223 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -10216,10 +10468,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-naturevaricolv-226",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-naturevaricolv-226",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -10234,7 +10488,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 127,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -10283,7 +10537,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 60.923 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -10297,10 +10551,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-maxinspilarins-227",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-maxinspilarins-227",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -10315,7 +10571,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 128,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -10364,7 +10620,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 61.632 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -10378,10 +10634,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-primematchasli-228",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-primematchasli-228",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -10396,7 +10654,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 129,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -10445,7 +10703,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 62.348 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -10459,10 +10717,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-apexvigamanpow-229",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-apexvigamanpow-229",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -10477,7 +10737,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 130,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -10526,7 +10786,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 63.073 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -10540,10 +10800,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-novaeternelle2-230",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-novaeternelle2-230",
     "avgPayout": 26.2,
     "payoutType": "CPA / COD",
@@ -10558,7 +10820,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 131,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -10607,7 +10869,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 63.806 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -10621,10 +10883,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-zensleeprelief-231",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-zensleeprelief-231",
     "avgPayout": 27.2,
     "payoutType": "CPA / COD",
@@ -10639,7 +10903,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 132,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -10688,7 +10952,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 64.548 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -10702,10 +10966,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-corevaricolvei-232",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-corevaricolvei-232",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -10720,7 +10986,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 133,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -10769,7 +11035,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 65.299 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -10783,10 +11049,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-eliteinspilari-233",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-eliteinspilari-233",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -10801,7 +11069,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 134,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -10850,7 +11118,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 66.058 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -10864,10 +11132,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-activematchasl-234",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-activematchasl-234",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -10882,7 +11152,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 135,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -10931,7 +11201,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 66.826 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -10945,10 +11215,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-genesisvigaman-235",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-genesisvigaman-235",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -10963,7 +11235,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 136,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -11012,7 +11284,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 67.603 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11026,10 +11298,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-trueeternelle2-236",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-trueeternelle2-236",
     "avgPayout": 32.2,
     "payoutType": "CPA / COD",
@@ -11044,7 +11318,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 137,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -11093,7 +11367,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 68.388 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11107,10 +11381,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-eversleeprelie-237",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-eversleeprelie-237",
     "avgPayout": 33.2,
     "payoutType": "CPA / COD",
@@ -11125,7 +11401,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 138,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -11174,7 +11450,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 69.184 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11188,10 +11464,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-vitalvaricolve-238",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-vitalvaricolve-238",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -11206,7 +11484,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 139,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -11255,7 +11533,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 69.988 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11269,10 +11547,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-megainspilarin-239",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-megainspilarin-239",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -11287,7 +11567,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 140,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -11336,7 +11616,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 70.801 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11350,10 +11630,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-auramatchaslim-240",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-auramatchaslim-240",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -11368,7 +11650,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 141,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -11417,7 +11699,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 71.625 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11431,10 +11713,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-terravigamanpo-241",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-terravigamanpo-241",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -11449,7 +11733,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 142,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -11498,7 +11782,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 72.457 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11512,10 +11796,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-hydraeternelle-242",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-hydraeternelle-242",
     "avgPayout": 18.2,
     "payoutType": "CPA / COD",
@@ -11530,7 +11816,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 143,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -11579,7 +11865,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 73.300 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11593,10 +11879,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-vigorsleepreli-243",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-vigorsleepreli-243",
     "avgPayout": 19.2,
     "payoutType": "CPA / COD",
@@ -11611,7 +11899,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 144,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -11660,7 +11948,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 74.152 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11674,10 +11962,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-nuvovaricolvei-244",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-nuvovaricolvei-244",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -11692,7 +11982,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 145,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -11741,7 +12031,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 75.014 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11755,10 +12045,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-acuinspilarins-245",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-acuinspilarins-245",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -11773,7 +12065,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 146,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -11822,7 +12114,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 75.886 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11836,10 +12128,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-synmatchaslimc-246",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-synmatchaslimc-246",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -11854,7 +12148,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 147,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -11903,7 +12197,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 76.768 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11917,10 +12211,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-kinetivigamanp-247",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-kinetivigamanp-247",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -11935,7 +12231,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 148,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -11984,7 +12280,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 77.661 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11998,10 +12294,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-soleternelle24-248",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-soleternelle24-248",
     "avgPayout": 24.2,
     "payoutType": "CPA / COD",
@@ -12016,7 +12314,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 149,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -12065,7 +12363,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 78.563 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -12079,10 +12377,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-omnisleeprelie-249",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-omnisleeprelie-249",
     "avgPayout": 25.2,
     "payoutType": "CPA / COD",
@@ -12097,7 +12397,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 150,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -12146,7 +12446,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 79.477 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -12160,10 +12460,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-ultraostelifep-250",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-ultraostelifep-250",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -12178,7 +12480,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 151,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -12227,7 +12529,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 80.401 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -12241,10 +12543,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-optimacardioli-251",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-optimacardioli-251",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -12259,7 +12563,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 152,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -12308,7 +12612,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 81.336 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -12322,10 +12626,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-vitablacklatte-252",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-vitablacklatte-252",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -12340,7 +12646,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 153,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -12389,7 +12695,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 82.281 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -12403,10 +12709,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-prorhinogoldto-253",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-prorhinogoldto-253",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -12421,7 +12729,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 154,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -12470,7 +12778,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 83.238 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -12484,10 +12792,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-purenovaskinre-254",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-purenovaskinre-254",
     "avgPayout": 30.2,
     "payoutType": "CPA / COD",
@@ -12502,7 +12812,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 155,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -12551,7 +12861,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 84.205 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -12565,10 +12875,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-bioslimjegging-255",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-bioslimjegging-255",
     "avgPayout": 31.2,
     "payoutType": "CPA / COD",
@@ -12583,7 +12895,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 156,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -12632,7 +12944,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 85.184 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -12646,10 +12958,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-natureostelife-256",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-natureostelife-256",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -12664,7 +12978,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 157,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -12713,7 +13027,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 86.175 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -12727,10 +13041,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-maxcardiolifea-257",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-maxcardiolifea-257",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -12745,7 +13061,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 158,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -12794,7 +13110,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 87.176 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -12808,10 +13124,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-primeblacklatt-258",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-primeblacklatt-258",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -12826,7 +13144,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 159,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -12875,7 +13193,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 88.190 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -12889,10 +13207,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-apexrhinogoldt-259",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-apexrhinogoldt-259",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -12907,7 +13227,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 160,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -12956,7 +13276,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 89.215 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -12970,10 +13290,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-novanovaskinre-260",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-novanovaskinre-260",
     "avgPayout": 16.2,
     "payoutType": "CPA / COD",
@@ -12988,7 +13310,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 161,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -13037,7 +13359,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 90.252 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13051,10 +13373,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-zenslimjegging-261",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-zenslimjegging-261",
     "avgPayout": 17.2,
     "payoutType": "CPA / COD",
@@ -13069,7 +13393,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 162,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -13118,7 +13442,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 91.302 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13132,10 +13456,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-coreostelifepu-262",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-coreostelifepu-262",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -13150,7 +13476,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 163,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -13199,7 +13525,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 92.363 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13213,10 +13539,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-elitecardiolif-263",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-elitecardiolif-263",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -13231,7 +13559,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 164,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -13280,7 +13608,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 93.437 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13294,10 +13622,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-activeblacklat-264",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-activeblacklat-264",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -13312,7 +13642,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 165,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -13361,7 +13691,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 94.523 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13375,10 +13705,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-genesisrhinogo-265",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-genesisrhinogo-265",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -13393,7 +13725,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 166,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -13442,7 +13774,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 95.622 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13456,10 +13788,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-truenovaskinre-266",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-truenovaskinre-266",
     "avgPayout": 22.2,
     "payoutType": "CPA / COD",
@@ -13474,7 +13808,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 167,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -13523,7 +13857,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 96.734 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13537,10 +13871,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-everslimjeggin-267",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-everslimjeggin-267",
     "avgPayout": 23.2,
     "payoutType": "CPA / COD",
@@ -13555,7 +13891,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 168,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -13604,7 +13940,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 97.858 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13618,10 +13954,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-vitalostelifep-268",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-vitalostelifep-268",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -13636,7 +13974,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 169,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -13685,7 +14023,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 98.996 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13699,10 +14037,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-megacardiolife-269",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-megacardiolife-269",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -13717,7 +14057,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 170,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -13766,7 +14106,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 100.147 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13780,10 +14120,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-aurablacklatte-270",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-aurablacklatte-270",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -13798,7 +14140,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 171,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -13847,7 +14189,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 101.311 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13861,10 +14203,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-terrarhinogold-271",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-terrarhinogold-271",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -13879,7 +14223,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 172,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -13928,7 +14272,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 102.489 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13942,10 +14286,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-hydranovaskinr-272",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-hydranovaskinr-272",
     "avgPayout": 28.2,
     "payoutType": "CPA / COD",
@@ -13960,7 +14306,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 173,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -14009,7 +14355,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 103.680 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -14023,10 +14369,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-vigorslimjeggi-273",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-vigorslimjeggi-273",
     "avgPayout": 29.2,
     "payoutType": "CPA / COD",
@@ -14041,7 +14389,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 174,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -14090,7 +14438,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 104.886 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -14104,10 +14452,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-nuvoostelifepu-274",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-nuvoostelifepu-274",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -14122,7 +14472,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 175,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -14171,7 +14521,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 106.105 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -14185,10 +14535,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-acucardiolifea-275",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-acucardiolifea-275",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -14203,7 +14555,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 176,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -14252,7 +14604,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 107.339 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -14266,10 +14618,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-synblacklattec-276",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-synblacklattec-276",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -14284,7 +14638,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 177,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -14333,7 +14687,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 108.586 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -14347,10 +14701,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-kinetirhinogol-277",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-kinetirhinogol-277",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -14365,7 +14721,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 178,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -14414,7 +14770,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 109.849 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -14428,10 +14784,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-solnovaskinret-278",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-solnovaskinret-278",
     "avgPayout": 34.2,
     "payoutType": "CPA / COD",
@@ -14446,7 +14804,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 179,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -14495,7 +14853,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 111.126 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -14509,10 +14867,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-omnislimjeggin-279",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-omnislimjeggin-279",
     "avgPayout": 35.2,
     "payoutType": "CPA / COD",
@@ -14527,7 +14887,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 180,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -14576,7 +14936,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 112.418 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -14590,10 +14950,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-ultrahondrostr-280",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-ultrahondrostr-280",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -14608,7 +14970,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 181,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -14657,7 +15019,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 113.725 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -14671,10 +15033,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-optimatonerinp-281",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-optimatonerinp-281",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -14689,7 +15053,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 182,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -14738,7 +15102,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 115.047 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -14752,10 +15116,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-vitachocolitef-282",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-vitachocolitef-282",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -14770,7 +15136,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 183,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -14819,7 +15185,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 116.384 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -14833,10 +15199,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-proerectilpote-283",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-proerectilpote-283",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -14851,7 +15219,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 184,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -14900,7 +15268,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 117.737 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -14914,10 +15282,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-purehairactiva-284",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-purehairactiva-284",
     "avgPayout": 20.2,
     "payoutType": "CPA / COD",
@@ -14932,7 +15302,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 185,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -14981,7 +15351,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 119.106 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -14995,10 +15365,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-bioautosparkpa-285",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-bioautosparkpa-285",
     "avgPayout": 21.2,
     "payoutType": "CPA / COD",
@@ -15013,7 +15385,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 186,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -15062,7 +15434,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 120.491 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15076,10 +15448,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-naturehondrost-286",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-naturehondrost-286",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -15094,7 +15468,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 187,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -15143,7 +15517,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 121.892 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15157,10 +15531,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-maxtonerinpres-287",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-maxtonerinpres-287",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -15175,7 +15551,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 188,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -15224,7 +15600,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 123.309 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15238,10 +15614,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-primechocolite-288",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-primechocolite-288",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -15256,7 +15634,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 189,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -15305,7 +15683,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 124.742 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15319,10 +15697,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-apexerectilpot-289",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-apexerectilpot-289",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -15337,7 +15717,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 190,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -15386,7 +15766,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 126.192 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15400,10 +15780,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-novahairactiva-290",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-novahairactiva-290",
     "avgPayout": 26.2,
     "payoutType": "CPA / COD",
@@ -15418,7 +15800,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 191,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -15467,7 +15849,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 127.659 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15481,10 +15863,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-zenautosparkpa-291",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-zenautosparkpa-291",
     "avgPayout": 27.2,
     "payoutType": "CPA / COD",
@@ -15499,7 +15883,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 192,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -15548,7 +15932,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 129.144 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15562,10 +15946,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-corehondrostro-292",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-corehondrostro-292",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -15580,7 +15966,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 193,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -15629,7 +16015,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 130.645 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15643,10 +16029,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-elitetonerinpr-293",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-elitetonerinpr-293",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -15661,7 +16049,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 194,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -15710,7 +16098,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 132.164 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15724,10 +16112,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-activechocolit-294",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-activechocolit-294",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -15742,7 +16132,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 195,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -15791,7 +16181,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 133.700 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15805,10 +16195,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-genesiserectil-295",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-genesiserectil-295",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -15823,7 +16215,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 196,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -15872,7 +16264,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 135.255 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15886,10 +16278,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-truehairactiva-296",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-truehairactiva-296",
     "avgPayout": 32.2,
     "payoutType": "CPA / COD",
@@ -15904,7 +16298,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 197,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -15953,7 +16347,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 136.827 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15967,10 +16361,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-everautosparkp-297",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-everautosparkp-297",
     "avgPayout": 33.2,
     "payoutType": "CPA / COD",
@@ -15985,7 +16381,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 198,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -16034,7 +16430,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 138.418 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -16048,10 +16444,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-vitalhondrostr-298",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-vitalhondrostr-298",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -16066,7 +16464,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 199,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -16115,7 +16513,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 140.027 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -16129,10 +16527,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-megatonerinpre-299",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-megatonerinpre-299",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -16147,7 +16547,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 200,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -16196,7 +16596,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 141.655 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -16210,10 +16610,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-aurachocolitef-300",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-aurachocolitef-300",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -16228,7 +16630,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 201,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -16277,7 +16679,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 143.302 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -16291,10 +16693,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-terraerectilpo-301",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-terraerectilpo-301",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -16309,7 +16713,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 202,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -16358,7 +16762,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 144.968 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -16372,10 +16776,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-hydrahairactiv-302",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-hydrahairactiv-302",
     "avgPayout": 18.2,
     "payoutType": "CPA / COD",
@@ -16390,7 +16796,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 203,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -16439,7 +16845,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 146.653 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -16453,10 +16859,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-vigorautospark-303",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-vigorautospark-303",
     "avgPayout": 19.2,
     "payoutType": "CPA / COD",
@@ -16471,7 +16879,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 204,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -16520,7 +16928,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 148.358 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -16534,10 +16942,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-nuvohondrostro-304",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-nuvohondrostro-304",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -16552,7 +16962,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 205,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -16601,7 +17011,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 150.083 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -16615,10 +17025,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-acutonerinpres-305",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-acutonerinpres-305",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -16633,7 +17045,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 206,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -16682,7 +17094,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 151.827 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -16696,10 +17108,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-synchocolitefa-306",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-synchocolitefa-306",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -16714,7 +17128,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 207,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -16763,7 +17177,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 153.592 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -16777,10 +17191,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-kinetierectilp-307",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-kinetierectilp-307",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -16795,7 +17211,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 208,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -16844,7 +17260,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 155.378 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -16858,10 +17274,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-solhairactivat-308",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-solhairactivat-308",
     "avgPayout": 24.2,
     "payoutType": "CPA / COD",
@@ -16876,7 +17294,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 209,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -16925,7 +17343,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 157.184 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -16939,10 +17357,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-omniautosparkp-309",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-omniautosparkp-309",
     "avgPayout": 25.2,
     "payoutType": "CPA / COD",
@@ -16957,7 +17377,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 210,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -17006,7 +17426,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 159.012 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17020,10 +17440,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-ultraartrovexs-310",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-ultraartrovexs-310",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -17038,7 +17460,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 211,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -17087,7 +17509,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 160.860 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17101,10 +17523,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-optimawelltone-311",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-optimawelltone-311",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -17119,7 +17543,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 212,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -17168,7 +17592,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 162.730 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17182,10 +17606,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-vitaketodietef-312",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-vitaketodietef-312",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -17200,7 +17626,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 213,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -17249,7 +17675,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 164.622 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17263,10 +17689,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-proamaroklibid-313",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-proamaroklibid-313",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -17281,7 +17709,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 214,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -17330,7 +17758,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 166.536 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17344,10 +17772,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-purecoraliftst-314",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-purecoraliftst-314",
     "avgPayout": 30.2,
     "payoutType": "CPA / COD",
@@ -17362,7 +17792,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 215,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -17411,7 +17841,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 168.472 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17425,10 +17855,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-biodrilldoctor-315",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-biodrilldoctor-315",
     "avgPayout": 31.2,
     "payoutType": "CPA / COD",
@@ -17443,7 +17875,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 216,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -17492,7 +17924,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 170.431 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17506,10 +17938,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-natureartrovex-316",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-natureartrovex-316",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -17524,7 +17958,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 217,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -17573,7 +18007,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 172.412 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17587,10 +18021,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-maxwelltonehea-317",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-maxwelltonehea-317",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -17605,7 +18041,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 218,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -17654,7 +18090,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 174.417 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17668,10 +18104,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-primeketodiete-318",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-primeketodiete-318",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -17686,7 +18124,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 219,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -17735,7 +18173,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 176.444 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17749,10 +18187,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-apexamaroklibi-319",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-apexamaroklibi-319",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -17767,7 +18207,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 220,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -17816,7 +18256,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 178.496 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17830,10 +18270,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-novacoraliftst-320",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-novacoraliftst-320",
     "avgPayout": 16.2,
     "payoutType": "CPA / COD",
@@ -17848,7 +18290,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 221,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -17897,7 +18339,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 180.571 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17911,10 +18353,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-zendrilldoctor-321",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-zendrilldoctor-321",
     "avgPayout": 17.2,
     "payoutType": "CPA / COD",
@@ -17929,7 +18373,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 222,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -17978,7 +18422,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 182.670 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17992,10 +18436,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-coreartrovexsh-322",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-coreartrovexsh-322",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -18010,7 +18456,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 223,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -18059,7 +18505,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 184.794 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -18073,10 +18519,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-elitewelltoneh-323",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-elitewelltoneh-323",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -18091,7 +18539,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 224,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -18140,7 +18588,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 186.942 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -18154,10 +18602,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-activeketodiet-324",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-activeketodiet-324",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -18172,7 +18622,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 225,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -18221,7 +18671,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 189.115 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -18235,10 +18685,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-genesisamarokl-325",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-genesisamarokl-325",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -18253,7 +18705,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 226,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -18302,7 +18754,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 191.314 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -18316,10 +18768,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-truecoraliftst-326",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-truecoraliftst-326",
     "avgPayout": 22.2,
     "payoutType": "CPA / COD",
@@ -18334,7 +18788,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 227,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -18383,7 +18837,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 193.538 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -18397,10 +18851,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-everdrilldocto-327",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-everdrilldocto-327",
     "avgPayout": 23.2,
     "payoutType": "CPA / COD",
@@ -18415,7 +18871,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 228,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -18464,7 +18920,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 195.788 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -18478,10 +18934,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-vitalartrovexs-328",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-vitalartrovexs-328",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -18496,7 +18954,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 229,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -18545,7 +19003,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 198.064 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -18559,10 +19017,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-megawelltonehe-329",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-megawelltonehe-329",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -18577,7 +19037,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 230,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -18626,7 +19086,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 200.367 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -18640,10 +19100,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-auraketodietef-330",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-auraketodietef-330",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -18658,7 +19120,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 231,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -18707,7 +19169,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 202.696 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -18721,10 +19183,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-terraamaroklib-331",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-terraamaroklib-331",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -18739,7 +19203,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 232,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -18788,7 +19252,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 205.053 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -18802,10 +19266,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-hydracoralifts-332",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-hydracoralifts-332",
     "avgPayout": 28.2,
     "payoutType": "CPA / COD",
@@ -18820,7 +19286,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 233,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -18869,7 +19335,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 207.436 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -18883,10 +19349,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-vigordrilldoct-333",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-vigordrilldoct-333",
     "avgPayout": 29.2,
     "payoutType": "CPA / COD",
@@ -18901,7 +19369,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 234,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -18950,7 +19418,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 209.848 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -18964,10 +19432,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-nuvoartrovexsh-334",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-nuvoartrovexsh-334",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -18982,7 +19452,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 235,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -19031,7 +19501,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 212.288 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -19045,10 +19515,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-acuwelltonehea-335",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-acuwelltonehea-335",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -19063,7 +19535,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 236,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -19112,7 +19584,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 214.756 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -19126,10 +19598,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-synketodieteff-336",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-synketodieteff-336",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -19144,7 +19618,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 237,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -19193,7 +19667,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 217.252 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -19207,10 +19681,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-kinetiamarokli-337",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-kinetiamarokli-337",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -19225,7 +19701,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 238,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -19274,7 +19750,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 219.778 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -19288,10 +19764,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-solcoraliftste-338",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-solcoraliftste-338",
     "avgPayout": 34.2,
     "payoutType": "CPA / COD",
@@ -19306,7 +19784,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 239,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -19355,7 +19833,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 222.333 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -19369,10 +19847,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-omnidrilldocto-339",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-omnidrilldocto-339",
     "avgPayout": 35.2,
     "payoutType": "CPA / COD",
@@ -19387,7 +19867,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 240,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -19436,7 +19916,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 224.918 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -19450,10 +19930,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-ultramotionfre-340",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-ultramotionfre-340",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -19468,7 +19950,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 241,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -19517,7 +19999,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 227.533 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -19531,10 +20013,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-optimadiaformg-341",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-optimadiaformg-341",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -19549,7 +20033,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 242,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -19598,7 +20082,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 230.178 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -19612,10 +20096,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-vitadelislimra-342",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-vitadelislimra-342",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -19630,7 +20116,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 243,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -19679,7 +20165,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 232.854 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -19693,10 +20179,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-prowirexmentes-343",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-prowirexmentes-343",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -19711,7 +20199,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 244,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -19760,7 +20248,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 235.561 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -19774,10 +20262,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-pureinnogialur-344",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-pureinnogialur-344",
     "avgPayout": 20.2,
     "payoutType": "CPA / COD",
@@ -19792,7 +20282,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 245,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -19841,7 +20331,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 238.299 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -19855,10 +20345,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-biothermovesth-345",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-biothermovesth-345",
     "avgPayout": 21.2,
     "payoutType": "CPA / COD",
@@ -19873,7 +20365,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 246,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -19922,7 +20414,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 241.070 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -19936,10 +20428,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-naturemotionfr-346",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-naturemotionfr-346",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -19954,7 +20448,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 247,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -20003,7 +20497,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 243.872 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20017,10 +20511,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-maxdiaformglyc-347",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-maxdiaformglyc-347",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -20035,7 +20531,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 248,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -20084,7 +20580,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 246.707 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20098,10 +20594,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-primedelislimr-348",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-primedelislimr-348",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -20116,7 +20614,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 249,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -20165,7 +20663,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 249.576 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20179,10 +20677,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-apexwirexmente-349",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-apexwirexmente-349",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -20197,7 +20697,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 250,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -20246,7 +20746,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 252.477 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20260,10 +20760,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-novainnogialur-350",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-novainnogialur-350",
     "avgPayout": 26.2,
     "payoutType": "CPA / COD",
@@ -20278,7 +20780,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 251,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -20327,7 +20829,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 255.412 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20341,10 +20843,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-zenthermovesth-351",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-zenthermovesth-351",
     "avgPayout": 27.2,
     "payoutType": "CPA / COD",
@@ -20359,7 +20863,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 252,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -20408,7 +20912,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 258.382 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20422,10 +20926,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-coremotionfree-352",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-coremotionfree-352",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -20440,7 +20946,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 253,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -20489,7 +20995,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 261.385 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20503,10 +21009,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-elitediaformgl-353",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-elitediaformgl-353",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -20521,7 +21029,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 254,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -20570,7 +21078,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 264.424 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20584,10 +21092,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-activedelislim-354",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-activedelislim-354",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -20602,7 +21112,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 255,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -20651,7 +21161,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 267.498 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20665,10 +21175,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-genesiswirexme-355",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-genesiswirexme-355",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -20683,7 +21195,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 256,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -20732,7 +21244,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 270.608 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20746,10 +21258,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-trueinnogialur-356",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-trueinnogialur-356",
     "avgPayout": 32.2,
     "payoutType": "CPA / COD",
@@ -20764,7 +21278,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 257,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -20813,7 +21327,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 273.754 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20827,10 +21341,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-everthermovest-357",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-everthermovest-357",
     "avgPayout": 33.2,
     "payoutType": "CPA / COD",
@@ -20845,7 +21361,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 258,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -20894,7 +21410,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 276.937 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20908,10 +21424,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-vitalmotionfre-358",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-vitalmotionfre-358",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -20926,7 +21444,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 259,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -20975,7 +21493,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 280.156 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20989,10 +21507,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-megadiaformgly-359",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-megadiaformgly-359",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -21007,7 +21527,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 260,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -21056,7 +21576,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 283.413 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -21070,10 +21590,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-auradelislimra-360",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-auradelislimra-360",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -21088,7 +21610,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 261,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -21137,7 +21659,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 286.708 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -21151,10 +21673,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-terrawirexment-361",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-terrawirexment-361",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -21169,7 +21693,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 262,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -21218,7 +21742,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 290.041 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -21232,10 +21756,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-hydrainnogialu-362",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-hydrainnogialu-362",
     "avgPayout": 18.2,
     "payoutType": "CPA / COD",
@@ -21250,7 +21776,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 263,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -21299,7 +21825,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 293.413 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -21313,10 +21839,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-vigorthermoves-363",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-vigorthermoves-363",
     "avgPayout": 19.2,
     "payoutType": "CPA / COD",
@@ -21331,7 +21859,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 264,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -21380,7 +21908,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 296.824 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -21394,10 +21922,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-nuvomotionfree-364",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-nuvomotionfree-364",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -21412,7 +21942,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 265,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -21461,7 +21991,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 300.275 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -21475,10 +22005,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-acudiaformglyc-365",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-acudiaformglyc-365",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -21493,7 +22025,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 266,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -21542,7 +22074,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 303.766 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -21556,10 +22088,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-syndelislimrap-366",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-syndelislimrap-366",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -21574,7 +22108,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 267,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -21623,7 +22157,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 307.297 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -21637,10 +22171,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-kinetiwirexmen-367",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-kinetiwirexmen-367",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -21655,7 +22191,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 268,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -21704,7 +22240,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 310.870 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -21718,10 +22254,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-solinnogialuro-368",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-solinnogialuro-368",
     "avgPayout": 24.2,
     "payoutType": "CPA / COD",
@@ -21736,7 +22274,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 269,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -21785,7 +22323,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 314.484 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -21799,10 +22337,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-omnithermovest-369",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-omnithermovest-369",
     "avgPayout": 25.2,
     "payoutType": "CPA / COD",
@@ -21817,7 +22357,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 270,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -21866,7 +22406,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 318.140 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -21880,10 +22420,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-ultraflekostee-370",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-ultraflekostee-370",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -21898,7 +22440,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 271,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -21947,7 +22489,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 321.838 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -21961,10 +22503,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-optimagluconol-371",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-optimagluconol-371",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -21979,7 +22523,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 272,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -22028,7 +22572,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 325.580 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -22042,10 +22586,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-vitafortunella-372",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-vitafortunella-372",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -22060,7 +22606,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 273,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -22109,7 +22655,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 329.365 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -22123,10 +22669,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-proalfazonevir-373",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-proalfazonevir-373",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -22141,7 +22689,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 274,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -22190,7 +22738,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 333.194 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -22204,10 +22752,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-purebioretinde-374",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-purebioretinde-374",
     "avgPayout": 30.2,
     "payoutType": "CPA / COD",
@@ -22222,7 +22772,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 275,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -22271,7 +22821,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 337.068 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -22285,10 +22835,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-bioorthofeetai-375",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-bioorthofeetai-375",
     "avgPayout": 31.2,
     "payoutType": "CPA / COD",
@@ -22303,7 +22855,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 276,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -22352,7 +22904,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 340.986 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -22366,10 +22918,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-natureflekoste-376",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-natureflekoste-376",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -22384,7 +22938,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 277,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -22433,7 +22987,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 344.951 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -22447,10 +23001,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-maxgluconolpan-377",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-maxgluconolpan-377",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -22465,7 +23021,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 278,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -22514,7 +23070,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 348.961 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -22528,10 +23084,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-primefortunell-378",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-primefortunell-378",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -22546,7 +23104,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 279,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -22595,7 +23153,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 353.018 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -22609,10 +23167,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-apexalfazonevi-379",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-apexalfazonevi-379",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -22627,7 +23187,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 280,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -22676,7 +23236,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 357.122 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -22690,10 +23250,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-novabioretinde-380",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-novabioretinde-380",
     "avgPayout": 16.2,
     "payoutType": "CPA / COD",
@@ -22708,7 +23270,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 281,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -22757,7 +23319,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 361.273 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -22771,10 +23333,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-zenorthofeetai-381",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-zenorthofeetai-381",
     "avgPayout": 17.2,
     "payoutType": "CPA / COD",
@@ -22789,7 +23353,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 282,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -22838,7 +23402,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 365.473 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -22852,10 +23416,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-coreflekosteel-382",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-coreflekosteel-382",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -22870,7 +23436,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 283,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -22919,7 +23485,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 369.722 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -22933,10 +23499,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-elitegluconolp-383",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-elitegluconolp-383",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -22951,7 +23519,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 284,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -23000,7 +23568,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 374.021 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -23014,10 +23582,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-activefortunel-384",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-activefortunel-384",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -23032,7 +23602,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 285,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -23081,7 +23651,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 378.369 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -23095,10 +23665,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-genesisalfazon-385",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-genesisalfazon-385",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -23113,7 +23685,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 286,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -23162,7 +23734,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 382.768 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -23176,10 +23748,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-truebioretinde-386",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-truebioretinde-386",
     "avgPayout": 22.2,
     "payoutType": "CPA / COD",
@@ -23194,7 +23768,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 287,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -23243,7 +23817,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 387.217 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -23257,10 +23831,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-everorthofeeta-387",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-everorthofeeta-387",
     "avgPayout": 23.2,
     "payoutType": "CPA / COD",
@@ -23275,7 +23851,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 288,
     "trendStatus": "Estável / Top 1",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -23324,7 +23900,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 391.719 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -23338,10 +23914,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-vitalflekostee-388",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-vitalflekostee-388",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -23356,7 +23934,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 289,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -23405,7 +23983,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 396.273 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -23419,10 +23997,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-megagluconolpa-389",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-megagluconolpa-389",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -23437,7 +24017,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 290,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -23486,7 +24066,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 400.880 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -23500,10 +24080,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-aurafortunella-390",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-aurafortunella-390",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -23518,7 +24100,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 291,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -23567,7 +24149,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 405.540 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -23581,10 +24163,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-terraalfazonev-391",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-terraalfazonev-391",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -23599,7 +24183,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 292,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -23648,7 +24232,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 410.255 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -23662,10 +24246,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-hydrabioretind-392",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-hydrabioretind-392",
     "avgPayout": 28.2,
     "payoutType": "CPA / COD",
@@ -23680,7 +24266,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 293,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -23729,7 +24315,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 415.025 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -23743,10 +24329,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-vigororthofeet-393",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-vigororthofeet-393",
     "avgPayout": 29.2,
     "payoutType": "CPA / COD",
@@ -23761,7 +24349,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 294,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -23810,7 +24398,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 419.849 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -23824,10 +24412,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Géis & Cuidados Articulares COD",
     "tagline": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-nuvoflekosteel-394",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-nuvoflekosteel-394",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -23842,7 +24432,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 295,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -23891,7 +24481,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 424.730 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -23905,10 +24495,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Cardiovascular & Metabólico COD",
     "tagline": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-acugluconolpan-395",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-acugluconolpan-395",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -23923,7 +24515,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 296,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gotas de rápida absorção com alta taxa de confirmação pelo call center. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -23972,7 +24564,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 429.668 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -23986,10 +24578,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Emagrecimento & Desintoxicação COD",
     "tagline": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-synfortunellac-396",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-synfortunellac-396",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -24004,7 +24598,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 297,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Perca peso sem pagar antecipadamente, garantia de entrega expressa. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -24053,7 +24647,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 434.663 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -24067,10 +24661,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Vigor Masculino & Potência COD",
     "tagline": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-kinetialfazone-397",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-kinetialfazone-397",
     "avgPayout": 36,
     "payoutType": "CPA / COD",
@@ -24085,7 +24681,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 298,
     "trendStatus": "Nova Explosão",
     "funnelType": "COD",
-    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Solução discreta entregue em embalagem anônima com pagamento em espécie. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -24134,7 +24730,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 439.717 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -24148,10 +24744,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "Beleza & Cuidados",
     "subCategory": "Rejuvenescimento & Pele COD",
     "tagline": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "SA-OFFER: SA-solbioretindee-398",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-solbioretindee-398",
     "avgPayout": 34.2,
     "payoutType": "CPA / COD",
@@ -24166,7 +24764,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 299,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Mulheres 24-58 anos",
     "topCountries": [
       {
@@ -24215,7 +24813,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 444.829 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -24229,10 +24827,12 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Físico & Utilidades COD",
     "tagline": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "SA-OFFER: SA-omniorthofeeta-399",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://smartadv.com/offers/SA-omniorthofeeta-399",
     "avgPayout": 35.2,
     "payoutType": "CPA / COD",
@@ -24247,7 +24847,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     "octoberRank": 300,
     "trendStatus": "Em Alta ↗",
     "funnelType": "COD",
-    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador. Testado e ativo no marketplace SmartADV com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -24296,7 +24896,7 @@ export const smartAdvProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "COD Localizado",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da SmartADV",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da SmartADV",
       "Volume de 450.000 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]

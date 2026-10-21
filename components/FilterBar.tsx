@@ -10,9 +10,12 @@ import {
   Globe2, 
   Tags, 
   Zap,
-  Check
+  Check,
+  Layers,
+  Calendar,
+  Sparkles
 } from 'lucide-react';
-import { FilterState, Category, FunnelType, TrendStatus } from '@/types/affiliate';
+import { FilterState, Category, FunnelType, TrendStatus, Platform } from '@/types/affiliate';
 import { categoriesList, countryFlagMap } from '@/data/all-products';
 
 interface FilterBarProps {
@@ -30,6 +33,8 @@ export function FilterBar({
 }: FilterBarProps) {
   const isFiltered = 
     filters.searchQuery !== '' ||
+    filters.selectedPlatform !== 'Todas' ||
+    filters.selectedLaunchYear !== 'Todos' ||
     filters.selectedCategory !== 'Todos' ||
     filters.selectedCountry !== 'Todos' ||
     filters.selectedFunnel !== 'Todos' ||
@@ -139,19 +144,55 @@ export function FilterBar({
 
       </div>
 
-      {/* Filter Row: Segment, Country, Funnel, Trend */}
-      <div className="grid grid-cols-2 sm:grid-cols-4 gap-2.5 pt-1">
+      {/* Filter Row: Platform, Launch Year, Segment, Country, Funnel, Trend */}
+      <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-2.5 pt-1">
         
+        {/* Platform Selector */}
+        <div className="space-y-1">
+          <label className="text-[11px] font-medium text-slate-400 flex items-center gap-1">
+            <Layers className="w-3 h-3 text-emerald-400" />
+            Plataforma
+          </label>
+          <select
+            value={filters.selectedPlatform}
+            onChange={(e) => onUpdateFilters({ selectedPlatform: e.target.value as Platform | 'Todas' })}
+            className="w-full bg-slate-950/70 border border-slate-800 rounded-xl px-2.5 py-1.5 text-xs text-white focus:outline-none focus:border-emerald-500/60 cursor-pointer"
+          >
+            <option value="Todas" className="bg-slate-900 text-white">Todas as Redes</option>
+            <option value="ClickBank" className="bg-slate-900 text-emerald-300">ClickBank (300)</option>
+            <option value="Digistore24" className="bg-slate-900 text-blue-300">Digistore24 (300)</option>
+            <option value="MediaScalers" className="bg-slate-900 text-amber-300">MediaScalers (300)</option>
+            <option value="SmartADV" className="bg-slate-900 text-purple-300">SmartADV (300)</option>
+          </select>
+        </div>
+
+        {/* Launch Year Selector (2025 - 2026) */}
+        <div className="space-y-1">
+          <label className="text-[11px] font-medium text-slate-400 flex items-center gap-1">
+            <Calendar className="w-3 h-3 text-cyan-400" />
+            Lançamento
+          </label>
+          <select
+            value={filters.selectedLaunchYear}
+            onChange={(e) => onUpdateFilters({ selectedLaunchYear: e.target.value as any })}
+            className="w-full bg-slate-950/70 border border-slate-800 rounded-xl px-2.5 py-1.5 text-xs text-white focus:outline-none focus:border-cyan-500/60 cursor-pointer font-medium"
+          >
+            <option value="Todos" className="bg-slate-900 text-white">Todos (2025-2026)</option>
+            <option value="2026" className="bg-slate-900 text-emerald-300">🚀 Lançados em 2026</option>
+            <option value="2025" className="bg-slate-900 text-cyan-300">✨ Lançados em 2025</option>
+          </select>
+        </div>
+
         {/* Segment / Category */}
         <div className="space-y-1">
           <label className="text-[11px] font-medium text-slate-400 flex items-center gap-1">
-            <Tags className="w-3 h-3 text-cyan-400" />
+            <Tags className="w-3 h-3 text-amber-400" />
             Segmento
           </label>
           <select
             value={filters.selectedCategory}
             onChange={(e) => onUpdateFilters({ selectedCategory: e.target.value as any })}
-            className="w-full bg-slate-950/70 border border-slate-800 rounded-xl px-2.5 py-1.5 text-xs text-white focus:outline-none focus:border-cyan-500/60 cursor-pointer"
+            className="w-full bg-slate-950/70 border border-slate-800 rounded-xl px-2.5 py-1.5 text-xs text-white focus:outline-none focus:border-amber-500/60 cursor-pointer"
           >
             <option value="Todos" className="bg-slate-900 text-white">Todos os Segmentos</option>
             {categoriesList.map((cat) => (
@@ -163,13 +204,13 @@ export function FilterBar({
         {/* Top Country Selector */}
         <div className="space-y-1">
           <label className="text-[11px] font-medium text-slate-400 flex items-center gap-1">
-            <Globe2 className="w-3 h-3 text-emerald-400" />
+            <Globe2 className="w-3 h-3 text-indigo-400" />
             País Top Comprador
           </label>
           <select
             value={filters.selectedCountry}
             onChange={(e) => onUpdateFilters({ selectedCountry: e.target.value })}
-            className="w-full bg-slate-950/70 border border-slate-800 rounded-xl px-2.5 py-1.5 text-xs text-white focus:outline-none focus:border-emerald-500/60 cursor-pointer"
+            className="w-full bg-slate-950/70 border border-slate-800 rounded-xl px-2.5 py-1.5 text-xs text-white focus:outline-none focus:border-indigo-500/60 cursor-pointer"
           >
             <option value="Todos" className="bg-slate-900 text-white">Todos os Países</option>
             {Object.entries(countryFlagMap).map(([code, { name, flag }]) => (
@@ -183,13 +224,13 @@ export function FilterBar({
         {/* Funnel Type */}
         <div className="space-y-1">
           <label className="text-[11px] font-medium text-slate-400 flex items-center gap-1">
-            <SlidersHorizontal className="w-3 h-3 text-amber-400" />
+            <SlidersHorizontal className="w-3 h-3 text-pink-400" />
             Tipo de Funil
           </label>
           <select
             value={filters.selectedFunnel}
             onChange={(e) => onUpdateFilters({ selectedFunnel: e.target.value as any })}
-            className="w-full bg-slate-950/70 border border-slate-800 rounded-xl px-2.5 py-1.5 text-xs text-white focus:outline-none focus:border-amber-500/60 cursor-pointer"
+            className="w-full bg-slate-950/70 border border-slate-800 rounded-xl px-2.5 py-1.5 text-xs text-white focus:outline-none focus:border-pink-500/60 cursor-pointer"
           >
             <option value="Todos" className="bg-slate-900 text-white">Todos os Funis</option>
             {funnelOptions.map((f) => (
@@ -202,7 +243,7 @@ export function FilterBar({
         <div className="space-y-1">
           <label className="text-[11px] font-medium text-slate-400 flex items-center gap-1">
             <Zap className="w-3 h-3 text-purple-400" />
-            Tendência em Outubro
+            Tendência Atual
           </label>
           <select
             value={filters.selectedTrend}

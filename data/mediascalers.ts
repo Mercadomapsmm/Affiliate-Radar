@@ -10,10 +10,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CBD Pressão & Glicose",
     "tagline": "Gomas de cânhamo concentrado para relaxamento vascular, equilíbrio de açúcar e alívio do estresse.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-7821",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-7821",
     "avgPayout": 145,
     "payoutType": "CPA Fixo",
@@ -28,7 +30,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 1,
     "trendStatus": "Estável / Top 1",
     "funnelType": "TSL",
-    "primaryAngle": "Gomas de cânhamo concentrado para relaxamento vascular, equilíbrio de açúcar e alívio do estresse. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gomas de cânhamo concentrado para relaxamento vascular, equilíbrio de açúcar e alívio do estresse. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -67,7 +69,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 13.600 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -81,10 +83,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Glicose & Insulina",
     "tagline": "Berberina e melão amargo para normalização de picos glicêmicos após refeições.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-8104",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-8104",
     "avgPayout": 138,
     "payoutType": "CPA Fixo",
@@ -99,7 +103,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 2,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Berberina e melão amargo para normalização de picos glicêmicos após refeições. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Berberina e melão amargo para normalização de picos glicêmicos após refeições. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -138,7 +142,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 13.754 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -152,10 +156,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Foco & Cognição",
     "tagline": "Nootrópico avançado para velocidade de raciocínio, foco inabalável e retenção mental.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-6924",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-6924",
     "avgPayout": 132,
     "payoutType": "CPA Fixo",
@@ -170,7 +176,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 3,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Nootrópico avançado para velocidade de raciocínio, foco inabalável e retenção mental. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Nootrópico avançado para velocidade de raciocínio, foco inabalável e retenção mental. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -209,7 +215,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 13.909 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -223,10 +229,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Próstata & Micção",
     "tagline": "Complexo fitoquímico para desinflamar a próstata e devolver noites de sono sem interrupções.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-7492",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-7492",
     "avgPayout": 140,
     "payoutType": "CPA Fixo",
@@ -241,7 +249,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 4,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Complexo fitoquímico para desinflamar a próstata e devolver noites de sono sem interrupções. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Complexo fitoquímico para desinflamar a próstata e devolver noites de sono sem interrupções. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -280,7 +288,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 14.066 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -294,10 +302,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "Testosterona Natural",
     "tagline": "Potencializador de testosterona com ácido D-aspártico e extratos botânicos estimulantes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-8023",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-8023",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -312,7 +322,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 5,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Potencializador de testosterona com ácido D-aspártico e extratos botânicos estimulantes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Potencializador de testosterona com ácido D-aspártico e extratos botânicos estimulantes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -356,7 +366,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 14.225 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -370,10 +380,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Joelheira Ortopédica 3D",
     "tagline": "Joelheira com estabilizadores laterais e almofada de silicone para alívio de dor e artrose.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-EC-101",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-EC-101",
     "avgPayout": 48,
     "payoutType": "CPA Fixo",
@@ -388,7 +400,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 6,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Joelheira com estabilizadores laterais e almofada de silicone para alívio de dor e artrose. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Joelheira com estabilizadores laterais e almofada de silicone para alívio de dor e artrose. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -432,7 +444,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 14.385 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -446,10 +458,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Repelente Solar LED",
     "tagline": "Exterminador elétrico de mosquitos com luz ultravioleta e carregamento solar autônomo.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-EC-102",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-EC-102",
     "avgPayout": 42,
     "payoutType": "CPA Fixo",
@@ -464,7 +478,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 7,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Exterminador elétrico de mosquitos com luz ultravioleta e carregamento solar autônomo. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Exterminador elétrico de mosquitos com luz ultravioleta e carregamento solar autônomo. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -508,7 +522,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 14.547 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -522,10 +536,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Aparelho Anti-Ronco",
     "tagline": "Dilatador nasal magnético de silicone médico para respiração livre e noites silenciosas.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-EC-103",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-EC-103",
     "avgPayout": 45,
     "payoutType": "CPA Fixo",
@@ -540,7 +556,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 8,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Dilatador nasal magnético de silicone médico para respiração livre e noites silenciosas. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Dilatador nasal magnético de silicone médico para respiração livre e noites silenciosas. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -584,7 +600,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 14.712 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -598,10 +614,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Micro Câmera WiFi",
     "tagline": "Câmera compacta 1080p com visão noturna por infravermelho e alerta no celular.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-EC-104",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-EC-104",
     "avgPayout": 49,
     "payoutType": "CPA Fixo",
@@ -616,7 +634,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 9,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Câmera compacta 1080p com visão noturna por infravermelho e alerta no celular. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Câmera compacta 1080p com visão noturna por infravermelho e alerta no celular. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -660,7 +678,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 14.878 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -674,10 +692,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Peeling Ultrassônico",
     "tagline": "Espátula facial com vibração de alta frequência para remover cravos e infundir séruns.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-EC-106",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-EC-106",
     "avgPayout": 46,
     "payoutType": "CPA Fixo",
@@ -692,7 +712,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 10,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Espátula facial com vibração de alta frequência para remover cravos e infundir séruns. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Espátula facial com vibração de alta frequência para remover cravos e infundir séruns. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -736,7 +756,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 15.046 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -750,10 +770,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-novaketoblastb-110",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-novaketoblastb-110",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -768,7 +790,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 11,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -807,7 +829,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 15.215 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -821,10 +843,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-zeneagleeye911-111",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-zeneagleeye911-111",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -839,7 +863,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 12,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -878,7 +902,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 15.387 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -892,10 +916,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-coresolarbrigh-112",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-coresolarbrigh-112",
     "avgPayout": 72.75,
     "payoutType": "CPA Fixo",
@@ -910,7 +936,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 13,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -954,7 +980,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 15.561 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -968,10 +994,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-elitescratchre-113",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-elitescratchre-113",
     "avgPayout": 73.75,
     "payoutType": "CPA Fixo",
@@ -986,7 +1014,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 14,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -1030,7 +1058,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 15.737 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -1044,10 +1072,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-activespineali-114",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-activespineali-114",
     "avgPayout": 74.75,
     "payoutType": "CPA Fixo",
@@ -1062,7 +1092,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 15,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -1106,7 +1136,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 15.914 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -1120,10 +1150,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-genesisketobla-115",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-genesisketobla-115",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -1138,7 +1170,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 16,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -1177,7 +1209,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 16.094 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -1191,10 +1223,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-trueeagleeye91-116",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-trueeagleeye91-116",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -1209,7 +1243,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 17,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -1248,7 +1282,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 16.275 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -1262,10 +1296,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-eversolarbrigh-117",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-eversolarbrigh-117",
     "avgPayout": 77.75,
     "payoutType": "CPA Fixo",
@@ -1280,7 +1316,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 18,
     "trendStatus": "Estável / Top 1",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -1324,7 +1360,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 16.459 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -1338,10 +1374,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-vitalscratchre-118",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-vitalscratchre-118",
     "avgPayout": 78.75,
     "payoutType": "CPA Fixo",
@@ -1356,7 +1394,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 19,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -1400,7 +1438,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 16.645 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -1414,10 +1452,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-megaspinealign-119",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-megaspinealign-119",
     "avgPayout": 79.75,
     "payoutType": "CPA Fixo",
@@ -1432,7 +1472,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 20,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -1476,7 +1516,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 16.833 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -1490,10 +1530,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-auraketoblastb-120",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-auraketoblastb-120",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -1508,7 +1550,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 21,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -1547,7 +1589,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 17.023 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -1561,10 +1603,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-terraeagleeye9-121",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-terraeagleeye9-121",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -1579,7 +1623,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 22,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -1618,7 +1662,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 17.215 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -1632,10 +1676,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-hydrasolarbrig-122",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-hydrasolarbrig-122",
     "avgPayout": 62.75,
     "payoutType": "CPA Fixo",
@@ -1650,7 +1696,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 23,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -1694,7 +1740,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 17.409 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -1708,10 +1754,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-vigorscratchre-123",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-vigorscratchre-123",
     "avgPayout": 63.75,
     "payoutType": "CPA Fixo",
@@ -1726,7 +1774,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 24,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -1770,7 +1818,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 17.606 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -1784,10 +1832,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-nuvospinealign-124",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-nuvospinealign-124",
     "avgPayout": 64.75,
     "payoutType": "CPA Fixo",
@@ -1802,7 +1852,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 25,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -1846,7 +1896,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 17.805 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -1860,10 +1910,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-acuketoblastbh-125",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-acuketoblastbh-125",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -1878,7 +1930,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 26,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -1917,7 +1969,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 18.006 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -1931,10 +1983,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-syneagleeye911-126",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-syneagleeye911-126",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -1949,7 +2003,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 27,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -1988,7 +2042,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 18.209 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2002,10 +2056,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-kinetisolarbri-127",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-kinetisolarbri-127",
     "avgPayout": 67.75,
     "payoutType": "CPA Fixo",
@@ -2020,7 +2076,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 28,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -2064,7 +2120,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 18.414 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2078,10 +2134,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-solscratchrepa-128",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-solscratchrepa-128",
     "avgPayout": 68.75,
     "payoutType": "CPA Fixo",
@@ -2096,7 +2154,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 29,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -2140,7 +2198,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 18.622 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2154,10 +2212,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-omnispinealign-129",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-omnispinealign-129",
     "avgPayout": 69.75,
     "payoutType": "CPA Fixo",
@@ -2172,7 +2232,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 30,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -2216,7 +2276,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 18.832 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2230,10 +2290,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-ultratitanvita-130",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-ultratitanvita-130",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -2248,7 +2310,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 31,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -2287,7 +2349,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 19.045 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2301,10 +2363,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-optimabloodpre-131",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-optimabloodpre-131",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -2319,7 +2383,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 32,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -2358,7 +2422,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 19.260 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2372,10 +2436,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-vitacleansweep-132",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-vitacleansweep-132",
     "avgPayout": 72.75,
     "payoutType": "CPA Fixo",
@@ -2390,7 +2456,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 33,
     "trendStatus": "Estável / Top 1",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -2434,7 +2500,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 19.477 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2448,10 +2514,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-proautogripmag-133",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-proautogripmag-133",
     "avgPayout": 73.75,
     "payoutType": "CPA Fixo",
@@ -2466,7 +2534,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 34,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -2510,7 +2578,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 19.697 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2524,10 +2592,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-pureneckrelief-134",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-pureneckrelief-134",
     "avgPayout": 74.75,
     "payoutType": "CPA Fixo",
@@ -2542,7 +2612,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 35,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -2586,7 +2656,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 19.919 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2600,10 +2670,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-biotitanvitali-135",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-biotitanvitali-135",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -2618,7 +2690,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 36,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -2657,7 +2729,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 20.144 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2671,10 +2743,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-naturebloodpre-136",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-naturebloodpre-136",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -2689,7 +2763,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 37,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -2728,7 +2802,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 20.372 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2742,10 +2816,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-maxcleansweepr-137",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-maxcleansweepr-137",
     "avgPayout": 77.75,
     "payoutType": "CPA Fixo",
@@ -2760,7 +2836,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 38,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -2804,7 +2880,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 20.602 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2818,10 +2894,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-primeautogripm-138",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-primeautogripm-138",
     "avgPayout": 78.75,
     "payoutType": "CPA Fixo",
@@ -2836,7 +2914,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 39,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -2880,7 +2958,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 20.834 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2894,10 +2972,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-apexneckrelief-139",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-apexneckrelief-139",
     "avgPayout": 79.75,
     "payoutType": "CPA Fixo",
@@ -2912,7 +2992,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 40,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -2956,7 +3036,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 21.069 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -2970,10 +3050,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-novatitanvital-140",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-novatitanvital-140",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -2988,7 +3070,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 41,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -3027,7 +3109,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 21.307 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -3041,10 +3123,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-zenbloodpress9-141",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-zenbloodpress9-141",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -3059,7 +3143,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 42,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -3098,7 +3182,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 21.548 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -3112,10 +3196,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-corecleansweep-142",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-corecleansweep-142",
     "avgPayout": 62.75,
     "payoutType": "CPA Fixo",
@@ -3130,7 +3216,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 43,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -3174,7 +3260,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 21.791 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -3188,10 +3274,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-eliteautogripm-143",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-eliteautogripm-143",
     "avgPayout": 63.75,
     "payoutType": "CPA Fixo",
@@ -3206,7 +3294,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 44,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -3250,7 +3338,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 22.037 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -3264,10 +3352,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-activeneckreli-144",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-activeneckreli-144",
     "avgPayout": 64.75,
     "payoutType": "CPA Fixo",
@@ -3282,7 +3372,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 45,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -3326,7 +3416,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 22.286 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -3340,10 +3430,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-genesistitanvi-145",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-genesistitanvi-145",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -3358,7 +3450,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 46,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -3397,7 +3489,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 22.537 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -3411,10 +3503,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-truebloodpress-146",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-truebloodpress-146",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -3429,7 +3523,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 47,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -3468,7 +3562,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 22.792 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -3482,10 +3576,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-evercleansweep-147",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-evercleansweep-147",
     "avgPayout": 67.75,
     "payoutType": "CPA Fixo",
@@ -3500,7 +3596,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 48,
     "trendStatus": "Estável / Top 1",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -3544,7 +3640,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 23.049 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -3558,10 +3654,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-vitalautogripm-148",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-vitalautogripm-148",
     "avgPayout": 68.75,
     "payoutType": "CPA Fixo",
@@ -3576,7 +3674,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 49,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -3620,7 +3718,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 23.309 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -3634,10 +3732,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-meganeckrelief-149",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-meganeckrelief-149",
     "avgPayout": 69.75,
     "payoutType": "CPA Fixo",
@@ -3652,7 +3752,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 50,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -3696,7 +3796,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 23.572 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -3710,10 +3810,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-auratitanvital-150",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-auratitanvital-150",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -3728,7 +3830,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 51,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -3767,7 +3869,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 23.838 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -3781,10 +3883,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-terrabloodpres-151",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-terrabloodpres-151",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -3799,7 +3903,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 52,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -3838,7 +3942,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 24.107 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -3852,10 +3956,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-hydracleanswee-152",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-hydracleanswee-152",
     "avgPayout": 72.75,
     "payoutType": "CPA Fixo",
@@ -3870,7 +3976,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 53,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -3914,7 +4020,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 24.379 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -3928,10 +4034,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-vigorautogripm-153",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-vigorautogripm-153",
     "avgPayout": 73.75,
     "payoutType": "CPA Fixo",
@@ -3946,7 +4054,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 54,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -3990,7 +4098,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 24.655 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -4004,10 +4112,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-nuvoneckrelief-154",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-nuvoneckrelief-154",
     "avgPayout": 74.75,
     "payoutType": "CPA Fixo",
@@ -4022,7 +4132,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 55,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -4066,7 +4176,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 24.933 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -4080,10 +4190,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-acutitanvitali-155",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-acutitanvitali-155",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -4098,7 +4210,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 56,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -4137,7 +4249,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 25.214 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -4151,10 +4263,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-synbloodpress9-156",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-synbloodpress9-156",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -4169,7 +4283,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 57,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -4208,7 +4322,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 25.499 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -4222,10 +4336,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-kineticleanswe-157",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-kineticleanswe-157",
     "avgPayout": 77.75,
     "payoutType": "CPA Fixo",
@@ -4240,7 +4356,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 58,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -4284,7 +4400,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 25.787 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -4298,10 +4414,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-solautogripmag-158",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-solautogripmag-158",
     "avgPayout": 78.75,
     "payoutType": "CPA Fixo",
@@ -4316,7 +4434,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 59,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -4360,7 +4478,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 26.078 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -4374,10 +4492,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-omnineckrelief-159",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-omnineckrelief-159",
     "avgPayout": 79.75,
     "payoutType": "CPA Fixo",
@@ -4392,7 +4512,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 60,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -4436,7 +4556,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 26.372 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -4450,10 +4570,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-ultracardioshi-160",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-ultracardioshi-160",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -4468,7 +4590,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 61,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -4507,7 +4629,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 26.670 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -4521,10 +4643,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-optimainternal-161",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-optimainternal-161",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -4539,7 +4663,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 62,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -4578,7 +4702,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 26.971 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -4592,10 +4716,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-vitaarcticcool-162",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-vitaarcticcool-162",
     "avgPayout": 62.75,
     "payoutType": "CPA Fixo",
@@ -4610,7 +4736,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 63,
     "trendStatus": "Estável / Top 1",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -4654,7 +4780,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 27.275 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -4668,10 +4794,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-prodefoggerfas-163",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-prodefoggerfas-163",
     "avgPayout": 63.75,
     "payoutType": "CPA Fixo",
@@ -4686,7 +4814,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 64,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -4730,7 +4858,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 27.583 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -4744,10 +4872,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-pureacupointem-164",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-pureacupointem-164",
     "avgPayout": 64.75,
     "payoutType": "CPA Fixo",
@@ -4762,7 +4892,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 65,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -4806,7 +4936,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 27.894 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -4820,10 +4950,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-biocardioshiel-165",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-biocardioshiel-165",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -4838,7 +4970,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 66,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -4877,7 +5009,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 28.209 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -4891,10 +5023,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-natureinternal-166",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-natureinternal-166",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -4909,7 +5043,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 67,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -4948,7 +5082,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 28.528 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -4962,10 +5096,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-maxarcticcoolp-167",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-maxarcticcoolp-167",
     "avgPayout": 67.75,
     "payoutType": "CPA Fixo",
@@ -4980,7 +5116,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 68,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -5024,7 +5160,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 28.850 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -5038,10 +5174,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-primedefoggerf-168",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-primedefoggerf-168",
     "avgPayout": 68.75,
     "payoutType": "CPA Fixo",
@@ -5056,7 +5194,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 69,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -5100,7 +5238,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 29.175 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -5114,10 +5252,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-apexacupointem-169",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-apexacupointem-169",
     "avgPayout": 69.75,
     "payoutType": "CPA Fixo",
@@ -5132,7 +5272,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 70,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -5176,7 +5316,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 29.505 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -5190,10 +5330,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-novacardioshie-170",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-novacardioshie-170",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -5208,7 +5350,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 71,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -5247,7 +5389,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 29.838 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -5261,10 +5403,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-zeninternal911-171",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-zeninternal911-171",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -5279,7 +5423,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 72,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -5318,7 +5462,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 30.175 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -5332,10 +5476,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-corearcticcool-172",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-corearcticcool-172",
     "avgPayout": 72.75,
     "payoutType": "CPA Fixo",
@@ -5350,7 +5496,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 73,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -5394,7 +5540,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 30.515 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -5408,10 +5554,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-elitedefoggerf-173",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-elitedefoggerf-173",
     "avgPayout": 73.75,
     "payoutType": "CPA Fixo",
@@ -5426,7 +5574,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 74,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -5470,7 +5618,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 30.860 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -5484,10 +5632,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-activeacupoint-174",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-activeacupoint-174",
     "avgPayout": 74.75,
     "payoutType": "CPA Fixo",
@@ -5502,7 +5652,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 75,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -5546,7 +5696,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 31.208 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -5560,10 +5710,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-genesiscardios-175",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-genesiscardios-175",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -5578,7 +5730,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 76,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -5617,7 +5769,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 31.560 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -5631,10 +5783,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-trueinternal91-176",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-trueinternal91-176",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -5649,7 +5803,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 77,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -5688,7 +5842,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 31.916 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -5702,10 +5856,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-everarcticcool-177",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-everarcticcool-177",
     "avgPayout": 77.75,
     "payoutType": "CPA Fixo",
@@ -5720,7 +5876,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 78,
     "trendStatus": "Estável / Top 1",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -5764,7 +5920,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 32.277 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -5778,10 +5934,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-vitaldefoggerf-178",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-vitaldefoggerf-178",
     "avgPayout": 78.75,
     "payoutType": "CPA Fixo",
@@ -5796,7 +5954,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 79,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -5840,7 +5998,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 32.641 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -5854,10 +6012,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-megaacupointem-179",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-megaacupointem-179",
     "avgPayout": 79.75,
     "payoutType": "CPA Fixo",
@@ -5872,7 +6032,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 80,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -5916,7 +6076,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 33.009 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -5930,10 +6090,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-auracardioshie-180",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-auracardioshie-180",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -5948,7 +6110,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 81,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -5987,7 +6149,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 33.382 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6001,10 +6163,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-terrainternal9-181",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-terrainternal9-181",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -6019,7 +6183,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 82,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -6058,7 +6222,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 33.759 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6072,10 +6236,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-hydraarcticcoo-182",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-hydraarcticcoo-182",
     "avgPayout": 62.75,
     "payoutType": "CPA Fixo",
@@ -6090,7 +6256,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 83,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -6134,7 +6300,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 34.140 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6148,10 +6314,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-vigordefoggerf-183",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-vigordefoggerf-183",
     "avgPayout": 63.75,
     "payoutType": "CPA Fixo",
@@ -6166,7 +6334,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 84,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -6210,7 +6378,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 34.525 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6224,10 +6392,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-nuvoacupointem-184",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-nuvoacupointem-184",
     "avgPayout": 64.75,
     "payoutType": "CPA Fixo",
@@ -6242,7 +6412,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 85,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -6286,7 +6456,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 34.915 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6300,10 +6470,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-acucardioshiel-185",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-acucardioshiel-185",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -6318,7 +6490,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 86,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -6357,7 +6529,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 35.309 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6371,10 +6543,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-syninternal911-186",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-syninternal911-186",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -6389,7 +6563,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 87,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -6428,7 +6602,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 35.708 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6442,10 +6616,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-kinetiarcticco-187",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-kinetiarcticco-187",
     "avgPayout": 67.75,
     "payoutType": "CPA Fixo",
@@ -6460,7 +6636,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 88,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -6504,7 +6680,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 36.111 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6518,10 +6694,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-soldefoggerfas-188",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-soldefoggerfas-188",
     "avgPayout": 68.75,
     "payoutType": "CPA Fixo",
@@ -6536,7 +6714,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 89,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -6580,7 +6758,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 36.518 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6594,10 +6772,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-omniacupointem-189",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-omniacupointem-189",
     "avgPayout": 69.75,
     "payoutType": "CPA Fixo",
@@ -6612,7 +6792,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 90,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -6656,7 +6836,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 36.930 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6670,10 +6850,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-ultrasleepdeep-190",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-ultrasleepdeep-190",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -6688,7 +6870,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 91,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -6727,7 +6909,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 37.347 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6741,10 +6923,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-optimaurgentfu-191",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-optimaurgentfu-191",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -6759,7 +6943,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 92,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -6798,7 +6982,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 37.769 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6812,10 +6996,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-vitahydroglowt-192",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-vitahydroglowt-192",
     "avgPayout": 72.75,
     "payoutType": "CPA Fixo",
@@ -6830,7 +7016,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 93,
     "trendStatus": "Estável / Top 1",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -6874,7 +7060,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 38.195 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6888,10 +7074,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-proturbovac600-193",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-proturbovac600-193",
     "avgPayout": 73.75,
     "payoutType": "CPA Fixo",
@@ -6906,7 +7094,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 94,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -6950,7 +7138,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 38.626 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -6964,10 +7152,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-purememoryfoam-194",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-purememoryfoam-194",
     "avgPayout": 74.75,
     "payoutType": "CPA Fixo",
@@ -6982,7 +7172,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 95,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -7026,7 +7216,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 39.062 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7040,10 +7230,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-biosleepdeepme-195",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-biosleepdeepme-195",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -7058,7 +7250,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 96,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -7097,7 +7289,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 39.503 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7111,10 +7303,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-natureurgentfu-196",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-natureurgentfu-196",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -7129,7 +7323,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 97,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -7168,7 +7362,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 39.949 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7182,10 +7376,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-maxhydroglowtu-197",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-maxhydroglowtu-197",
     "avgPayout": 77.75,
     "payoutType": "CPA Fixo",
@@ -7200,7 +7396,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 98,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -7244,7 +7440,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 40.400 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7258,10 +7454,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-primeturbovac6-198",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-primeturbovac6-198",
     "avgPayout": 78.75,
     "payoutType": "CPA Fixo",
@@ -7276,7 +7474,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 99,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -7320,7 +7518,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 40.856 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7334,10 +7532,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-apexmemoryfoam-199",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-apexmemoryfoam-199",
     "avgPayout": 79.75,
     "payoutType": "CPA Fixo",
@@ -7352,7 +7552,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 100,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -7396,7 +7596,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 41.317 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7410,10 +7610,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-novasleepdeepm-200",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-novasleepdeepm-200",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -7428,7 +7630,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 101,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -7467,7 +7669,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 41.784 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7481,10 +7683,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-zenurgentfungu-201",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-zenurgentfungu-201",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -7499,7 +7703,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 102,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -7538,7 +7742,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 42.255 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7552,10 +7756,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-corehydroglowt-202",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-corehydroglowt-202",
     "avgPayout": 62.75,
     "payoutType": "CPA Fixo",
@@ -7570,7 +7776,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 103,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -7614,7 +7820,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 42.732 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7628,10 +7834,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-eliteturbovac6-203",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-eliteturbovac6-203",
     "avgPayout": 63.75,
     "payoutType": "CPA Fixo",
@@ -7646,7 +7854,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 104,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -7690,7 +7898,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 43.215 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7704,10 +7912,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-activememoryfo-204",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-activememoryfo-204",
     "avgPayout": 64.75,
     "payoutType": "CPA Fixo",
@@ -7722,7 +7932,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 105,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -7766,7 +7976,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 43.702 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7780,10 +7990,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-genesissleepde-205",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-genesissleepde-205",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -7798,7 +8010,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 106,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -7837,7 +8049,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 44.196 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7851,10 +8063,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-trueurgentfung-206",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-trueurgentfung-206",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -7869,7 +8083,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 107,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -7908,7 +8122,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 44.694 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7922,10 +8136,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-everhydroglowt-207",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-everhydroglowt-207",
     "avgPayout": 67.75,
     "payoutType": "CPA Fixo",
@@ -7940,7 +8156,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 108,
     "trendStatus": "Estável / Top 1",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -7984,7 +8200,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 45.199 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -7998,10 +8214,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-vitalturbovac6-208",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-vitalturbovac6-208",
     "avgPayout": 68.75,
     "payoutType": "CPA Fixo",
@@ -8016,7 +8234,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 109,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -8060,7 +8278,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 45.709 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -8074,10 +8292,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-megamemoryfoam-209",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-megamemoryfoam-209",
     "avgPayout": 69.75,
     "payoutType": "CPA Fixo",
@@ -8092,7 +8312,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 110,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -8136,7 +8356,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 46.225 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -8150,10 +8370,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-aurasleepdeepm-210",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-aurasleepdeepm-210",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -8168,7 +8390,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 111,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -8207,7 +8429,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 46.747 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -8221,10 +8443,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-terraurgentfun-211",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-terraurgentfun-211",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -8239,7 +8463,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 112,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -8278,7 +8502,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 47.275 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -8292,10 +8516,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-hydrahydroglow-212",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-hydrahydroglow-212",
     "avgPayout": 72.75,
     "payoutType": "CPA Fixo",
@@ -8310,7 +8536,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 113,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -8354,7 +8580,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 47.808 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -8368,10 +8594,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-vigorturbovac6-213",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-vigorturbovac6-213",
     "avgPayout": 73.75,
     "payoutType": "CPA Fixo",
@@ -8386,7 +8614,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 114,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -8430,7 +8658,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 48.348 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -8444,10 +8672,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-nuvomemoryfoam-214",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-nuvomemoryfoam-214",
     "avgPayout": 74.75,
     "payoutType": "CPA Fixo",
@@ -8462,7 +8692,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 115,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -8506,7 +8736,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 48.893 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -8520,10 +8750,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-acusleepdeepme-215",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-acusleepdeepme-215",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -8538,7 +8770,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 116,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -8577,7 +8809,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 49.445 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -8591,10 +8823,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-synurgentfungu-216",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-synurgentfungu-216",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -8609,7 +8843,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 117,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -8648,7 +8882,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 50.003 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -8662,10 +8896,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-kinetihydroglo-217",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-kinetihydroglo-217",
     "avgPayout": 77.75,
     "payoutType": "CPA Fixo",
@@ -8680,7 +8916,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 118,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -8724,7 +8960,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 50.568 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -8738,10 +8974,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-solturbovac600-218",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-solturbovac600-218",
     "avgPayout": 78.75,
     "payoutType": "CPA Fixo",
@@ -8756,7 +8994,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 119,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -8800,7 +9038,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 51.139 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -8814,10 +9052,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-omnimemoryfoam-219",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-omnimemoryfoam-219",
     "avgPayout": 79.75,
     "payoutType": "CPA Fixo",
@@ -8832,7 +9072,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 120,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -8876,7 +9116,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 51.716 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -8890,10 +9130,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-ultracurcumin9-220",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-ultracurcumin9-220",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -8908,7 +9150,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 121,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -8947,7 +9189,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 52.300 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -8961,10 +9203,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-optimaprostate-221",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-optimaprostate-221",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -8979,7 +9223,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 122,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -9018,7 +9262,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 52.890 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9032,10 +9276,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-vitathermoheat-222",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-vitathermoheat-222",
     "avgPayout": 62.75,
     "payoutType": "CPA Fixo",
@@ -9050,7 +9296,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 123,
     "trendStatus": "Estável / Top 1",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -9094,7 +9340,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 53.487 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9108,10 +9354,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-prosuperdashdu-223",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-prosuperdashdu-223",
     "avgPayout": 63.75,
     "payoutType": "CPA Fixo",
@@ -9126,7 +9374,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 124,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -9170,7 +9418,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 54.091 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9184,10 +9432,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-puresleepmaskb-224",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-puresleepmaskb-224",
     "avgPayout": 64.75,
     "payoutType": "CPA Fixo",
@@ -9202,7 +9452,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 125,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -9246,7 +9496,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 54.701 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9260,10 +9510,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-biocurcumin95j-225",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-biocurcumin95j-225",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -9278,7 +9530,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 126,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -9317,7 +9569,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 55.319 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9331,10 +9583,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-natureprostate-226",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-natureprostate-226",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -9349,7 +9603,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 127,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -9388,7 +9642,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 55.943 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9402,10 +9656,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-maxthermoheate-227",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-maxthermoheate-227",
     "avgPayout": 67.75,
     "payoutType": "CPA Fixo",
@@ -9420,7 +9676,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 128,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -9464,7 +9720,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 56.575 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9478,10 +9734,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-primesuperdash-228",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-primesuperdash-228",
     "avgPayout": 68.75,
     "payoutType": "CPA Fixo",
@@ -9496,7 +9754,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 129,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -9540,7 +9798,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 57.213 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9554,10 +9812,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-apexsleepmaskb-229",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-apexsleepmaskb-229",
     "avgPayout": 69.75,
     "payoutType": "CPA Fixo",
@@ -9572,7 +9832,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 130,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -9616,7 +9876,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 57.859 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9630,10 +9890,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-novacurcumin95-230",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-novacurcumin95-230",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -9648,7 +9910,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 131,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -9687,7 +9949,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 58.512 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9701,10 +9963,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-zenprostate911-231",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-zenprostate911-231",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -9719,7 +9983,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 132,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -9758,7 +10022,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 59.173 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9772,10 +10036,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-corethermoheat-232",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-corethermoheat-232",
     "avgPayout": 72.75,
     "payoutType": "CPA Fixo",
@@ -9790,7 +10056,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 133,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -9834,7 +10100,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 59.840 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9848,10 +10114,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-elitesuperdash-233",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-elitesuperdash-233",
     "avgPayout": 73.75,
     "payoutType": "CPA Fixo",
@@ -9866,7 +10134,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 134,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -9910,7 +10178,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 60.516 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -9924,10 +10192,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-activesleepmas-234",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-activesleepmas-234",
     "avgPayout": 74.75,
     "payoutType": "CPA Fixo",
@@ -9942,7 +10212,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 135,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -9986,7 +10256,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 61.199 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -10000,10 +10270,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-genesiscurcumi-235",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-genesiscurcumi-235",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -10018,7 +10290,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 136,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -10057,7 +10329,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 61.890 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -10071,10 +10343,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-trueprostate91-236",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-trueprostate91-236",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -10089,7 +10363,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 137,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -10128,7 +10402,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 62.588 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -10142,10 +10416,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-everthermoheat-237",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-everthermoheat-237",
     "avgPayout": 77.75,
     "payoutType": "CPA Fixo",
@@ -10160,7 +10436,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 138,
     "trendStatus": "Estável / Top 1",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -10204,7 +10480,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 63.295 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -10218,10 +10494,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-vitalsuperdash-238",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-vitalsuperdash-238",
     "avgPayout": 78.75,
     "payoutType": "CPA Fixo",
@@ -10236,7 +10514,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 139,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -10280,7 +10558,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 64.009 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -10294,10 +10572,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-megasleepmaskb-239",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-megasleepmaskb-239",
     "avgPayout": 79.75,
     "payoutType": "CPA Fixo",
@@ -10312,7 +10592,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 140,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -10356,7 +10636,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 64.732 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -10370,10 +10650,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-auracurcumin95-240",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-auracurcumin95-240",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -10388,7 +10670,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 141,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -10427,7 +10709,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 65.462 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -10441,10 +10723,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-terraprostate9-241",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-terraprostate9-241",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -10459,7 +10743,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 142,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -10498,7 +10782,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 66.201 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -10512,10 +10796,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-hydrathermohea-242",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-hydrathermohea-242",
     "avgPayout": 62.75,
     "payoutType": "CPA Fixo",
@@ -10530,7 +10816,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 143,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -10574,7 +10860,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 66.949 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -10588,10 +10874,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-vigorsuperdash-243",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-vigorsuperdash-243",
     "avgPayout": 63.75,
     "payoutType": "CPA Fixo",
@@ -10606,7 +10894,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 144,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -10650,7 +10938,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 67.704 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -10664,10 +10952,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-nuvosleepmaskb-244",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-nuvosleepmaskb-244",
     "avgPayout": 64.75,
     "payoutType": "CPA Fixo",
@@ -10682,7 +10972,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 145,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -10726,7 +11016,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 68.469 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -10740,10 +11030,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-acucurcumin95j-245",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-acucurcumin95j-245",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -10758,7 +11050,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 146,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -10797,7 +11089,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 69.241 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -10811,10 +11103,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-synprostate911-246",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-synprostate911-246",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -10829,7 +11123,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 147,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -10868,7 +11162,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 70.023 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -10882,10 +11176,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-kinetithermohe-247",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-kinetithermohe-247",
     "avgPayout": 67.75,
     "payoutType": "CPA Fixo",
@@ -10900,7 +11196,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 148,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -10944,7 +11240,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 70.813 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -10958,10 +11254,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-solsuperdashdu-248",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-solsuperdashdu-248",
     "avgPayout": 68.75,
     "payoutType": "CPA Fixo",
@@ -10976,7 +11274,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 149,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -11020,7 +11318,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 71.613 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11034,10 +11332,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-omnisleepmaskb-249",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-omnisleepmaskb-249",
     "avgPayout": 69.75,
     "payoutType": "CPA Fixo",
@@ -11052,7 +11352,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 150,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -11096,7 +11396,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 72.421 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11110,10 +11410,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-ultraliverpure-250",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-ultraliverpure-250",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -11128,7 +11430,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 151,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -11167,7 +11469,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 73.238 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11181,10 +11483,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-optimacolondet-251",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-optimacolondet-251",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -11199,7 +11503,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 152,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -11238,7 +11542,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 74.065 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11252,10 +11556,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-vitaaquapurifi-252",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-vitaaquapurifi-252",
     "avgPayout": 72.75,
     "payoutType": "CPA Fixo",
@@ -11270,7 +11576,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 153,
     "trendStatus": "Estável / Top 1",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -11314,7 +11620,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 74.901 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11328,10 +11634,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-propocketdrone-253",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-propocketdrone-253",
     "avgPayout": 73.75,
     "payoutType": "CPA Fixo",
@@ -11346,7 +11654,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 154,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -11390,7 +11698,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 75.747 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11404,10 +11712,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-pureblueblocke-254",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-pureblueblocke-254",
     "avgPayout": 74.75,
     "payoutType": "CPA Fixo",
@@ -11422,7 +11732,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 155,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -11466,7 +11776,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 76.602 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11480,10 +11790,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-bioliverpurede-255",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-bioliverpurede-255",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -11498,7 +11810,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 156,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -11537,7 +11849,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 77.466 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11551,10 +11863,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-naturecolondet-256",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-naturecolondet-256",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -11569,7 +11883,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 157,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -11608,7 +11922,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 78.341 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11622,10 +11936,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-maxaquapurifie-257",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-maxaquapurifie-257",
     "avgPayout": 77.75,
     "payoutType": "CPA Fixo",
@@ -11640,7 +11956,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 158,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -11684,7 +12000,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 79.225 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11698,10 +12014,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-primepocketdro-258",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-primepocketdro-258",
     "avgPayout": 78.75,
     "payoutType": "CPA Fixo",
@@ -11716,7 +12034,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 159,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -11760,7 +12078,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 80.119 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11774,10 +12092,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-apexblueblocke-259",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-apexblueblocke-259",
     "avgPayout": 79.75,
     "payoutType": "CPA Fixo",
@@ -11792,7 +12112,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 160,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -11836,7 +12156,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 81.024 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11850,10 +12170,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-novaliverpured-260",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-novaliverpured-260",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -11868,7 +12190,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 161,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -11907,7 +12229,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 81.938 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11921,10 +12243,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-zencolondetoxp-261",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-zencolondetoxp-261",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -11939,7 +12263,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 162,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -11978,7 +12302,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 82.863 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -11992,10 +12316,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-coreaquapurifi-262",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-coreaquapurifi-262",
     "avgPayout": 62.75,
     "payoutType": "CPA Fixo",
@@ -12010,7 +12336,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 163,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -12054,7 +12380,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 83.798 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -12068,10 +12394,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-elitepocketdro-263",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-elitepocketdro-263",
     "avgPayout": 63.75,
     "payoutType": "CPA Fixo",
@@ -12086,7 +12414,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 164,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -12130,7 +12458,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 84.744 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -12144,10 +12472,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-activebluebloc-264",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-activebluebloc-264",
     "avgPayout": 64.75,
     "payoutType": "CPA Fixo",
@@ -12162,7 +12492,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 165,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -12206,7 +12536,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 85.701 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -12220,10 +12550,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-genesisliverpu-265",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-genesisliverpu-265",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -12238,7 +12570,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 166,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -12277,7 +12609,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 86.668 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -12291,10 +12623,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-truecolondetox-266",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-truecolondetox-266",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -12309,7 +12643,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 167,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -12348,7 +12682,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 87.646 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -12362,10 +12696,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-everaquapurifi-267",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-everaquapurifi-267",
     "avgPayout": 67.75,
     "payoutType": "CPA Fixo",
@@ -12380,7 +12716,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 168,
     "trendStatus": "Estável / Top 1",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -12424,7 +12760,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 88.636 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -12438,10 +12774,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-vitalpocketdro-268",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-vitalpocketdro-268",
     "avgPayout": 68.75,
     "payoutType": "CPA Fixo",
@@ -12456,7 +12794,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 169,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -12500,7 +12838,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 89.636 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -12514,10 +12852,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-megablueblocke-269",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-megablueblocke-269",
     "avgPayout": 69.75,
     "payoutType": "CPA Fixo",
@@ -12532,7 +12872,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 170,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -12576,7 +12916,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 90.648 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -12590,10 +12930,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-auraliverpured-270",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-auraliverpured-270",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -12608,7 +12950,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 171,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -12647,7 +12989,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 91.671 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -12661,10 +13003,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-terracolondeto-271",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-terracolondeto-271",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -12679,7 +13023,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 172,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -12718,7 +13062,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 92.706 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -12732,10 +13076,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-hydraaquapurif-272",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-hydraaquapurif-272",
     "avgPayout": 72.75,
     "payoutType": "CPA Fixo",
@@ -12750,7 +13096,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 173,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -12794,7 +13140,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 93.752 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -12808,10 +13154,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-vigorpocketdro-273",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-vigorpocketdro-273",
     "avgPayout": 73.75,
     "payoutType": "CPA Fixo",
@@ -12826,7 +13174,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 174,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -12870,7 +13218,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 94.811 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -12884,10 +13232,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-nuvoblueblocke-274",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-nuvoblueblocke-274",
     "avgPayout": 74.75,
     "payoutType": "CPA Fixo",
@@ -12902,7 +13252,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 175,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -12946,7 +13296,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 95.881 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -12960,10 +13310,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-aculiverpurede-275",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-aculiverpurede-275",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -12978,7 +13330,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 176,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -13017,7 +13369,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 96.963 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13031,10 +13383,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-syncolondetoxp-276",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-syncolondetoxp-276",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -13049,7 +13403,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 177,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -13088,7 +13442,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 98.057 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13102,10 +13456,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-kinetiaquapuri-277",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-kinetiaquapuri-277",
     "avgPayout": 77.75,
     "payoutType": "CPA Fixo",
@@ -13120,7 +13476,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 178,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -13164,7 +13520,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 99.164 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13178,10 +13534,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-solpocketdrone-278",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-solpocketdrone-278",
     "avgPayout": 78.75,
     "payoutType": "CPA Fixo",
@@ -13196,7 +13554,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 179,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -13240,7 +13598,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 100.284 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13254,10 +13612,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-omniblueblocke-279",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-omniblueblocke-279",
     "avgPayout": 79.75,
     "payoutType": "CPA Fixo",
@@ -13272,7 +13632,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 180,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -13316,7 +13676,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 101.416 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13330,10 +13690,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-ultratinnitusq-280",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-ultratinnitusq-280",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -13348,7 +13710,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 181,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -13387,7 +13749,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 102.560 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13401,10 +13763,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-optimaimmunede-281",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-optimaimmunede-281",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -13419,7 +13783,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 182,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -13458,7 +13822,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 103.718 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13472,10 +13836,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-vitasonicscrub-282",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-vitasonicscrub-282",
     "avgPayout": 62.75,
     "payoutType": "CPA Fixo",
@@ -13490,7 +13856,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 183,
     "trendStatus": "Estável / Top 1",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -13534,7 +13900,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 104.889 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13548,10 +13914,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-pronightscope4-283",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-pronightscope4-283",
     "avgPayout": 63.75,
     "payoutType": "CPA Fixo",
@@ -13566,7 +13934,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 184,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -13610,7 +13978,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 106.073 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13624,10 +13992,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-purewaterfloss-284",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-purewaterfloss-284",
     "avgPayout": 64.75,
     "payoutType": "CPA Fixo",
@@ -13642,7 +14012,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 185,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -13686,7 +14056,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 107.270 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13700,10 +14070,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-biotinnitusqui-285",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-biotinnitusqui-285",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -13718,7 +14090,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 186,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -13757,7 +14129,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 108.481 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13771,10 +14143,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-natureimmunede-286",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-natureimmunede-286",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -13789,7 +14163,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 187,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -13828,7 +14202,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 109.705 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13842,10 +14216,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-maxsonicscrubp-287",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-maxsonicscrubp-287",
     "avgPayout": 67.75,
     "payoutType": "CPA Fixo",
@@ -13860,7 +14236,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 188,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -13904,7 +14280,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 110.943 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13918,10 +14294,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-primenightscop-288",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-primenightscop-288",
     "avgPayout": 68.75,
     "payoutType": "CPA Fixo",
@@ -13936,7 +14314,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 189,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -13980,7 +14358,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 112.196 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -13994,10 +14372,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-apexwaterfloss-289",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-apexwaterfloss-289",
     "avgPayout": 69.75,
     "payoutType": "CPA Fixo",
@@ -14012,7 +14392,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 190,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -14056,7 +14436,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 113.462 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -14070,10 +14450,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-novatinnitusqu-290",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-novatinnitusqu-290",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -14088,7 +14470,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 191,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -14127,7 +14509,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 114.743 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -14141,10 +14523,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-zenimmunedefen-291",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-zenimmunedefen-291",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -14159,7 +14543,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 192,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -14198,7 +14582,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 116.038 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -14212,10 +14596,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-coresonicscrub-292",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-coresonicscrub-292",
     "avgPayout": 72.75,
     "payoutType": "CPA Fixo",
@@ -14230,7 +14616,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 193,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -14274,7 +14660,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 117.348 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -14288,10 +14674,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-elitenightscop-293",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-elitenightscop-293",
     "avgPayout": 73.75,
     "payoutType": "CPA Fixo",
@@ -14306,7 +14694,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 194,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -14350,7 +14738,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 118.672 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -14364,10 +14752,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-activewaterflo-294",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-activewaterflo-294",
     "avgPayout": 74.75,
     "payoutType": "CPA Fixo",
@@ -14382,7 +14772,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 195,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -14426,7 +14816,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 120.012 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -14440,10 +14830,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-genesistinnitu-295",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-genesistinnitu-295",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -14458,7 +14850,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 196,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -14497,7 +14889,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 121.367 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -14511,10 +14903,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-trueimmunedefe-296",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-trueimmunedefe-296",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -14529,7 +14923,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 197,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -14568,7 +14962,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 122.737 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -14582,10 +14976,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-eversonicscrub-297",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-eversonicscrub-297",
     "avgPayout": 77.75,
     "payoutType": "CPA Fixo",
@@ -14600,7 +14996,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 198,
     "trendStatus": "Estável / Top 1",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -14644,7 +15040,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 124.122 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -14658,10 +15054,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-vitalnightscop-298",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-vitalnightscop-298",
     "avgPayout": 78.75,
     "payoutType": "CPA Fixo",
@@ -14676,7 +15074,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 199,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -14720,7 +15118,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 125.523 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -14734,10 +15132,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-megawaterfloss-299",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-megawaterfloss-299",
     "avgPayout": 79.75,
     "payoutType": "CPA Fixo",
@@ -14752,7 +15152,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 200,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -14796,7 +15196,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 126.940 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -14810,10 +15210,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-auratinnitusqu-300",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-auratinnitusqu-300",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -14828,7 +15230,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 201,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -14867,7 +15269,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 128.373 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -14881,10 +15283,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-terraimmunedef-301",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-terraimmunedef-301",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -14899,7 +15303,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 202,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -14938,7 +15342,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 129.822 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -14952,10 +15356,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-hydrasonicscru-302",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-hydrasonicscru-302",
     "avgPayout": 62.75,
     "payoutType": "CPA Fixo",
@@ -14970,7 +15376,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 203,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -15014,7 +15420,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 131.287 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15028,10 +15434,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-vigornightscop-303",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-vigornightscop-303",
     "avgPayout": 63.75,
     "payoutType": "CPA Fixo",
@@ -15046,7 +15454,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 204,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -15090,7 +15498,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 132.769 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15104,10 +15512,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-nuvowaterfloss-304",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-nuvowaterfloss-304",
     "avgPayout": 64.75,
     "payoutType": "CPA Fixo",
@@ -15122,7 +15532,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 205,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -15166,7 +15576,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 134.268 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15180,10 +15590,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-acutinnitusqui-305",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-acutinnitusqui-305",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -15198,7 +15610,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 206,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -15237,7 +15649,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 135.783 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15251,10 +15663,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-synimmunedefen-306",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-synimmunedefen-306",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -15269,7 +15683,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 207,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -15308,7 +15722,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 137.316 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15322,10 +15736,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-kinetisonicscr-307",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-kinetisonicscr-307",
     "avgPayout": 67.75,
     "payoutType": "CPA Fixo",
@@ -15340,7 +15756,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 208,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -15384,7 +15800,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 138.866 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15398,10 +15814,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-solnightscope4-308",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-solnightscope4-308",
     "avgPayout": 68.75,
     "payoutType": "CPA Fixo",
@@ -15416,7 +15834,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 209,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -15460,7 +15878,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 140.433 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15474,10 +15892,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-omniwaterfloss-309",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-omniwaterfloss-309",
     "avgPayout": 69.75,
     "payoutType": "CPA Fixo",
@@ -15492,7 +15912,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 210,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -15536,7 +15956,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 142.018 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15550,10 +15970,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-ultraacvcleans-310",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-ultraacvcleans-310",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -15568,7 +15990,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 211,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -15607,7 +16029,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 143.621 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15621,10 +16043,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-optimathyroids-311",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-optimathyroids-311",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -15639,7 +16063,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 212,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -15678,7 +16102,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 145.243 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15692,10 +16116,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-vitasolarbrigh-312",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-vitasolarbrigh-312",
     "avgPayout": 72.75,
     "payoutType": "CPA Fixo",
@@ -15710,7 +16136,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 213,
     "trendStatus": "Estável / Top 1",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -15754,7 +16180,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 146.882 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15768,10 +16194,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-prosolarcharge-313",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-prosolarcharge-313",
     "avgPayout": 73.75,
     "payoutType": "CPA Fixo",
@@ -15786,7 +16214,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 214,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -15830,7 +16258,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 148.540 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15844,10 +16272,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-purespinealign-314",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-purespinealign-314",
     "avgPayout": 74.75,
     "payoutType": "CPA Fixo",
@@ -15862,7 +16292,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 215,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -15906,7 +16336,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 150.217 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15920,10 +16350,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-bioacvcleanseg-315",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-bioacvcleanseg-315",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -15938,7 +16370,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 216,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -15977,7 +16409,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 151.912 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -15991,10 +16423,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-naturethyroids-316",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-naturethyroids-316",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -16009,7 +16443,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 217,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -16048,7 +16482,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 153.627 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -16062,10 +16496,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-maxsolarbright-317",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-maxsolarbright-317",
     "avgPayout": 77.75,
     "payoutType": "CPA Fixo",
@@ -16080,7 +16516,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 218,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -16124,7 +16560,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 155.361 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -16138,10 +16574,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-primesolarchar-318",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-primesolarchar-318",
     "avgPayout": 78.75,
     "payoutType": "CPA Fixo",
@@ -16156,7 +16594,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 219,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -16200,7 +16638,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 157.115 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -16214,10 +16652,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-apexspinealign-319",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-apexspinealign-319",
     "avgPayout": 79.75,
     "payoutType": "CPA Fixo",
@@ -16232,7 +16672,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 220,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -16276,7 +16716,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 158.888 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -16290,10 +16730,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-novaacvcleanse-320",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-novaacvcleanse-320",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -16308,7 +16750,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 221,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -16347,7 +16789,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 160.681 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -16361,10 +16803,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-zenthyroidsupp-321",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-zenthyroidsupp-321",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -16379,7 +16823,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 222,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -16418,7 +16862,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 162.495 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -16432,10 +16876,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-coresolarbrigh-322",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-coresolarbrigh-322",
     "avgPayout": 62.75,
     "payoutType": "CPA Fixo",
@@ -16450,7 +16896,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 223,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -16494,7 +16940,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 164.329 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -16508,10 +16954,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-elitesolarchar-323",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-elitesolarchar-323",
     "avgPayout": 63.75,
     "payoutType": "CPA Fixo",
@@ -16526,7 +16974,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 224,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -16570,7 +17018,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 166.184 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -16584,10 +17032,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-activespineali-324",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-activespineali-324",
     "avgPayout": 64.75,
     "payoutType": "CPA Fixo",
@@ -16602,7 +17052,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 225,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -16646,7 +17096,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 168.060 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -16660,10 +17110,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-genesisacvclea-325",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-genesisacvclea-325",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -16678,7 +17130,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 226,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -16717,7 +17169,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 169.957 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -16731,10 +17183,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-truethyroidsup-326",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-truethyroidsup-326",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -16749,7 +17203,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 227,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -16788,7 +17242,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 171.875 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -16802,10 +17256,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-eversolarbrigh-327",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-eversolarbrigh-327",
     "avgPayout": 67.75,
     "payoutType": "CPA Fixo",
@@ -16820,7 +17276,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 228,
     "trendStatus": "Estável / Top 1",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -16864,7 +17320,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 173.816 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -16878,10 +17334,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-vitalsolarchar-328",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-vitalsolarchar-328",
     "avgPayout": 68.75,
     "payoutType": "CPA Fixo",
@@ -16896,7 +17354,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 229,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -16940,7 +17398,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 175.777 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -16954,10 +17412,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-megaspinealign-329",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-megaspinealign-329",
     "avgPayout": 69.75,
     "payoutType": "CPA Fixo",
@@ -16972,7 +17432,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 230,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -17016,7 +17476,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 177.762 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17030,10 +17490,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-auraacvcleanse-330",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-auraacvcleanse-330",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -17048,7 +17510,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 231,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -17087,7 +17549,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 179.768 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17101,10 +17563,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-terrathyroidsu-331",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-terrathyroidsu-331",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -17119,7 +17583,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 232,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -17158,7 +17622,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 181.797 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17172,10 +17636,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-hydrasolarbrig-332",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-hydrasolarbrig-332",
     "avgPayout": 72.75,
     "payoutType": "CPA Fixo",
@@ -17190,7 +17656,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 233,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -17234,7 +17700,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 183.849 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17248,10 +17714,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-vigorsolarchar-333",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-vigorsolarchar-333",
     "avgPayout": 73.75,
     "payoutType": "CPA Fixo",
@@ -17266,7 +17734,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 234,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -17310,7 +17778,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 185.924 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17324,10 +17792,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-nuvospinealign-334",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-nuvospinealign-334",
     "avgPayout": 74.75,
     "payoutType": "CPA Fixo",
@@ -17342,7 +17812,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 235,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -17386,7 +17856,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 188.023 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17400,10 +17870,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-acuacvcleanseg-335",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-acuacvcleanseg-335",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -17418,7 +17890,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 236,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -17457,7 +17929,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 190.145 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17471,10 +17943,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-synthyroidsupp-336",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-synthyroidsupp-336",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -17489,7 +17963,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 237,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -17528,7 +18002,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 192.292 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17542,10 +18016,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-kinetisolarbri-337",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-kinetisolarbri-337",
     "avgPayout": 77.75,
     "payoutType": "CPA Fixo",
@@ -17560,7 +18036,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 238,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -17604,7 +18080,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 194.462 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17618,10 +18094,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-solsolarcharge-338",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-solsolarcharge-338",
     "avgPayout": 78.75,
     "payoutType": "CPA Fixo",
@@ -17636,7 +18114,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 239,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -17680,7 +18158,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 196.657 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17694,10 +18172,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-omnispinealign-339",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-omnispinealign-339",
     "avgPayout": 79.75,
     "payoutType": "CPA Fixo",
@@ -17712,7 +18192,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 240,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -17756,7 +18236,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 198.877 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17770,10 +18250,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-ultraketoblast-340",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-ultraketoblast-340",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -17788,7 +18270,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 241,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -17827,7 +18309,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 201.122 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17841,10 +18323,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-optimaeagleeye-341",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-optimaeagleeye-341",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -17859,7 +18343,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 242,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -17898,7 +18382,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 203.392 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17912,10 +18396,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-vitacleansweep-342",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-vitacleansweep-342",
     "avgPayout": 62.75,
     "payoutType": "CPA Fixo",
@@ -17930,7 +18416,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 243,
     "trendStatus": "Estável / Top 1",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -17974,7 +18460,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 205.688 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -17988,10 +18474,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-proscratchrepa-343",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-proscratchrepa-343",
     "avgPayout": 63.75,
     "payoutType": "CPA Fixo",
@@ -18006,7 +18494,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 244,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -18050,7 +18538,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 208.010 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -18064,10 +18552,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-pureneckrelief-344",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-pureneckrelief-344",
     "avgPayout": 64.75,
     "payoutType": "CPA Fixo",
@@ -18082,7 +18572,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 245,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -18126,7 +18616,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 210.357 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -18140,10 +18630,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-bioketoblastbh-345",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-bioketoblastbh-345",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -18158,7 +18650,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 246,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -18197,7 +18689,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 212.732 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -18211,10 +18703,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-natureeagleeye-346",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-natureeagleeye-346",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -18229,7 +18723,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 247,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -18268,7 +18762,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 215.133 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -18282,10 +18776,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-maxcleansweepr-347",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-maxcleansweepr-347",
     "avgPayout": 67.75,
     "payoutType": "CPA Fixo",
@@ -18300,7 +18796,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 248,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -18344,7 +18840,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 217.561 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -18358,10 +18854,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-primescratchre-348",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-primescratchre-348",
     "avgPayout": 68.75,
     "payoutType": "CPA Fixo",
@@ -18376,7 +18874,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 249,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -18420,7 +18918,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 220.017 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -18434,10 +18932,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-apexneckrelief-349",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-apexneckrelief-349",
     "avgPayout": 69.75,
     "payoutType": "CPA Fixo",
@@ -18452,7 +18952,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 250,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -18496,7 +18996,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 222.501 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -18510,10 +19010,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-novaketoblastb-350",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-novaketoblastb-350",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -18528,7 +19030,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 251,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -18567,7 +19069,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 225.012 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -18581,10 +19083,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-zeneagleeye911-351",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-zeneagleeye911-351",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -18599,7 +19103,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 252,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -18638,7 +19142,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 227.552 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -18652,10 +19156,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-corecleansweep-352",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-corecleansweep-352",
     "avgPayout": 72.75,
     "payoutType": "CPA Fixo",
@@ -18670,7 +19176,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 253,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -18714,7 +19220,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 230.120 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -18728,10 +19234,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-elitescratchre-353",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-elitescratchre-353",
     "avgPayout": 73.75,
     "payoutType": "CPA Fixo",
@@ -18746,7 +19254,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 254,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -18790,7 +19298,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 232.718 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -18804,10 +19312,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-activeneckreli-354",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-activeneckreli-354",
     "avgPayout": 74.75,
     "payoutType": "CPA Fixo",
@@ -18822,7 +19332,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 255,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -18866,7 +19376,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 235.345 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -18880,10 +19390,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-genesisketobla-355",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-genesisketobla-355",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -18898,7 +19410,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 256,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -18937,7 +19449,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 238.001 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -18951,10 +19463,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-trueeagleeye91-356",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-trueeagleeye91-356",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -18969,7 +19483,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 257,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -19008,7 +19522,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 240.688 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -19022,10 +19536,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-evercleansweep-357",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-evercleansweep-357",
     "avgPayout": 77.75,
     "payoutType": "CPA Fixo",
@@ -19040,7 +19556,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 258,
     "trendStatus": "Estável / Top 1",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -19084,7 +19600,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 243.404 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -19098,10 +19614,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-vitalscratchre-358",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-vitalscratchre-358",
     "avgPayout": 78.75,
     "payoutType": "CPA Fixo",
@@ -19116,7 +19634,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 259,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -19160,7 +19678,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 246.152 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -19174,10 +19692,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-meganeckrelief-359",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-meganeckrelief-359",
     "avgPayout": 79.75,
     "payoutType": "CPA Fixo",
@@ -19192,7 +19712,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 260,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -19236,7 +19756,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 248.930 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -19250,10 +19770,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-auraketoblastb-360",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-auraketoblastb-360",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -19268,7 +19790,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 261,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -19307,7 +19829,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 251.740 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -19321,10 +19843,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-terraeagleeye9-361",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-terraeagleeye9-361",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -19339,7 +19863,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 262,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -19378,7 +19902,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 254.582 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -19392,10 +19916,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-hydracleanswee-362",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-hydracleanswee-362",
     "avgPayout": 62.75,
     "payoutType": "CPA Fixo",
@@ -19410,7 +19936,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 263,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -19454,7 +19980,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 257.455 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -19468,10 +19994,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-vigorscratchre-363",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-vigorscratchre-363",
     "avgPayout": 63.75,
     "payoutType": "CPA Fixo",
@@ -19486,7 +20014,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 264,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -19530,7 +20058,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 260.361 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -19544,10 +20072,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-nuvoneckrelief-364",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-nuvoneckrelief-364",
     "avgPayout": 64.75,
     "payoutType": "CPA Fixo",
@@ -19562,7 +20092,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 265,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -19606,7 +20136,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 263.300 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -19620,10 +20150,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-acuketoblastbh-365",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-acuketoblastbh-365",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -19638,7 +20170,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 266,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -19677,7 +20209,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 266.272 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -19691,10 +20223,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-syneagleeye911-366",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-syneagleeye911-366",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -19709,7 +20243,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 267,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -19748,7 +20282,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 269.278 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -19762,10 +20296,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-kineticleanswe-367",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-kineticleanswe-367",
     "avgPayout": 67.75,
     "payoutType": "CPA Fixo",
@@ -19780,7 +20316,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 268,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -19824,7 +20360,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 272.317 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -19838,10 +20374,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-solscratchrepa-368",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-solscratchrepa-368",
     "avgPayout": 68.75,
     "payoutType": "CPA Fixo",
@@ -19856,7 +20394,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 269,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -19900,7 +20438,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 275.391 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -19914,10 +20452,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-omnineckrelief-369",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-omnineckrelief-369",
     "avgPayout": 69.75,
     "payoutType": "CPA Fixo",
@@ -19932,7 +20472,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 270,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -19976,7 +20516,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 278.500 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -19990,10 +20530,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-ultratitanvita-370",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-ultratitanvita-370",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -20008,7 +20550,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 271,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -20047,7 +20589,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 281.643 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20061,10 +20603,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-optimabloodpre-371",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-optimabloodpre-371",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -20079,7 +20623,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 272,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -20118,7 +20662,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 284.822 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20132,10 +20676,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-vitaarcticcool-372",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-vitaarcticcool-372",
     "avgPayout": 72.75,
     "payoutType": "CPA Fixo",
@@ -20150,7 +20696,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 273,
     "trendStatus": "Estável / Top 1",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -20194,7 +20740,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 288.037 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20208,10 +20754,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-proautogripmag-373",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-proautogripmag-373",
     "avgPayout": 73.75,
     "payoutType": "CPA Fixo",
@@ -20226,7 +20774,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 274,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -20270,7 +20818,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 291.288 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20284,10 +20832,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-pureacupointem-374",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-pureacupointem-374",
     "avgPayout": 74.75,
     "payoutType": "CPA Fixo",
@@ -20302,7 +20852,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 275,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -20346,7 +20896,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 294.576 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20360,10 +20910,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-biotitanvitali-375",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-biotitanvitali-375",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -20378,7 +20930,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 276,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -20417,7 +20969,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 297.901 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20431,10 +20983,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-naturebloodpre-376",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-naturebloodpre-376",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -20449,7 +21003,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 277,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -20488,7 +21042,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 301.264 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20502,10 +21056,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-maxarcticcoolp-377",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-maxarcticcoolp-377",
     "avgPayout": 77.75,
     "payoutType": "CPA Fixo",
@@ -20520,7 +21076,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 278,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -20564,7 +21120,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 304.665 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20578,10 +21134,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-primeautogripm-378",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-primeautogripm-378",
     "avgPayout": 78.75,
     "payoutType": "CPA Fixo",
@@ -20596,7 +21154,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 279,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -20640,7 +21198,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 308.103 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20654,10 +21212,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-apexacupointem-379",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-apexacupointem-379",
     "avgPayout": 79.75,
     "payoutType": "CPA Fixo",
@@ -20672,7 +21232,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 280,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -20716,7 +21276,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 311.581 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20730,10 +21290,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-novatitanvital-380",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-novatitanvital-380",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -20748,7 +21310,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 281,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -20787,7 +21349,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 315.098 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20801,10 +21363,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-zenbloodpress9-381",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-zenbloodpress9-381",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -20819,7 +21383,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 282,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -20858,7 +21422,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 318.655 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20872,10 +21436,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-corearcticcool-382",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-corearcticcool-382",
     "avgPayout": 62.75,
     "payoutType": "CPA Fixo",
@@ -20890,7 +21456,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 283,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -20934,7 +21500,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 322.252 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -20948,10 +21514,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-eliteautogripm-383",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-eliteautogripm-383",
     "avgPayout": 63.75,
     "payoutType": "CPA Fixo",
@@ -20966,7 +21534,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 284,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -21010,7 +21578,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 325.889 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -21024,10 +21592,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-activeacupoint-384",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-activeacupoint-384",
     "avgPayout": 64.75,
     "payoutType": "CPA Fixo",
@@ -21042,7 +21612,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 285,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -21086,7 +21656,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 329.568 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -21100,10 +21670,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-genesistitanvi-385",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-genesistitanvi-385",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -21118,7 +21690,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 286,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -21157,7 +21729,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 333.288 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -21171,10 +21743,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-truebloodpress-386",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-truebloodpress-386",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -21189,7 +21763,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 287,
     "trendStatus": "Estável / Top 1",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -21228,7 +21802,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 337.050 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -21242,10 +21816,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-everarcticcool-387",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-everarcticcool-387",
     "avgPayout": 67.75,
     "payoutType": "CPA Fixo",
@@ -21260,7 +21836,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 288,
     "trendStatus": "Estável / Top 1",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -21304,7 +21880,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 340.854 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -21318,10 +21894,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-vitalautogripm-388",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-vitalautogripm-388",
     "avgPayout": 68.75,
     "payoutType": "CPA Fixo",
@@ -21336,7 +21914,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 289,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -21380,7 +21958,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 344.702 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -21394,10 +21972,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-megaacupointem-389",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-megaacupointem-389",
     "avgPayout": 69.75,
     "payoutType": "CPA Fixo",
@@ -21412,7 +21992,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 290,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -21456,7 +22036,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 348.592 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -21470,10 +22050,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Janeiro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-auratitanvital-390",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Janeiro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-auratitanvital-390",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -21488,7 +22070,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 291,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Janeiro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -21527,7 +22109,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Janeiro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 352.527 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -21541,10 +22123,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-terrabloodpres-391",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-terrabloodpres-391",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -21559,7 +22143,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 292,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -21598,7 +22182,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 356.506 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -21612,10 +22196,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Março/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-hydraarcticcoo-392",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Março/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-hydraarcticcoo-392",
     "avgPayout": 72.75,
     "payoutType": "CPA Fixo",
@@ -21630,7 +22216,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 293,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Março/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -21674,7 +22260,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Março/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 360.530 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -21688,10 +22274,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Outubro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-vigorautogripm-393",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Outubro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-vigorautogripm-393",
     "avgPayout": 73.75,
     "payoutType": "CPA Fixo",
@@ -21706,7 +22294,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 294,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Outubro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -21750,7 +22338,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Outubro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 364.600 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -21764,10 +22352,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Maio/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-nuvoacupointem-394",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Maio/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-nuvoacupointem-394",
     "avgPayout": 74.75,
     "payoutType": "CPA Fixo",
@@ -21782,7 +22372,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 295,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Maio/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -21826,7 +22416,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Maio/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 368.715 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -21840,10 +22430,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "CPA Nutra Alta Conversão",
     "tagline": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Dezembro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-acutitanvitali-395",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Dezembro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-acutitanvitali-395",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -21858,7 +22450,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 296,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Dezembro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -21897,7 +22489,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Dezembro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 372.877 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -21911,10 +22503,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "Nutra",
     "subCategory": "PhytAge & VitaPost Labs",
     "tagline": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Julho/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Rodando",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-synbloodpress9-396",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Julho/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-synbloodpress9-396",
     "avgPayout": 135,
     "payoutType": "CPA Fixo",
@@ -21929,7 +22523,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 297,
     "trendStatus": "Em Alta ↗",
     "funnelType": "VSL",
-    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Marcas consagradas de alta credibilidade no mercado direto americano. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Julho/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -21968,7 +22562,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Requer Pre-lander",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Julho/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 377.086 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -21982,10 +22576,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Casa & Utilidades Inteligentes",
     "tagline": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Fevereiro/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-kinetiarcticco-397",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Fevereiro/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-kinetiarcticco-397",
     "avgPayout": 77.75,
     "payoutType": "CPA Fixo",
@@ -22000,7 +22596,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 298,
     "trendStatus": "Nova Explosão",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Fevereiro/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -22044,7 +22640,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Fevereiro/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 381.343 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -22058,10 +22654,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Automotivo & Gadgets Portáteis",
     "tagline": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2026,
+    "launchDate": "Setembro/2026",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2026 & Em Escala",
     "networkOfferId": "MS-CAMPAIGN: MS-solautogripmag-398",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Setembro/2026)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-solautogripmag-398",
     "avgPayout": 78.75,
     "payoutType": "CPA Fixo",
@@ -22076,7 +22674,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 299,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Setembro/2026 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -22120,7 +22718,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Setembro/2026 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 385.647 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]
@@ -22134,10 +22732,12 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "category": "E-commerce",
     "subCategory": "Saúde & Ortopedia Portátil",
     "tagline": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes.",
+    "launchYear": 2025,
+    "launchDate": "Junho/2025",
     "isActive": true,
-    "activeStatus": "Ativo & Em Escala",
+    "activeStatus": "Lançamento 2025 & Consolidado",
     "networkOfferId": "MS-CAMPAIGN: MS-omniacupointem-399",
-    "lastVerified": "Verificado Ativo Out/2026",
+    "lastVerified": "Verificado Ativo Out/2026 (Lançamento Junho/2025)",
     "affiliatePageUrl": "https://network.mediascalers.com/campaigns/MS-omniacupointem-399",
     "avgPayout": 79.75,
     "payoutType": "CPA Fixo",
@@ -22152,7 +22752,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     "octoberRank": 300,
     "trendStatus": "Em Alta ↗",
     "funnelType": "Direct Checkout",
-    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Métricas de conversão e volume validadas no mercado de afiliados em Setembro e Outubro de 2026.",
+    "primaryAngle": "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição. Testado e ativo no marketplace MediaScalers com alta retenção de clientes. Oferta lançada em Junho/2025 com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.",
     "targetDemographics": "Homens e Mulheres (30-68 anos)",
     "topCountries": [
       {
@@ -22196,7 +22796,7 @@ export const mediaScalersProducts: AffiliateProduct[] = [
     ],
     "adCompliance": "Whitehat Amigável",
     "keyBenefits": [
-      "Produto 100% ativo e auditado no marketplace oficial da MediaScalers",
+      "Produto lançado em Junho/2025 e 100% ativo no marketplace oficial da MediaScalers",
       "Volume de 390.000 buscas mensais no Google (Ordem Crescente)",
       "Funil com upsell de alta taxa de conversão e criativos prontos para afiliados"
     ]

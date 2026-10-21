@@ -77,6 +77,13 @@ export function ProductTable({
                         <span className={`text-[9px] font-semibold px-1.5 py-0.2 rounded border ${meta.badgeBg}`}>
                           {product.platform}
                         </span>
+                        <span className={`text-[9px] font-bold px-1.5 py-0.2 rounded border ${
+                          product.launchYear === 2026
+                            ? 'bg-emerald-500/10 border-emerald-500/30 text-emerald-300'
+                            : 'bg-cyan-500/10 border-cyan-500/30 text-cyan-300'
+                        }`}>
+                          {product.launchDate}
+                        </span>
                         <span className="inline-flex items-center gap-0.5 text-[9px] font-bold text-emerald-400 bg-emerald-500/10 px-1 py-0.2 rounded border border-emerald-500/20">
                           <span className="w-1 h-1 rounded-full bg-emerald-400 animate-pulse" />
                           Ativo

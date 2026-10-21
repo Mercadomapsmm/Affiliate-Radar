@@ -85,6 +85,13 @@ Compliance: ${product.adCompliance}
           </button>
 
           <div className="flex items-center gap-2 flex-wrap mb-2">
+            <span className={`px-2.5 py-1 rounded-lg text-xs font-bold border ${
+              product.launchYear === 2026
+                ? 'bg-emerald-500/10 border-emerald-500/30 text-emerald-300'
+                : 'bg-cyan-500/10 border-cyan-500/30 text-cyan-300'
+            }`}>
+              🚀 Lançamento {product.launchDate}
+            </span>
             <span className="px-2.5 py-1 rounded-lg bg-emerald-500/20 text-emerald-300 font-bold text-xs border border-emerald-500/30 flex items-center gap-1.5">
               <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
               {product.activeStatus}

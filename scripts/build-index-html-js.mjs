@@ -2,14 +2,14 @@ import fs from 'fs';
 import path from 'path';
 import { all1200Products } from './generate-standalone.mjs';
 
-// 1. Create index.html template
+// 1. Create index.html template with 2025-2026 launches and platform filter
 const indexHtmlContent = `<!DOCTYPE html>
 <html lang="pt-BR" class="dark">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AffiliateRadar 2026 - 1.200 Produtos Ativos (Top 300 por Plataforma)</title>
-  <meta name="description" content="Inteligência de mercado dos 1.200 produtos mais buscados do mercado de afiliados em 2026 (300 por plataforma: ClickBank, Digistore24, MediaScalers, SmartADV) organizados em ordem crescente de buscas no Google.">
+  <title>AffiliateRadar 2026 - 1.200 Produtos Ativos Lançados em 2025/2026</title>
+  <meta name="description" content="Inteligência de mercado dos 1.200 produtos lançados entre 2025 e 2026 (300 por plataforma: ClickBank, Digistore24, MediaScalers, SmartADV) organizados em ordem crescente de buscas no Google, com filtro completo por plataforma e ano de lançamento.">
   
   <!-- Tailwind CSS CDN -->
   <script src="https://cdn.tailwindcss.com"></script>
@@ -55,7 +55,6 @@ const indexHtmlContent = `<!DOCTYPE html>
     .mono-num {
       font-family: 'JetBrains Mono', monospace;
     }
-    /* Custom scrollbar */
     ::-webkit-scrollbar {
       width: 8px;
       height: 8px;
@@ -94,11 +93,11 @@ const indexHtmlContent = `<!DOCTYPE html>
                 AffiliateRadar
               </span>
               <span class="text-xs px-2 py-0.5 rounded-full font-bold bg-emerald-500/10 text-emerald-400 border border-emerald-500/30">
-                2026.4 PRO
+                2025-2026 PRO
               </span>
             </div>
             <p class="text-xs text-slate-400 font-medium hidden sm:block">
-              Inteligência Competitiva & Espionagem dos 1.200 Produtos Mais Buscados
+              Lançamentos 2025-2026: 1.200 Produtos Mais Buscados (300 por Plataforma)
             </p>
           </div>
         </div>
@@ -107,7 +106,7 @@ const indexHtmlContent = `<!DOCTYPE html>
         <div class="flex items-center gap-2.5 sm:gap-4">
           <div class="hidden lg:flex items-center gap-2 px-3 py-1.5 rounded-lg bg-slate-900 border border-slate-800 text-xs">
             <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
-            <span class="text-slate-300 font-medium">1.200 Produtos 100% Ativos</span>
+            <span class="text-slate-300 font-medium">1.200 Lançamentos Ativos</span>
           </div>
 
           <div class="flex items-center gap-2">
@@ -129,10 +128,10 @@ const indexHtmlContent = `<!DOCTYPE html>
   <section class="border-b border-slate-800/60 bg-gradient-to-r from-emerald-950/20 via-slate-900/40 to-blue-950/20 py-4 px-4 sm:px-6 lg:px-8">
     <div class="max-w-7xl mx-auto flex flex-col md:flex-row items-start md:items-center justify-between gap-3 text-xs sm:text-sm">
       <div class="flex items-center gap-2.5 text-emerald-400 font-medium">
-        <i data-lucide="arrow-up-narrow-wide" class="w-5 h-5 flex-shrink-0 text-emerald-400"></i>
+        <i data-lucide="sparkles" class="w-5 h-5 flex-shrink-0 text-emerald-400"></i>
         <span>
-          <strong class="font-bold text-white">Classificação em Ordem Crescente de Buscas (Google):</strong>
-          Do volume de entrada com baixa saturação (#1) até os gigantes de escala (#300/#1.200).
+          <strong class="font-bold text-white">Catálogo Exclusivo de Lançamentos 2025 e 2026:</strong>
+          Ordenados em ordem crescente de buscas no Google (#1 menor saturação até #1.200 grande escala).
         </span>
       </div>
       <div class="flex items-center gap-2 text-slate-400 text-xs">
@@ -155,11 +154,11 @@ const indexHtmlContent = `<!DOCTYPE html>
   <!-- MAIN CONTAINER -->
   <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 space-y-6">
 
-    <!-- PLATFORM TABS -->
+    <!-- PLATFORM TABS (FILTRO RÁPIDO POR PLATAFORMA) -->
     <div class="flex flex-wrap items-center gap-2 p-1.5 rounded-xl bg-slate-900/90 border border-slate-800">
       <button class="platform-tab px-4 py-2 rounded-lg text-xs sm:text-sm font-semibold transition-all cursor-pointer flex items-center gap-2 bg-emerald-500 text-slate-950 shadow-md" data-platform="All">
         <i data-lucide="layers" class="w-4 h-4"></i>
-        <span>Todos os 1.200 Produtos</span>
+        <span>Todas as Redes (1.200)</span>
       </button>
       <button class="platform-tab px-4 py-2 rounded-lg text-xs sm:text-sm font-medium text-slate-400 hover:text-slate-100 hover:bg-slate-800/60 transition-all cursor-pointer flex items-center gap-2" data-platform="ClickBank">
         <span class="w-2 h-2 rounded-full bg-emerald-400"></span>
@@ -187,7 +186,7 @@ const indexHtmlContent = `<!DOCTYPE html>
           <i data-lucide="package" class="w-4 h-4 text-emerald-400"></i>
         </div>
         <div id="stat-count" class="text-xl sm:text-2xl font-black text-white mono-num">1.200</div>
-        <div class="text-[11px] text-emerald-400 mt-0.5">100% ofertas ativas</div>
+        <div class="text-[11px] text-emerald-400 mt-0.5">Lançamentos 2025/2026</div>
       </div>
 
       <div class="glass-panel p-4 rounded-xl border border-slate-800/80">
@@ -237,7 +236,7 @@ const indexHtmlContent = `<!DOCTYPE html>
           <input 
             type="text" 
             id="search-input"
-            placeholder="Pesquisar por nome de produto, nicho, gancho, modelo ou ID..."
+            placeholder="Pesquisar por nome de produto, 2025, 2026, nicho, gancho ou ID..."
             class="w-full pl-10 pr-10 py-2.5 rounded-lg bg-slate-900 border border-slate-700/80 text-sm text-white placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-emerald-500/50 focus:border-emerald-500 transition-all"
           />
           <button id="search-clear" class="hidden absolute right-3 top-1/2 -translate-y-1/2 text-slate-400 hover:text-white">
@@ -258,15 +257,44 @@ const indexHtmlContent = `<!DOCTYPE html>
         </div>
       </div>
 
-      <!-- Dropdown Selectors Grid -->
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3 pt-1">
-        <!-- Niche / Category -->
+      <!-- Dropdown Selectors Grid (INCLUINDO FILTRO POR PLATAFORMA E ANO DE LANÇAMENTO) -->
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-6 gap-3 pt-1">
+        
+        <!-- 1. FILTRO POR PLATAFORMA (Solicitado) -->
+        <div>
+          <label class="block text-[11px] font-semibold text-emerald-400 mb-1 flex items-center gap-1">
+            <i data-lucide="layers" class="w-3 h-3 text-emerald-400"></i>
+            <span>Plataforma</span>
+          </label>
+          <select id="select-platform" class="w-full px-3 py-2 text-xs rounded-lg bg-slate-900 border border-slate-700/80 text-white font-medium focus:outline-none focus:border-emerald-500">
+            <option value="All" selected>Todas as Plataformas (1.200)</option>
+            <option value="ClickBank">ClickBank (300)</option>
+            <option value="Digistore24">Digistore24 (300)</option>
+            <option value="MediaScalers">MediaScalers (300)</option>
+            <option value="SmartADV">SmartADV (300)</option>
+          </select>
+        </div>
+
+        <!-- 2. FILTRO POR ANO DE LANÇAMENTO (2025 a 2026) -->
+        <div>
+          <label class="block text-[11px] font-semibold text-cyan-400 mb-1 flex items-center gap-1">
+            <i data-lucide="calendar" class="w-3 h-3 text-cyan-400"></i>
+            <span>Ano Lançamento</span>
+          </label>
+          <select id="select-launch-year" class="w-full px-3 py-2 text-xs rounded-lg bg-slate-900 border border-slate-700/80 text-white font-medium focus:outline-none focus:border-cyan-500">
+            <option value="All" selected>Todos (2025 a 2026)</option>
+            <option value="2026">🚀 Lançados em 2026</option>
+            <option value="2025">✨ Lançados em 2025</option>
+          </select>
+        </div>
+
+        <!-- 3. Nicho / Categoria -->
         <div>
           <label class="block text-[11px] font-semibold text-slate-400 mb-1">Nicho / Categoria</label>
           <select id="select-category" class="w-full px-3 py-2 text-xs rounded-lg bg-slate-900 border border-slate-700/80 text-slate-200 focus:outline-none focus:border-emerald-500">
             <option value="All">Todas as Categorias</option>
             <option value="Nutra">Nutra (Saúde & Suplementos)</option>
-            <option value="E-commerce">E-commerce & Produtos Físicos</option>
+            <option value="E-commerce">E-commerce & Físicos</option>
             <option value="Info-produtos">Info-produtos & Cursos</option>
             <option value="Finanças & BizOp">Finanças & BizOp</option>
             <option value="Espiritualidade">Espiritualidade & Astrologia</option>
@@ -278,9 +306,9 @@ const indexHtmlContent = `<!DOCTYPE html>
           </select>
         </div>
 
-        <!-- Target Country / Geo -->
+        <!-- 4. Target Country / Geo -->
         <div>
-          <label class="block text-[11px] font-semibold text-slate-400 mb-1">País / Geo Principal</label>
+          <label class="block text-[11px] font-semibold text-slate-400 mb-1">País Top Comprador</label>
           <select id="select-country" class="w-full px-3 py-2 text-xs rounded-lg bg-slate-900 border border-slate-700/80 text-slate-200 focus:outline-none focus:border-emerald-500">
             <option value="All">Todos os Países</option>
             <option value="US">🇺🇸 Estados Unidos (US)</option>
@@ -296,30 +324,30 @@ const indexHtmlContent = `<!DOCTYPE html>
           </select>
         </div>
 
-        <!-- Funnel Type -->
+        <!-- 5. Funnel Type -->
         <div>
           <label class="block text-[11px] font-semibold text-slate-400 mb-1">Mecânica de Funil</label>
           <select id="select-funnel" class="w-full px-3 py-2 text-xs rounded-lg bg-slate-900 border border-slate-700/80 text-slate-200 focus:outline-none focus:border-emerald-500">
             <option value="All">Todos os Funis</option>
             <option value="VSL">VSL (Video Sales Letter)</option>
-            <option value="TSL">TSL (Text Sales Letter / Advertorial)</option>
+            <option value="TSL">TSL (Text Sales Letter)</option>
             <option value="Quiz">Quiz Interativo</option>
             <option value="COD">COD (Cash on Delivery)</option>
-            <option value="Direct Checkout">Checkout Direto E-com</option>
+            <option value="Direct Checkout">Checkout Direto</option>
             <option value="Webinar">Webinar Automatizado</option>
           </select>
         </div>
 
-        <!-- Sort Ordering -->
+        <!-- 6. Sort Ordering -->
         <div>
-          <label class="block text-[11px] font-semibold text-slate-400 mb-1">Ordenação dos Produtos</label>
+          <label class="block text-[11px] font-semibold text-slate-400 mb-1">Ordenação</label>
           <select id="select-sort" class="w-full px-3 py-2 text-xs rounded-lg bg-slate-900 border border-slate-700/80 text-slate-200 focus:outline-none focus:border-emerald-500">
-            <option value="searches-asc" selected>⬆️ Buscas Google (Crescente) [Padrão]</option>
-            <option value="searches-desc">⬇️ Buscas Google (Decrescente)</option>
-            <option value="payout-desc">💰 Maior Payout Médio ($)</option>
-            <option value="payout-asc">💵 Menor Payout Médio ($)</option>
-            <option value="cr-desc">🎯 Maior Taxa de Conversão (%)</option>
-            <option value="growth-desc">🔥 Maior Crescimento Recente (%)</option>
+            <option value="searches-asc" selected>⬆️ Buscas (Crescente) [Padrão]</option>
+            <option value="searches-desc">⬇️ Buscas (Decrescente)</option>
+            <option value="payout-desc">💰 Maior Payout ($)</option>
+            <option value="payout-asc">💵 Menor Payout ($)</option>
+            <option value="cr-desc">🎯 Maior Conversão (%)</option>
+            <option value="growth-desc">🔥 Maior Crescimento (%)</option>
           </select>
         </div>
       </div>
@@ -328,7 +356,8 @@ const indexHtmlContent = `<!DOCTYPE html>
       <div id="active-filters-bar" class="flex flex-wrap items-center justify-between gap-2 pt-2 border-t border-slate-800/80 text-xs text-slate-400">
         <div id="filter-pills" class="flex flex-wrap items-center gap-1.5">
           <span class="text-slate-400 text-[11px]">Filtros ativos:</span>
-          <span class="px-2 py-0.5 rounded bg-emerald-500/10 text-emerald-400 border border-emerald-500/30 text-[11px]">Ordem Crescente de Buscas</span>
+          <span class="px-2 py-0.5 rounded bg-emerald-500/10 text-emerald-400 border border-emerald-500/30 text-[11px]">Lançamentos 2025-2026</span>
+          <span class="px-2 py-0.5 rounded bg-cyan-500/10 text-cyan-400 border border-cyan-500/30 text-[11px]">Ordem Crescente de Buscas</span>
         </div>
         <button id="btn-reset-filters" class="text-xs text-slate-400 hover:text-white underline cursor-pointer">
           Resetar todos os filtros
@@ -350,7 +379,7 @@ const indexHtmlContent = `<!DOCTYPE html>
             <thead class="bg-slate-900/90 text-slate-400 uppercase text-[10px] tracking-wider border-b border-slate-800">
               <tr>
                 <th class="py-3 px-4">Rank</th>
-                <th class="py-3 px-4">Produto & Nicho</th>
+                <th class="py-3 px-4">Produto & Lançamento</th>
                 <th class="py-3 px-4">Plataforma</th>
                 <th class="py-3 px-4 text-right">Buscas Google (mês)</th>
                 <th class="py-3 px-4 text-right">Visitas Est.</th>
@@ -443,8 +472,8 @@ const indexHtmlContent = `<!DOCTYPE html>
   <footer class="mt-16 border-t border-slate-800/80 py-8 bg-[#060910] text-slate-400 text-xs">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row items-center justify-between gap-4">
       <div>
-        <p class="font-bold text-slate-200">AffiliateRadar 2026 - Master Intelligence Dataset</p>
-        <p class="text-slate-400 mt-0.5">1.200 ofertas ativas (300 por plataforma) em estrita ordem crescente de buscas no Google.</p>
+        <p class="font-bold text-slate-200">AffiliateRadar 2026 - Lançamentos Ativos 2025/2026</p>
+        <p class="text-slate-400 mt-0.5">1.200 ofertas lançadas nos anos de 2025 e 2026 (300 por plataforma) em ordem crescente de buscas no Google.</p>
       </div>
       <div class="flex items-center gap-4 text-slate-400">
         <span>ClickBank</span> •
@@ -461,10 +490,11 @@ const indexHtmlContent = `<!DOCTYPE html>
 </html>
 `;
 
-// 2. Create index.js content with full 1200 products embedded and comprehensive interactivity
+// 2. Create index.js content with 1200 products (launchYear, launchDate, platform filter)
 const indexJsContent = `// AffiliateRadar 2026 - Master Interactive Engine
-// Full 1,200 Active Products Dataset (300 ClickBank, 300 Digistore24, 300 MediaScalers, 300 SmartADV)
-// Ordered in strictly ASCENDING order of Google monthly searches (Ordem Crescente)
+// Full 1,200 Active Products Dataset Launched in 2025 to 2026
+// (300 ClickBank, 300 Digistore24, 300 MediaScalers, 300 SmartADV)
+// Ordered strictly in ASCENDING order of Google monthly searches (Ordem Crescente)
 
 const masterProductsData = ${JSON.stringify(all1200Products)};
 
@@ -514,7 +544,8 @@ const platformStyles = {
 
 // Application State
 const state = {
-  platform: 'All',
+  platform: 'All',           // 'All' | 'ClickBank' | 'Digistore24' | 'MediaScalers' | 'SmartADV'
+  launchYear: 'All',         // 'All' | '2025' | '2026'
   category: 'All',
   country: 'All',
   funnel: 'All',
@@ -530,6 +561,8 @@ const state = {
 // DOM Elements
 const elements = {
   platformTabs: document.querySelectorAll('.platform-tab'),
+  selectPlatform: document.getElementById('select-platform'),
+  selectLaunchYear: document.getElementById('select-launch-year'),
   searchInput: document.getElementById('search-input'),
   searchClear: document.getElementById('search-clear'),
   selectCategory: document.getElementById('select-category'),
@@ -591,27 +624,32 @@ function fmtNum(n) {
 function applyFiltersAndSort() {
   let list = masterProductsData;
 
-  // 1. Platform filter
+  // 1. Platform filter (via tabs or dropdown)
   if (state.platform !== 'All') {
     list = list.filter(p => p.platform === state.platform);
   }
 
-  // 2. Category filter
+  // 2. Launch Year filter (2025 to 2026)
+  if (state.launchYear !== 'All') {
+    list = list.filter(p => String(p.launchYear) === state.launchYear);
+  }
+
+  // 3. Category filter
   if (state.category !== 'All') {
     list = list.filter(p => p.category === state.category);
   }
 
-  // 3. Country filter
+  // 4. Country filter
   if (state.country !== 'All') {
     list = list.filter(p => p.topCountries && p.topCountries.some(c => c.countryCode === state.country));
   }
 
-  // 4. Funnel filter
+  // 5. Funnel filter
   if (state.funnel !== 'All') {
     list = list.filter(p => p.funnelType === state.funnel);
   }
 
-  // 5. Search query
+  // 6. Search query
   if (state.searchQuery.trim() !== '') {
     const q = state.searchQuery.toLowerCase().trim();
     list = list.filter(p => {
@@ -620,12 +658,14 @@ function applyFiltersAndSort() {
         p.category.toLowerCase().includes(q) ||
         p.subCategory.toLowerCase().includes(q) ||
         p.tagline.toLowerCase().includes(q) ||
-        p.networkOfferId.toLowerCase().includes(q)
+        p.networkOfferId.toLowerCase().includes(q) ||
+        String(p.launchYear).includes(q) ||
+        p.launchDate.toLowerCase().includes(q)
       );
     });
   }
 
-  // 6. Sorting
+  // 7. Sorting
   const sorted = [...list].sort((a, b) => {
     switch (state.sortOrder) {
       case 'searches-asc':
@@ -683,7 +723,10 @@ function updateFilterPills() {
   const pills = [];
 
   if (state.platform !== 'All') {
-    pills.push({ label: 'Plataforma: ' + state.platform, key: 'platform' });
+    pills.push({ label: 'Rede: ' + state.platform, key: 'platform' });
+  }
+  if (state.launchYear !== 'All') {
+    pills.push({ label: 'Lançamento: ' + state.launchYear, key: 'launchYear' });
   }
   if (state.category !== 'All') {
     pills.push({ label: 'Nicho: ' + state.category, key: 'category' });
@@ -758,7 +801,7 @@ function renderProducts() {
   }
 }
 
-// Render Grid Cards
+// Render Grid Cards with Launch Year Badge
 function renderGrid(products) {
   elements.gridContainer.innerHTML = products.map((p) => {
     const style = platformStyles[p.platform] || platformStyles.ClickBank;
@@ -770,12 +813,16 @@ function renderGrid(products) {
       </span>\`;
     }).join('');
 
+    const launchBadgeClass = p.launchYear === 2026 
+      ? 'bg-emerald-500/10 border-emerald-500/30 text-emerald-300' 
+      : 'bg-cyan-500/10 border-cyan-500/30 text-cyan-300';
+
     return \`
     <div class="glass-panel rounded-xl p-5 border border-slate-800 hover:border-slate-700 hover:shadow-xl hover:shadow-emerald-500/5 transition-all duration-200 flex flex-col justify-between group">
       <div>
         <!-- Top bar: Platform + Rank + Trend -->
-        <div class="flex items-center justify-between gap-2 mb-3">
-          <div class="flex items-center gap-1.5">
+        <div class="flex items-center justify-between gap-2 mb-2">
+          <div class="flex items-center gap-1.5 flex-wrap">
             <span class="inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-[11px] font-bold border \${style.badgeBg}">
               <span class="w-1.5 h-1.5 rounded-full \${style.dotBg}"></span>
               <span>\${p.platform}</span>
@@ -784,6 +831,18 @@ function renderGrid(products) {
           </div>
           <span class="text-[10px] font-bold px-2 py-0.5 rounded bg-slate-800/80 text-emerald-400 border border-emerald-500/20">
             \${p.trendStatus}
+          </span>
+        </div>
+
+        <!-- Launch Year Badge (2025/2026) -->
+        <div class="flex items-center gap-1.5 mb-2.5">
+          <span class="inline-flex items-center gap-1 px-2 py-0.5 rounded-md text-[10px] font-bold border \${launchBadgeClass}">
+            <i data-lucide="sparkles" class="w-2.5 h-2.5"></i>
+            <span>Lançamento \${p.launchDate}</span>
+          </span>
+          <span class="inline-flex items-center gap-1 text-[10px] font-semibold text-emerald-400 bg-emerald-500/10 border border-emerald-500/20 px-1.5 py-0.5 rounded">
+            <span class="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse"></span>
+            Ativo
           </span>
         </div>
 
@@ -851,7 +910,7 @@ function renderGrid(products) {
   }).join('');
 }
 
-// Render Table Rows
+// Render Table Rows with Launch Date
 function renderTable(products) {
   elements.tableBody.innerHTML = products.map((p) => {
     const style = platformStyles[p.platform] || platformStyles.ClickBank;
@@ -860,12 +919,21 @@ function renderTable(products) {
       return \`<span title="\${c.countryName}">\${cObj.flag} \${c.sharePercent}%</span>\`;
     }).join(' ');
 
+    const launchBadgeClass = p.launchYear === 2026 
+      ? 'bg-emerald-500/10 border-emerald-500/30 text-emerald-300' 
+      : 'bg-cyan-500/10 border-cyan-500/30 text-cyan-300';
+
     return \`
     <tr class="hover:bg-slate-800/40 transition-colors">
       <td class="py-3 px-4 font-mono font-bold text-slate-400">#\${p.overallRank}</td>
       <td class="py-3 px-4">
         <div class="font-bold text-white line-clamp-1">\${p.name}</div>
-        <div class="text-[10px] text-slate-400">\${p.category} • \${p.subCategory}</div>
+        <div class="flex items-center gap-1.5 mt-0.5">
+          <span class="text-[9px] font-bold px-1.5 py-0.2 rounded border \${launchBadgeClass}">
+            \${p.launchDate}
+          </span>
+          <span class="text-[10px] text-slate-400">\${p.category} • \${p.subCategory}</span>
+        </div>
       </td>
       <td class="py-3 px-4">
         <span class="inline-flex items-center gap-1 px-2 py-0.5 rounded text-[10px] font-bold border \${style.badgeBg}">
@@ -928,6 +996,9 @@ window.openProductModal = function(productId) {
       <div class="flex flex-wrap items-center gap-2 mb-2">
         <span class="px-2.5 py-0.5 rounded-full text-xs font-bold border \${style.badgeBg}">
           \${product.platform}
+        </span>
+        <span class="px-2.5 py-0.5 rounded-md text-xs font-bold bg-cyan-500/10 text-cyan-300 border border-cyan-500/30">
+          🚀 Lançamento \${product.launchDate} (\${product.launchYear})
         </span>
         <span class="text-xs font-mono text-slate-400">Offer ID: \${product.networkOfferId}</span>
         <span class="text-xs font-semibold px-2 py-0.5 rounded bg-emerald-500/10 text-emerald-400 border border-emerald-500/30">
@@ -1009,7 +1080,7 @@ window.openProductModal = function(productId) {
     <!-- Actions Footer -->
     <div class="pt-4 border-t border-slate-800 flex flex-col sm:flex-row items-center justify-between gap-3">
       <div class="text-xs text-slate-400">
-        Oferta verificada ativa no catálogo de 2026 da \${product.platform}.
+        Oferta lançada em \${product.launchDate} e ativa no catálogo oficial da \${product.platform}.
       </div>
       <div class="flex items-center gap-2 w-full sm:w-auto">
         <button onclick="closeProductModal()" class="w-full sm:w-auto px-4 py-2 rounded-lg bg-slate-800 hover:bg-slate-700 text-xs font-semibold text-slate-300 cursor-pointer">
@@ -1047,6 +1118,8 @@ function exportToCsv() {
     'Rank na Plataforma',
     'Nome do Produto',
     'Plataforma',
+    'Ano de Lancamento',
+    'Data de Lancamento',
     'Categoria',
     'Sub-Nicho',
     'Buscas Mensais Google',
@@ -1071,6 +1144,8 @@ function exportToCsv() {
       p.rank,
       \`"\${(p.name || '').replace(/"/g, '""')}"\`,
       \`"\${p.platform}"\`,
+      p.launchYear,
+      \`"\${p.launchDate}"\`,
       \`"\${p.category}"\`,
       \`"\${(p.subCategory || '').replace(/"/g, '""')}"\`,
       p.monthlySearches,
@@ -1089,13 +1164,12 @@ function exportToCsv() {
     ].join(',');
   });
 
-  // UTF-8 BOM for Microsoft Excel compatibility
   const csvContent = '\\uFEFF' + headers.join(',') + '\\n' + rows.join('\\n');
   const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
   const url = URL.createObjectURL(blob);
   const link = document.createElement('a');
   link.setAttribute('href', url);
-  link.setAttribute('download', \`affiliateradar-produtos-\${state.platform.toLowerCase()}-\${products.length}-itens.csv\`);
+  link.setAttribute('download', \`affiliateradar-lancamentos-\${state.platform.toLowerCase()}-\${products.length}-itens.csv\`);
   document.body.appendChild(link);
   link.click();
   document.body.removeChild(link);
@@ -1117,7 +1191,7 @@ function exportToJson() {
   const url = URL.createObjectURL(blob);
   const link = document.createElement('a');
   link.setAttribute('href', url);
-  link.setAttribute('download', \`affiliateradar-produtos-\${state.platform.toLowerCase()}-\${products.length}-itens.json\`);
+  link.setAttribute('download', \`affiliateradar-lancamentos-\${state.platform.toLowerCase()}-\${products.length}-itens.json\`);
   document.body.appendChild(link);
   link.click();
   document.body.removeChild(link);
@@ -1128,20 +1202,45 @@ function exportToJson() {
 
 // Event Listeners Initialization
 function initEventListeners() {
-  // Platform Tabs
+  // Sync Platform Tabs with selectPlatform
   elements.platformTabs.forEach(tab => {
     tab.addEventListener('click', () => {
-      elements.platformTabs.forEach(t => {
-        t.classList.remove('bg-emerald-500', 'text-slate-950', 'font-semibold', 'shadow-md');
-        t.classList.add('text-slate-400', 'font-medium');
-      });
-      tab.classList.add('bg-emerald-500', 'text-slate-950', 'font-semibold', 'shadow-md');
-      tab.classList.remove('text-slate-400', 'font-medium');
-
-      state.platform = tab.getAttribute('data-platform') || 'All';
-      applyFiltersAndSort();
+      const plat = tab.getAttribute('data-platform') || 'All';
+      setPlatform(plat);
     });
   });
+
+  if (elements.selectPlatform) {
+    elements.selectPlatform.addEventListener('change', (e) => {
+      setPlatform(e.target.value);
+    });
+  }
+
+  function setPlatform(plat) {
+    state.platform = plat;
+    if (elements.selectPlatform) {
+      elements.selectPlatform.value = plat;
+    }
+    elements.platformTabs.forEach(t => {
+      const p = t.getAttribute('data-platform');
+      if (p === plat) {
+        t.classList.add('bg-emerald-500', 'text-slate-950', 'font-semibold', 'shadow-md');
+        t.classList.remove('text-slate-400', 'font-medium');
+      } else {
+        t.classList.remove('bg-emerald-500', 'text-slate-950', 'font-semibold', 'shadow-md');
+        t.classList.add('text-slate-400', 'font-medium');
+      }
+    });
+    applyFiltersAndSort();
+  }
+
+  // Launch Year Filter Listener
+  if (elements.selectLaunchYear) {
+    elements.selectLaunchYear.addEventListener('change', (e) => {
+      state.launchYear = e.target.value;
+      applyFiltersAndSort();
+    });
+  }
 
   // Search input with debounce
   let searchTimeout = null;
@@ -1193,6 +1292,7 @@ function initEventListeners() {
   // Reset Filters
   function resetAll() {
     state.platform = 'All';
+    state.launchYear = 'All';
     state.category = 'All';
     state.country = 'All';
     state.funnel = 'All';
@@ -1202,6 +1302,8 @@ function initEventListeners() {
 
     elements.searchInput.value = '';
     elements.searchClear.classList.add('hidden');
+    if (elements.selectPlatform) elements.selectPlatform.value = 'All';
+    if (elements.selectLaunchYear) elements.selectLaunchYear.value = 'All';
     elements.selectCategory.value = 'All';
     elements.selectCountry.value = 'All';
     elements.selectFunnel.value = 'All';

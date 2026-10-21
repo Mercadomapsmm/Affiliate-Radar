@@ -113,6 +113,13 @@ export function filterAndSortProducts(
         return false;
       }
 
+      // Launch Year filter (2025 to 2026)
+      if (filters.selectedLaunchYear && filters.selectedLaunchYear !== 'Todos') {
+        if (String(product.launchYear) !== filters.selectedLaunchYear) {
+          return false;
+        }
+      }
+
       // Category filter
       if (filters.selectedCategory !== 'Todos' && product.category !== filters.selectedCategory) {
         return false;

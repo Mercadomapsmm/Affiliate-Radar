@@ -95,11 +95,19 @@ export function ProductCard({
           {product.name}
         </h3>
         
-        {/* Active Status & Offer ID */}
+        {/* Active Status, Launch Date & Offer ID */}
         <div className="flex items-center gap-1.5 mt-1.5 flex-wrap">
-          <span className="inline-flex items-center gap-1 text-[10px] font-bold text-emerald-400 bg-emerald-500/10 border border-emerald-500/20 px-2 py-0.5 rounded-md">
+          <span className={`inline-flex items-center gap-1 text-[10px] font-bold px-2 py-0.5 rounded-md border ${
+            product.launchYear === 2026 
+              ? 'bg-emerald-500/10 border-emerald-500/30 text-emerald-300' 
+              : 'bg-cyan-500/10 border-cyan-500/30 text-cyan-300'
+          }`}>
+            <Sparkles className="w-2.5 h-2.5" />
+            <span>Lançamento {product.launchDate}</span>
+          </span>
+          <span className="inline-flex items-center gap-1 text-[10px] font-semibold text-emerald-400 bg-emerald-500/10 border border-emerald-500/20 px-1.5 py-0.5 rounded-md">
             <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse" />
-            {product.activeStatus}
+            Ativo
           </span>
           <span className="text-[10px] font-mono text-slate-400 bg-slate-950 px-1.5 py-0.5 rounded border border-slate-800">
             {product.networkOfferId}
