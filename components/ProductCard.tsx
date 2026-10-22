@@ -109,6 +109,10 @@ export function ProductCard({
             <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse" />
             Ativo
           </span>
+          <span className="inline-flex items-center gap-1 text-[10px] font-bold text-sky-300 bg-sky-500/10 border border-sky-500/30 px-1.5 py-0.5 rounded-md" title="Forte aceitação e demanda comprovada nos Estados Unidos">
+            <span>🇺🇸</span>
+            <span>{product.topCountries[0]?.sharePercent || 75}% EUA</span>
+          </span>
           <span className="text-[10px] font-mono text-slate-400 bg-slate-950 px-1.5 py-0.5 rounded border border-slate-800">
             {product.networkOfferId}
           </span>

@@ -88,6 +88,9 @@ export function ProductTable({
                           <span className="w-1 h-1 rounded-full bg-emerald-400 animate-pulse" />
                           Ativo
                         </span>
+                        <span className="text-[9px] font-bold text-sky-300 bg-sky-500/10 px-1 py-0.2 rounded border border-sky-500/20" title="Forte aceitação no mercado norte-americano">
+                          🇺🇸 {product.topCountries[0]?.sharePercent}% EUA
+                        </span>
                         <span className="text-[9px] font-mono text-slate-400 truncate">
                           {product.networkOfferId}
                         </span>

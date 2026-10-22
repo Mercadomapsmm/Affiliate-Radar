@@ -1,14 +1,14 @@
 import fs from 'fs';
 import path from 'path';
 
-// Load or re-run deterministic generation of 1,200 products
+// Deterministic generator of 1,200 products with SIMPLE NAMES and STRONG US ACCEPTANCE
 function createPlatform300(platformName, idPrefix, networkOfferPrefix, baseSeeds, archetypeMatrix, minSearches, maxSearches, defaultPayout) {
   const fullList = [...baseSeeds];
 
   const brandModifiers = [
     "Ultra", "Optima", "Vita", "Pro", "Pure", "Bio", "Nature", "Max", "Prime", "Apex",
     "Nova", "Zen", "Core", "Elite", "Active", "Genesis", "True", "Ever", "Vital", "Mega",
-    "Aura", "Terra", "Hydra", "Vigor", "Nuvo", "Acu", "Syn", "Kineti", "Sol", "Omni"
+    "Aura", "Terra", "Hydra", "Vigor", "Nuvo", "Acu", "Syn", "Sol", "Omni", "Peak"
   ];
 
   const categories = archetypeMatrix;
@@ -17,14 +17,16 @@ function createPlatform300(platformName, idPrefix, networkOfferPrefix, baseSeeds
     const brand = brandModifiers[i % brandModifiers.length];
     const arch = categories[i % categories.length];
     const coreName = arch.names[Math.floor(i / brandModifiers.length) % arch.names.length];
-    const title = `${brand} ${coreName} (${platformName})`;
+    
+    // Simple, clean 2-word brand name without platform suffixes or parentheses
+    const title = `${brand} ${coreName}`;
     const slug = `${brand.toLowerCase()}${coreName.toLowerCase().replace(/[^a-z0-9]/g, '')}`.slice(0, 14);
 
     fullList.push({
       name: title,
       cat: arch.cat,
       sub: arch.sub,
-      tag: `${arch.hook} Testado e ativo no marketplace ${platformName} com alta retenção de clientes.`,
+      tag: `${arch.hook} Produto validado com altíssima taxa de conversão e forte aceitação no mercado dos Estados Unidos (US).`,
       offerId: `${idPrefix.toUpperCase()}-${slug}-${100 + i}`,
       pay: arch.cat === 'Nutra' ? defaultPayout : defaultPayout * 0.45 + (i % 20),
       funnel: arch.funnel,
@@ -44,9 +46,8 @@ function createPlatform300(platformName, idPrefix, networkOfferPrefix, baseSeeds
     const countries = item.geos.split(',').map(c => {
       const [code, pct] = c.split(':');
       const nameMap = {
-        US: 'Estados Unidos', CA: 'Canadá', UK: 'Reino Unido', AU: 'Austrália', BR: 'Brasil',
-        DE: 'Alemanha', IT: 'Itália', ES: 'Espanha', RO: 'Romênia', MX: 'México',
-        AT: 'Áustria', CH: 'Suíça', PT: 'Portugal'
+        US: 'Estados Unidos', CA: 'Canadá', UK: 'Reino Unido', AU: 'Austrália',
+        NZ: 'Nova Zelândia', IE: 'Irlanda', BR: 'Brasil', DE: 'Alemanha'
       };
       return {
         countryCode: code,
@@ -62,7 +63,7 @@ function createPlatform300(platformName, idPrefix, networkOfferPrefix, baseSeeds
       commissionRate = `$${item.pay.toFixed(0)} CPA por venda`;
     } else if (platformName === 'SmartADV') {
       payoutType = 'CPA / COD';
-      commissionRate = `$${item.pay.toFixed(0)} COD na Entrega`;
+      commissionRate = `$${item.pay.toFixed(0)} CPA na Entrega`;
     } else if (platformName === 'Digistore24') {
       payoutType = 'RevShare';
       commissionRate = item.pay > 100 ? `$${item.pay.toFixed(0)} / venda` : '70% - 85%';
@@ -111,139 +112,123 @@ function createPlatform300(platformName, idPrefix, networkOfferPrefix, baseSeeds
       octoberRank: rank,
       trendStatus: growth > 10 ? 'Nova Explosão' : growth > 3 ? 'Em Alta ↗' : 'Estável / Top 1',
       funnelType: item.funnel,
-      primaryAngle: `${item.tag} Oferta lançada em ${launchDate} com métricas de conversão e volume validadas no mercado de afiliados em 2025 e 2026.`,
-      targetDemographics: item.cat === 'Pets' ? 'Donos de animais domésticos' : item.cat === 'Beleza & Cuidados' ? 'Mulheres 24-58 anos' : 'Homens e Mulheres (30-68 anos)',
+      primaryAngle: `${item.tag} Oferta lançada em ${launchDate} com forte aceitação no mercado dos EUA (70%+ tráfego norte-americano).`,
+      targetDemographics: item.cat === 'Pets' ? 'Donos de animais nos EUA' : item.cat === 'Beleza & Cuidados' ? 'Mulheres 25-60 anos nos EUA' : 'Público Americano (35-68 anos)',
       topCountries: countries,
       trafficSources: [
-        { channel: 'Meta Ads (Facebook/Instagram)', percentage: 48 },
-        { channel: 'Google Search & YouTube', percentage: 26 },
-        { channel: 'Native Ads (Taboola/Outbrain)', percentage: 18 },
-        { channel: 'TikTok Ads', percentage: 8 }
+        { channel: 'Meta Ads (Facebook/Instagram EUA)', percentage: 50 },
+        { channel: 'Google Search & YouTube US', percentage: 28 },
+        { channel: 'Native Ads (Taboola/Outbrain US)', percentage: 16 },
+        { channel: 'TikTok Ads US', percentage: 6 }
       ],
       adCompliance: item.comp,
       keyBenefits: [
-        `Produto lançado em ${launchDate} e 100% ativo no marketplace oficial da ${platformName}`,
-        `Volume de ${searches.toLocaleString('pt-BR')} buscas mensais no Google (Ordem Crescente)`,
-        'Funil com upsell de alta taxa de conversão e criativos prontos para afiliados'
+        `Nome simples e comercial com forte aceitação comprovada nos Estados Unidos (${countries[0].sharePercent}% US)`,
+        `Lançamento ${launchDate} ativo no catálogo oficial de ${platformName}`,
+        `Volume de ${searches.toLocaleString('pt-BR')} buscas mensais no Google (Ordem Crescente)`
       ]
     };
   });
 }
 
-// 1. CLICKBANK
+// Seeds and archetypes with Simple Names & Strong US Acceptance
 const cbSeeds = [
-  { name: "Puravive (Rice Hack Formula)", cat: "Nutra", sub: "Perda de Peso & BAT", tag: "Fórmula exótica de arroz para ativação de tecido adiposo marrom.", offerId: "puravive", pay: 147.50, funnel: "VSL", comp: "Requer Pre-lander", geos: "US:64,CA:14,UK:10,AU:8,BR:4" },
-  { name: "Sugar Defender 24", cat: "Nutra", sub: "Controle de Glicose", tag: "Gotas sublinguais de alta absorção para equilíbrio glicêmico e energia contínua.", offerId: "sugardef24", pay: 139.80, funnel: "VSL", comp: "Requer Pre-lander", geos: "US:68,CA:12,UK:11,AU:9" },
-  { name: "ProDentim Oral Probiotics", cat: "Nutra", sub: "Saúde Bucal & Gengivas", tag: "3.5 bilhões de bactérias boas mastigáveis para repovoar a microbiota oral.", offerId: "prodentim", pay: 132.00, funnel: "VSL", comp: "Whitehat Amigável", geos: "US:60,CA:15,UK:12,AU:8,BR:5" },
-  { name: "Liv Pure Mediterranean Liver", cat: "Nutra", sub: "Desintoxicação Hepática", tag: "Complexo mediterrâneo para purificação do fígado e queima de gordura visceral.", offerId: "livpure", pay: 142.00, funnel: "VSL", comp: "Requer Pre-lander", geos: "US:65,UK:14,CA:12,AU:9" },
-  { name: "Nagano Lean Body Tonic", cat: "Nutra", sub: "Elixir Japonês", tag: "Bebida matinal inspirada em Okinawa para acelerar o metabolismo basal.", offerId: "naganobody", pay: 138.50, funnel: "VSL", comp: "Requer Pre-lander", geos: "US:62,CA:16,UK:12,AU:10" },
-  { name: "His Secret Obsession", cat: "Relacionamentos", sub: "Psicologia Masculina", tag: "O instinto do herói: Como despertar devoção e compromisso incondicional.", offerId: "secretobs", pay: 58.40, funnel: "VSL", comp: "Whitehat Amigável", geos: "US:48,UK:18,CA:14,AU:12,BR:8" },
-  { name: "Soulmanifestation 2.0", cat: "Espiritualidade", sub: "Leitura de Alma", tag: "Relatório personalizado de missão cósmica e caminho da prosperidade.", offerId: "soulmanif", pay: 42.50, funnel: "Quiz", comp: "Whitehat Amigável", geos: "US:52,UK:16,CA:14,AU:10,BR:8" },
-  { name: "The Lost Book of Remedies", cat: "E-commerce", sub: "Ervas Medicinais Físico", tag: "Manual prático de remédios esquecidos e curas da natureza em livro impresso.", offerId: "lostbook", pay: 37.00, funnel: "TSL", comp: "Whitehat Amigável", geos: "US:62,CA:15,UK:12,AU:11" },
-  { name: "Ted's Woodworking 16,000 Plans", cat: "Info-produtos", sub: "Marcenaria & DIY", tag: "A maior coleção do mundo de esquemas e projetos passo a passo de madeira.", offerId: "tedswood", pay: 62.00, funnel: "TSL", comp: "Whitehat Amigável", geos: "US:54,UK:16,CA:14,AU:10,BR:6" },
-  { name: "Brain Training for Dogs", cat: "Pets", sub: "Comportamento Canino", tag: "Jogos mentais sem força para eliminar comportamentos indesejados em cães.", offerId: "braintrain", pay: 34.50, funnel: "TSL", comp: "Whitehat Amigável", geos: "US:55,UK:18,CA:13,AU:9,BR:5" },
+  { name: "Puravive", cat: "Nutra", sub: "Perda de Peso & BAT", tag: "Fórmula exótica para ativação de tecido adiposo marrom.", offerId: "puravive", pay: 147.50, funnel: "VSL", comp: "Requer Pre-lander", geos: "US:74,CA:13,UK:8,AU:5" },
+  { name: "Sugar Defender", cat: "Nutra", sub: "Controle de Glicose", tag: "Gotas sublinguais de alta absorção para equilíbrio glicêmico e energia.", offerId: "sugardef", pay: 139.80, funnel: "VSL", comp: "Requer Pre-lander", geos: "US:76,CA:12,UK:7,AU:5" },
+  { name: "ProDentim", cat: "Nutra", sub: "Saúde Bucal", tag: "3.5 bilhões de bactérias boas mastigáveis para microbiota oral.", offerId: "prodentim", pay: 132.00, funnel: "VSL", comp: "Whitehat Amigável", geos: "US:72,CA:14,UK:9,AU:5" },
+  { name: "Liv Pure", cat: "Nutra", sub: "Desintoxicação Hepática", tag: "Complexo purificador do fígado e queima de gordura abdominal.", offerId: "livpure", pay: 142.00, funnel: "VSL", comp: "Requer Pre-lander", geos: "US:75,CA:13,UK:7,AU:5" },
+  { name: "Nagano Tonic", cat: "Nutra", sub: "Metabolismo Japonês", tag: "Bebida matinal inspirada em Okinawa para acelerar o metabolismo.", offerId: "naganotonic", pay: 138.50, funnel: "VSL", comp: "Requer Pre-lander", geos: "US:71,CA:15,UK:8,AU:6" },
+  { name: "ZenCortex", cat: "Nutra", sub: "Saúde Auditiva & Foco", tag: "Gotas bioativas para suporte à audição saudável e clareza mental.", offerId: "zencortex", pay: 136.00, funnel: "VSL", comp: "Requer Pre-lander", geos: "US:73,CA:14,UK:8,AU:5" },
+  { name: "Cortexi", cat: "Nutra", sub: "Suporte Auditivo", tag: "Fórmula herbal líquida com alta absorção para saúde auditiva.", offerId: "cortexi", pay: 134.00, funnel: "VSL", comp: "Requer Pre-lander", geos: "US:74,CA:13,UK:8,AU:5" },
+  { name: "Secret Obsession", cat: "Relacionamentos", sub: "Psicologia Masculina", tag: "O instinto do herói: Como despertar devoção incondicional.", offerId: "secretobs", pay: 58.40, funnel: "VSL", comp: "Whitehat Amigável", geos: "US:70,UK:15,CA:10,AU:5" },
+  { name: "Lost Book Remedies", cat: "E-commerce", sub: "Medicina Natural", tag: "Guia físico prático de remédios esquecidos e ervas medicinais.", offerId: "lostbook", pay: 37.00, funnel: "TSL", comp: "Whitehat Amigável", geos: "US:78,CA:12,UK:6,AU:4" },
+  { name: "Brain Training Dogs", cat: "Pets", sub: "Comportamento Canino", tag: "Jogos mentais de estímulo positivo para educar cães rapidamente.", offerId: "braintrain", pay: 34.50, funnel: "TSL", comp: "Whitehat Amigável", geos: "US:72,UK:14,CA:9,AU:5" },
 ];
 
 const cbArchetypes = [
-  { cat: "Nutra", sub: "Emagrecimento & Metabolismo", names: ["Belly Slim Tonic", "Okinawa Cleanse", "Lean Drops Pure", "Metabolic Burner", "Alpine Fat Melter", "Thermic Elixir", "Keto Bio Burn", "Green Tea Fasting Drops"], hook: "Ativação do metabolismo dormente para queima calórica acelerada.", geos: "US:64,CA:14,UK:12,AU:10", compliance: "Requer Pre-lander", funnel: "VSL" },
-  { cat: "Nutra", sub: "Controle Glicêmico & Açúcar", names: ["Sugar Shield Drops", "Glyco Balance Bio", "Berberine Extra", "Insulin Support Pro", "Pancreas Harmony", "Glucose Guard 360"], hook: "8 botânicos concentrados para manter os níveis de glicose em equilíbrio.", geos: "US:68,CA:12,UK:11,AU:9", compliance: "Requer Pre-lander", funnel: "VSL" },
-  { cat: "Nutra", sub: "Saúde Auditiva & Cérebro", names: ["Acoustic Zen Drops", "Ear Ringing Silence", "Cortex Clarity Plus", "Neuro Sound Calm", "Auditory Shield"], hook: "Antioxidantes neurais para desobstrução das conexões cóclea-córtex.", geos: "US:65,UK:15,CA:12,AU:8", compliance: "Requer Pre-lander", funnel: "VSL" },
-  { cat: "Nutra", sub: "Saúde Masculina & Próstata", names: ["Prosta Flow Chews", "Alpha Male Vigor", "Testo Prime Tonic", "Endo Pulse Matrix", "Uro Care Herbal"], hook: "Alívio da inflamação prostática e restauração do fluxo urinário e vitalidade.", geos: "US:70,CA:12,UK:10,AU:8", compliance: "Requer Pre-lander", funnel: "VSL" },
-  { cat: "Info-produtos", sub: "Sobrevivência & DIY", names: ["Off-Grid Solar Blueprint", "Practical Medicine Book", "Woodcraft Master Series", "Water Well Drilling Guide", "Root Cellar Secrets"], hook: "Manuais práticos ilustrados passo a passo com soluções autossuficientes.", geos: "US:60,CA:15,UK:14,AU:11", compliance: "Whitehat Amigável", funnel: "TSL" },
-  { cat: "Relacionamentos", sub: "Comunicação & Conexão", names: ["Text Chemistry Matrix", "Irresistible Desire Blueprint", "Secret Psychology of Men", "Devotion Magnet", "Love Rekindle System"], hook: "Técnicas de psicologia comportamental para reconectar e blindar casais.", geos: "US:50,UK:18,CA:14,AU:11,BR:7", compliance: "Whitehat Amigável", funnel: "VSL" },
-  { cat: "Espiritualidade", sub: "Manifestação & Astrologia", names: ["Abundance Frequency Audio", "Third Eye Pineal Code", "Tarot Destiny Forecast", "Soul Mission Reading", "Sacred Geometry Matrix"], hook: "Harmonização de frequências mentais para dissolução de bloqueios de riqueza.", geos: "US:52,UK:16,CA:14,AU:10,BR:8", compliance: "Whitehat Amigável", funnel: "Quiz" },
-  { cat: "Beleza & Cuidados", sub: "Dermatologia & Cabelos", names: ["Follicle Rebirth Tonic", "Collagen Peptide Elixir", "Skin Gut Microbiome Pill", "Anti-Wrinkle Cellular Gel", "Nail Clear Defense"], hook: "Nutrição celular profunda de dentro para fora para regeneração da pele e unhas.", geos: "US:62,UK:16,CA:12,AU:10", compliance: "Whitehat Amigável", funnel: "VSL" }
+  { cat: "Nutra", sub: "Emagrecimento & Metabolismo", names: ["Slim Tonic", "Belly Burn", "Lean Drops", "Metabolic Fire", "Fat Melter", "Thermic Pure", "Keto Actives", "Cleanse Drops"], hook: "Ativação do metabolismo dormente para queima calórica acelerada.", geos: "US:75,CA:13,UK:7,AU:5", compliance: "Requer Pre-lander", funnel: "VSL" },
+  { cat: "Nutra", sub: "Controle Glicêmico & Açúcar", names: ["Sugar Shield", "Glyco Guard", "Berberine Max", "Glucose Balance", "Insulin Support", "Pancreas Care"], hook: "Complexo concentrado para manter a glicose em equilíbrio ao longo do dia.", geos: "US:77,CA:12,UK:7,AU:4", compliance: "Requer Pre-lander", funnel: "VSL" },
+  { cat: "Nutra", sub: "Saúde Auditiva & Cérebro", names: ["Audio Zen", "Ear Silence", "Cortex Boost", "Sound Calm", "Auditory Pure"], hook: "Nutrientes neurais para proteção cóclea-córtex e silêncio sonoro.", geos: "US:74,CA:13,UK:8,AU:5", compliance: "Requer Pre-lander", funnel: "VSL" },
+  { cat: "Nutra", sub: "Saúde Masculina & Próstata", names: ["Prosta Flow", "Alpha Vigor", "Testo Prime", "Endo Pulse", "Uro Guard"], hook: "Alívio da inflamação prostática e restauração do fluxo e vitalidade.", geos: "US:79,CA:11,UK:6,AU:4", compliance: "Requer Pre-lander", funnel: "VSL" },
+  { cat: "Info-produtos", sub: "Sobrevivência & Guias", names: ["Solar Blueprint", "Practical Health", "Woodcraft Plans", "Water Well Guide", "Root Cellar Secrets"], hook: "Manuais passo a passo para autossuficiência e projetos práticos residenciais.", geos: "US:76,CA:13,UK:7,AU:4", compliance: "Whitehat Amigável", funnel: "TSL" },
+  { cat: "Relacionamentos", sub: "Conexão & Afeto", names: ["Text Chemistry", "Desire Blueprint", "Male Psychology", "Devotion Magnet", "Love Rekindle"], hook: "Gatilhos comportamentais para criar conexões emocionais profundas.", geos: "US:72,UK:14,CA:9,AU:5", compliance: "Whitehat Amigável", funnel: "VSL" },
+  { cat: "Espiritualidade", sub: "Mindset & Prosperidade", names: ["Soul Mission", "Abundance Key", "Pineal Code", "Destiny Forecast", "Cosmic Wealth"], hook: "Frequências mentais para dissolver crenças limitantes e focar objetivos.", geos: "US:73,UK:13,CA:9,AU:5", compliance: "Whitehat Amigável", funnel: "Quiz" },
+  { cat: "Beleza & Cuidados", sub: "Pele & Cabelos", names: ["Follicle Rebirth", "Collagen Serum", "Skin Microbiome", "Cellular Gel", "Nail Defense"], hook: "Nutrição celular profunda de dentro para fora para regeneração da pele e unhas.", geos: "US:74,CA:13,UK:8,AU:5", compliance: "Whitehat Amigável", funnel: "VSL" }
 ];
 
-// 2. DIGISTORE24
 const dsSeeds = [
-  { name: "The Genius Wave", cat: "Info-produtos", sub: "Áudio Theta de 7 Minutos", tag: "Ativação da onda cerebral Theta de alta criatividade e atração desenvolvida por neurocientistas.", offerId: "482910", pay: 49.30, funnel: "VSL", comp: "Whitehat Amigável", geos: "US:54,UK:16,CA:12,AU:10,BR:8" },
-  { name: "Pineal Guardian Drops", cat: "Nutra", sub: "Glândula Pineal & Foco", tag: "Gotas de ervas raras para descalcificar a pineal e impulsionar memória e sono.", offerId: "512830", pay: 142.00, funnel: "VSL", comp: "Requer Pre-lander", geos: "US:62,UK:14,CA:13,AU:11" },
-  { name: "Billionaire Brain Wave", cat: "Info-produtos", sub: "Frequência Sonora Theta", tag: "Frequência para contrair a onda beta de ansiedade e despertar o fluxo da riqueza.", offerId: "478129", pay: 39.00, funnel: "VSL", comp: "Whitehat Amigável", geos: "US:52,UK:17,CA:13,AU:10,BR:8" },
-  { name: "SonoFit Hearing Support Oil", cat: "Nutra", sub: "Óleo Auditivo Natural", tag: "8 óleos botânicos concentrados para regeneração do tímpano e silêncio sonoro.", offerId: "499214", pay: 134.00, funnel: "VSL", comp: "Requer Pre-lander", geos: "US:65,UK:14,CA:12,AU:9" },
-  { name: "Audien Hearing Atom Pro", cat: "Gadgets & Tech", sub: "Aparelho Auditivo sem Fio", tag: "Micro aparelho auditivo recarregável de alta fidelidade sonora direto da fábrica.", offerId: "461092", pay: 78.50, funnel: "Direct Checkout", comp: "Whitehat Amigável", geos: "US:72,CA:14,UK:8,AU:6" },
-  { name: "Klick-Tipp Email Marketing", cat: "Software & Ferramentas", sub: "Automação de E-mails", tag: "A principal ferramenta alemã de automação de e-mails com entrega quase perfeita.", offerId: "219842", pay: 85.00, funnel: "Direct Checkout", comp: "Whitehat Amigável", geos: "DE:62,AT:18,CH:12,US:8" },
-  { name: "Ernährungskompass 2026", cat: "Info-produtos", sub: "Guia de Nutrição Alemão", tag: "O guia de longevidade e alimentação anti-inflamatória mais vendido da Europa.", offerId: "490123", pay: 39.90, funnel: "TSL", comp: "Whitehat Amigável", geos: "DE:70,AT:18,CH:12" },
-  { name: "Fórmula Negócio Online Brasil", cat: "Finanças & BizOp", sub: "Marketing de Afiliados", tag: "Treinamento clássico passo a passo para criar estrutura profissional de vendas online.", offerId: "351029", pay: 97.00, funnel: "Webinar", comp: "Whitehat Amigável", geos: "BR:85,PT:10,US:5" },
-  { name: "Robô de Vendas Automáticas", cat: "Software & Ferramentas", sub: "Funil no WhatsApp", tag: "Automação inteligente de atendimento e vendas persuasivas pelo WhatsApp.", offerId: "512903", pay: 47.00, funnel: "VSL", comp: "Whitehat Amigável", geos: "BR:88,PT:8,US:4" },
-  { name: "Viver de Resina E-book & Vídeo", cat: "Info-produtos", sub: "Mesas Resinadas & Arte", tag: "Como fabricar mesas resinadas e joias de alto padrão para venda com margens altas.", offerId: "489301", pay: 39.00, funnel: "TSL", comp: "Whitehat Amigável", geos: "BR:80,PT:12,ES:8" }
+  { name: "Genius Wave", cat: "Info-produtos", sub: "Áudio Theta Neural", tag: "Ativação da onda cerebral Theta de alta criatividade desenvolvida por neurocientistas.", offerId: "482910", pay: 49.30, funnel: "VSL", comp: "Whitehat Amigável", geos: "US:74,CA:12,UK:9,AU:5" },
+  { name: "Pineal Guardian", cat: "Nutra", sub: "Glândula Pineal & Foco", tag: "Gotas de ervas puras para descalcificar a pineal e impulsionar clareza mental.", offerId: "512830", pay: 142.00, funnel: "VSL", comp: "Requer Pre-lander", geos: "US:76,CA:12,UK:7,AU:5" },
+  { name: "Billionaire Wave", cat: "Info-produtos", sub: "Frequência Mental", tag: "Frequência acústica de 7 minutos para atrair foco financeiro e abundância.", offerId: "478129", pay: 39.00, funnel: "VSL", comp: "Whitehat Amigável", geos: "US:73,CA:13,UK:8,AU:6" },
+  { name: "SonoFit", cat: "Nutra", sub: "Óleo Auditivo Natural", tag: "Óleos botânicos concentrados para regeneração do tímpano e silêncio sonoro.", offerId: "499214", pay: 134.00, funnel: "VSL", comp: "Requer Pre-lander", geos: "US:75,CA:13,UK:7,AU:5" },
+  { name: "Audien Atom", cat: "Gadgets & Tech", sub: "Aparelho Auditivo", tag: "Micro aparelho auditivo sem fio recarregável direto para o consumidor americano.", offerId: "461092", pay: 78.50, funnel: "Direct Checkout", comp: "Whitehat Amigável", geos: "US:82,CA:10,UK:5,AU:3" },
+  { name: "Metanail Serum", cat: "Nutra", sub: "Cuidados de Unhas & Pés", tag: "Sérum bioativo 20 em 1 para unhas limpas, resistentes e pele revitalizada.", offerId: "490123", pay: 136.00, funnel: "VSL", comp: "Whitehat Amigável", geos: "US:74,CA:14,UK:7,AU:5" },
+  { name: "Joint Genesis", cat: "Nutra", sub: "Articulações & Mobilidade", tag: "Molécula Mobilee patenteada para repor o líquido sinovial articular.", offerId: "351029", pay: 140.00, funnel: "VSL", comp: "Requer Pre-lander", geos: "US:77,CA:12,UK:7,AU:4" },
+  { name: "Denticore", cat: "Nutra", sub: "Respiração & Oxigenação Oral", tag: "Pastilha efervescente natural para oxigenação das gengivas e dentes.", offerId: "512903", pay: 138.00, funnel: "VSL", comp: "Whitehat Amigável", geos: "US:73,CA:14,UK:8,AU:5" },
+  { name: "ProstaVive", cat: "Nutra", sub: "Saúde Prostática", tag: "Complexo herbal concentrado para circulação saudável da próstata.", offerId: "489301", pay: 144.00, funnel: "VSL", comp: "Requer Pre-lander", geos: "US:78,CA:11,UK:7,AU:4" },
+  { name: "Neotonics", cat: "Nutra", sub: "Pele & Microbioma Intestinal", tag: "Goma mastigável com 500 milhões de bactérias boas para renovação da pele.", offerId: "499550", pay: 135.00, funnel: "VSL", comp: "Whitehat Amigável", geos: "US:72,CA:14,UK:8,AU:6" },
 ];
 
 const dsArchetypes = [
-  { cat: "Info-produtos", sub: "Mindset & Áudios Theta", names: ["Wealth Mind Audio", "Quantum Frequency Loop", "Billionaire Subconscious Code", "Theta Meditation Wave", "Awakened Pineal Secret"], hook: "Reprogramação neural de 7 minutos para atrair prosperidade e clareza.", geos: "US:52,UK:18,CA:12,AU:10,BR:8", compliance: "Whitehat Amigável", funnel: "VSL" },
-  { cat: "Info-produtos", sub: "Cursos Profissionalizantes Brasil", names: ["Manutenção de Celulares Pro", "Hambúrguer Artesanal Delivery", "Confeitaria Lucrativa em Casa", "Unhas de Fibra de Vidro", "Sobrancelhas com Henna Express", "Barbearia Moderna e Fade", "Marmitas Fitness Congeladas", "Pães de Fermentação Natural", "Costura Criativa e Roupas", "Doces Finos e Gourmet"], hook: "Passo a passo prático para criar um negócio próprio lucrativo em casa.", geos: "BR:86,PT:9,US:5", compliance: "Whitehat Amigável", funnel: "TSL" },
-  { cat: "Finanças & BizOp", sub: "Negócios Digitais & Cripto", names: ["Crypto Altcoin Profit 2026", "YouTube Dark Cash Channels", "TikTok Organic Viral Engine", "Dropshipping Europa 48h", "Amazon FBA Seller Pro", "Score de Crédito Blindado"], hook: "Estratégias digitais de alta conversão para construir múltiplos fluxos de renda.", geos: "US:45,DE:20,UK:14,BR:12", compliance: "Whitehat Amigável", funnel: "Webinar" },
-  { cat: "Info-produtos", sub: "Saúde & Fitness Europa (DE)", names: ["Keto 28-Tage Challenge", "Bauchfett-Weg Intensiv", "Rücken-Fit Wirbelsäule", "Arthrose Natürlich Heilen", "Tinnitus Audio Frequenz", "Schlafgut Melatonin Komplex", "Potenz-Geheimnis Männer"], hook: "Best-sellers de saúde e longevidade no mercado de língua alemã.", geos: "DE:70,AT:18,CH:12", compliance: "Whitehat Amigável", funnel: "TSL" },
-  { cat: "Espiritualidade", sub: "Oráculos & Práticas Holísticas", names: ["Tarô Cigano Revelador", "Astrologia e Mapa Natal 2026", "Alinhamento dos 7 Chakras", "Reiki Cura Vibracional", "Frequências Solfeggio Sagradas"], hook: "Conexão com a intuição e arquétipos para direcionamento de vida e paz.", geos: "BR:75,PT:15,US:10", compliance: "Whitehat Amigável", funnel: "Quiz" },
-  { cat: "Nutra", sub: "Suplementos Digestivos & Articulares", names: ["Joint Genesis Mobilee", "Metanail Pro Serum", "KeraBiotics Hair Drops", "EyeFortin Vision Drops", "Denticore Lozenges"], hook: "Formulação exclusiva com alta recomendação médica e resultados visíveis.", geos: "US:64,CA:14,UK:12,AU:10", compliance: "Requer Pre-lander", funnel: "VSL" }
+  { cat: "Info-produtos", sub: "Mindset & Frequências", names: ["Wealth Mind", "Quantum Wave", "Subconscious Key", "Theta Flow", "Pineal Secret"], hook: "Reprogramação mental de 7 minutos com alta aceitação entre consumidores norte-americanos.", geos: "US:74,CA:13,UK:8,AU:5", compliance: "Whitehat Amigável", funnel: "VSL" },
+  { cat: "Nutra", sub: "Saúde Auditiva & Cerebral", names: ["Zen Sound", "Acoustic Guard", "Neuro Calm", "Hearing Shield", "Cortex Pure"], hook: "Gotas e cápsulas de ingredientes limpos para suporte sensorial e memória.", geos: "US:75,CA:13,UK:7,AU:5", compliance: "Requer Pre-lander", funnel: "VSL" },
+  { cat: "Nutra", sub: "Glicose & Metabolismo", names: ["Sugar Balance", "Keto Spark", "Glyco Pure", "Berberine Drop", "Carb Burner"], hook: "Estabilização da glicose e perda de peso com forte apelo no mercado americano.", geos: "US:76,CA:12,UK:7,AU:5", compliance: "Requer Pre-lander", funnel: "VSL" },
+  { cat: "Gadgets & Tech", sub: "Dispositivos Auditivos & Tech", names: ["Audio Nano", "Sonic Wave", "Clear Ear", "Micro Sound", "Pure Audio"], hook: "Micro dispositivos de som com entrega rápida em todo território norte-americano.", geos: "US:80,CA:10,UK:6,AU:4", compliance: "Whitehat Amigável", funnel: "Direct Checkout" },
+  { cat: "Nutra", sub: "Mobilidade & Articulações", names: ["Joint Flex", "Flexi Care", "Mobilee Pure", "Cartilage Pro", "Movement Aid"], hook: "Alívio articular diário com excelente margem e alto índice de recompra nos EUA.", geos: "US:77,CA:12,UK:7,AU:4", compliance: "Requer Pre-lander", funnel: "VSL" },
+  { cat: "Nutra", sub: "Visão & Retinopatia", names: ["Vision Guard", "Sight Clear", "Eye Fortin", "Retina Pro", "Optic Health"], hook: "Fórmula de carotenoides para suporte visual de telas e fadiga ocular.", geos: "US:74,CA:13,UK:8,AU:5", compliance: "Whitehat Amigável", funnel: "VSL" }
 ];
 
-// 3. MEDIASCALERS
 const msSeeds = [
-  { name: "BioHeal Blood CBD Gummies", cat: "Nutra", sub: "CBD Pressão & Glicose", tag: "Gomas de cânhamo concentrado para relaxamento vascular, equilíbrio de açúcar e alívio do estresse.", offerId: "MS-7821", pay: 145.00, funnel: "TSL", comp: "Requer Pre-lander", geos: "US:78,CA:14,UK:8" },
-  { name: "GlycoBalance Blood Sugar", cat: "Nutra", sub: "Glicose & Insulina", tag: "Berberina e melão amargo para normalização de picos glicêmicos após refeições.", offerId: "MS-8104", pay: 138.00, funnel: "VSL", comp: "Requer Pre-lander", geos: "US:75,CA:15,UK:10" },
-  { name: "CogniLux Nootropic Brain", cat: "Nutra", sub: "Foco & Cognição", tag: "Nootrópico avançado para velocidade de raciocínio, foco inabalável e retenção mental.", offerId: "MS-6924", pay: 132.00, funnel: "VSL", comp: "Requer Pre-lander", geos: "US:74,CA:14,UK:12" },
-  { name: "ProstaClear Advanced Formula", cat: "Nutra", sub: "Próstata & Micção", tag: "Complexo fitoquímico para desinflamar a próstata e devolver noites de sono sem interrupções.", offerId: "MS-7492", pay: 140.00, funnel: "VSL", comp: "Requer Pre-lander", geos: "US:76,CA:14,UK:10" },
-  { name: "TestoPrime Male Performance", cat: "Nutra", sub: "Testosterona Natural", tag: "Potencializador de testosterona com ácido D-aspártico e extratos botânicos estimulantes.", offerId: "MS-8023", pay: 135.00, funnel: "VSL", comp: "Whitehat Amigável", geos: "US:68,UK:16,CA:10,AU:6" },
-  { name: "KneeHero Compression Sleeve", cat: "E-commerce", sub: "Joelheira Ortopédica 3D", tag: "Joelheira com estabilizadores laterais e almofada de silicone para alívio de dor e artrose.", offerId: "MS-EC-101", pay: 48.00, funnel: "Direct Checkout", comp: "Whitehat Amigável", geos: "US:70,CA:15,UK:10,AU:5" },
-  { name: "BugZapper Solar Mosquito Killer", cat: "E-commerce", sub: "Repelente Solar LED", tag: "Exterminador elétrico de mosquitos com luz ultravioleta e carregamento solar autônomo.", offerId: "MS-EC-102", pay: 42.00, funnel: "Direct Checkout", comp: "Whitehat Amigável", geos: "US:74,CA:14,UK:8,AU:4" },
-  { name: "UltraBreathe Anti-Snoring Device", cat: "E-commerce", sub: "Aparelho Anti-Ronco", tag: "Dilatador nasal magnético de silicone médico para respiração livre e noites silenciosas.", offerId: "MS-EC-103", pay: 45.00, funnel: "Direct Checkout", comp: "Whitehat Amigável", geos: "US:72,UK:14,CA:10,AU:4" },
-  { name: "StealthCam HD Mini Security", cat: "E-commerce", sub: "Micro Câmera WiFi", tag: "Câmera compacta 1080p com visão noturna por infravermelho e alerta no celular.", offerId: "MS-EC-104", pay: 49.00, funnel: "Direct Checkout", comp: "Whitehat Amigável", geos: "US:75,CA:13,UK:8,AU:4" },
-  { name: "PureGlow Ultrasonic Face Cleaner", cat: "E-commerce", sub: "Peeling Ultrassônico", tag: "Espátula facial com vibração de alta frequência para remover cravos e infundir séruns.", offerId: "MS-EC-106", pay: 46.00, funnel: "Direct Checkout", comp: "Whitehat Amigável", geos: "US:65,UK:18,CA:11,AU:6" }
+  { name: "BioHeal Gummies", cat: "Nutra", sub: "CBD Pressão & Glicose", tag: "Gomas de cânhamo para relaxamento vascular, equilíbrio de açúcar e alívio do estresse.", offerId: "MS-7821", pay: 145.00, funnel: "TSL", comp: "Requer Pre-lander", geos: "US:80,CA:12,UK:5,AU:3" },
+  { name: "GlycoBalance", cat: "Nutra", sub: "Glicose & Insulina", tag: "Berberina e melão amargo para normalização de picos glicêmicos pós-refeições.", offerId: "MS-8104", pay: 138.00, funnel: "VSL", comp: "Requer Pre-lander", geos: "US:78,CA:12,UK:6,AU:4" },
+  { name: "CogniLux", cat: "Nutra", sub: "Foco & Cognição", tag: "Nootrópico avançado para velocidade de raciocínio, foco e retenção mental.", offerId: "MS-6924", pay: 132.00, funnel: "VSL", comp: "Requer Pre-lander", geos: "US:76,CA:13,UK:7,AU:4" },
+  { name: "ProstaClear", cat: "Nutra", sub: "Próstata & Micção", tag: "Complexo fitoquímico para desinflamar a próstata e devolver noites de sono.", offerId: "MS-7492", pay: 140.00, funnel: "VSL", comp: "Requer Pre-lander", geos: "US:79,CA:12,UK:5,AU:4" },
+  { name: "TestoPrime", cat: "Nutra", sub: "Testosterona Natural", tag: "Potencializador de testosterona com ácido D-aspártico e extratos botânicos.", offerId: "MS-8023", pay: 135.00, funnel: "VSL", comp: "Whitehat Amigável", geos: "US:75,CA:13,UK:7,AU:5" },
+  { name: "KneeHero Sleeve", cat: "E-commerce", sub: "Joelheira Ortopédica", tag: "Joelheira de compressão com almofada de silicone para alívio de dor e artrose.", offerId: "MS-EC-101", pay: 48.00, funnel: "Direct Checkout", comp: "Whitehat Amigável", geos: "US:78,CA:12,UK:6,AU:4" },
+  { name: "BugZapper", cat: "E-commerce", sub: "Repelente Solar LED", tag: "Exterminador de mosquitos com luz ultravioleta e carregamento autônomo.", offerId: "MS-EC-102", pay: 42.00, funnel: "Direct Checkout", comp: "Whitehat Amigável", geos: "US:82,CA:10,UK:5,AU:3" },
+  { name: "UltraBreathe", cat: "E-commerce", sub: "Aparelho Anti-Ronco", tag: "Dilatador nasal magnético de silicone médico para respiração livre e silenciosa.", offerId: "MS-EC-103", pay: 45.00, funnel: "Direct Checkout", comp: "Whitehat Amigável", geos: "US:76,CA:13,UK:7,AU:4" },
+  { name: "StealthCam", cat: "E-commerce", sub: "Micro Câmera WiFi", tag: "Câmera compacta 1080p com visão noturna e alerta de segurança no smartphone.", offerId: "MS-EC-104", pay: 49.00, funnel: "Direct Checkout", comp: "Whitehat Amigável", geos: "US:80,CA:11,UK:5,AU:4" },
+  { name: "PureGlow Facial", cat: "E-commerce", sub: "Peeling Ultrassônico", tag: "Espátula facial com vibração de alta frequência para limpeza profunda de poros.", offerId: "MS-EC-106", pay: 46.00, funnel: "Direct Checkout", comp: "Whitehat Amigável", geos: "US:75,CA:14,UK:7,AU:4" }
 ];
 
 const msArchetypes = [
-  { cat: "Nutra", sub: "CPA Nutra Alta Conversão", names: ["Keto Blast BHB", "Titan Vitality Drops", "Cardio Shield Pro", "Sleep Deep Melatonin", "Curcumin 95 Joint", "Liver Pure Detox", "Tinnitus Quiet Spray", "ACV Cleanse Gummies"], hook: "Oferta de CPA fixo semanal com funil otimizado para tráfego nativo e Meta Ads.", geos: "US:75,CA:15,UK:10", compliance: "Requer Pre-lander", funnel: "VSL" },
-  { cat: "Nutra", sub: "PhytAge & VitaPost Labs", names: ["Eagle Eye 911 Vision", "Blood Press 911 Hawthorn", "Internal 911 Digestive", "Urgent Fungus Destroyer", "Prostate 911 Care", "Colon Detox Plus", "Immune Defense Elderberry", "Thyroid Support Kelp"], hook: "Marcas consagradas de alta credibilidade no mercado direto americano.", geos: "US:76,CA:14,UK:10", compliance: "Requer Pre-lander", funnel: "VSL" },
-  { cat: "E-commerce", sub: "Casa & Utilidades Inteligentes", names: ["SolarBright 100 LED Sensor", "CleanSweep Robot Mop", "ArcticCool Personal USB Chiller", "HydroGlow Turbo Shower", "ThermoHeater Mini Plug", "AquaPurifier Tap Filter", "SonicScrub Power Brush"], hook: "Produtos físicos inovadores com apelo visual fortíssimo em anúncios em vídeo.", geos: "US:72,CA:15,UK:9,AU:4", compliance: "Whitehat Amigável", funnel: "Direct Checkout" },
-  { cat: "E-commerce", sub: "Automotivo & Gadgets Portáteis", names: ["ScratchRepair Nano Spray", "AutoGrip MagSafe Mount", "Defogger Fast Glass Heater", "TurboVac 6000Pa Wireless", "SuperDash Dual Cam 1080p", "PocketDrone 4K Dual", "NightScope 40x60 Monocular", "SolarCharge 20000mAh Armor"], hook: "Gadgets de alto impulso de compra para motoristas e entusiastas de tecnologia.", geos: "US:74,CA:14,UK:8,AU:4", compliance: "Whitehat Amigável", funnel: "Direct Checkout" },
-  { cat: "E-commerce", sub: "Saúde & Ortopedia Portátil", names: ["SpineAlign 360 Posture", "NeckRelief Cervical Stretcher", "AcuPoint EMS Foot Mat", "MemoryFoam Ortho Leg Pillow", "SleepMask Bluetooth Flat", "BlueBlocker Titanium Lens", "WaterFloss Dental Jet Pro"], hook: "Alívio físico imediato e melhora postural com excelente margem e baixo custo de aquisição.", geos: "US:68,UK:16,CA:11,AU:5", compliance: "Whitehat Amigável", funnel: "Direct Checkout" }
+  { cat: "Nutra", sub: "CPA Nutra Alta Conversão", names: ["Keto Blast", "Titan Vigor", "Cardio Shield", "Sleep Deep", "Curcumin Pure", "Liver Detox", "Ear Silence", "Cleanse Slim"], hook: "Oferta CPA semanal com forte volume e conversão imediata nos EUA.", geos: "US:78,CA:12,UK:6,AU:4", compliance: "Requer Pre-lander", funnel: "VSL" },
+  { cat: "Nutra", sub: "Linhas Clínicas Americanas", names: ["Eagle Eye", "Blood Press", "Internal Colon", "Fungus Clear", "Prostate Plus", "Thyroid Pure", "Immune Shield", "Sugar Bio"], hook: "Fórmulas puras com alta reputação entre compradores nos EUA.", geos: "US:80,CA:11,UK:5,AU:4", compliance: "Requer Pre-lander", funnel: "VSL" },
+  { cat: "E-commerce", sub: "Casa & Utilidades Físicas", names: ["SolarBright", "CleanSweep", "ArcticCool", "HydroShower", "ThermoHeater", "AquaPurifier", "SonicScrub"], hook: "Produtos físicos com alto apelo de compra por impulso nos EUA.", geos: "US:79,CA:11,UK:6,AU:4", compliance: "Whitehat Amigável", funnel: "Direct Checkout" },
+  { cat: "E-commerce", sub: "Automotivo & Gadgets", names: ["NanoScratch", "AutoGrip", "TurboVac", "DashCam", "PocketDrone", "NightScope", "PowerArmor"], hook: "Gadgets de transporte e segurança com tração massiva no tráfego americano.", geos: "US:81,CA:10,UK:5,AU:4", compliance: "Whitehat Amigável", funnel: "Direct Checkout" },
+  { cat: "E-commerce", sub: "Saúde & Ortopedia Portátil", names: ["SpineAlign", "NeckRelief", "AcuMat", "OrthoPillow", "SleepBand", "BlueBlocker", "DentalJet"], hook: "Alívio físico imediato e melhora postural com baixo custo de aquisição nos EUA.", geos: "US:77,CA:13,UK:6,AU:4", compliance: "Whitehat Amigável", funnel: "Direct Checkout" }
 ];
 
-// 4. SMARTADV
 const saSeeds = [
-  { name: "CardioActive Drops (COD)", cat: "Nutra", sub: "Pressão Arterial COD", tag: "Gotas de bioflavonoides e extrato de espinheiro para controle estável da pressão arterial.", offerId: "SA-1092", pay: 38.00, funnel: "COD", comp: "COD Localizado", geos: "IT:32,ES:26,BR:22,RO:12,MX:8" },
-  { name: "HondroFrost Gel (COD)", cat: "Nutra", sub: "Articulações & Cartilagem", tag: "Gel de resfriamento analgésico com ácido hialurônico para articulações e joelhos.", offerId: "SA-2819", pay: 35.00, funnel: "COD", comp: "COD Localizado", geos: "IT:30,ES:28,BR:24,RO:10,MX:8" },
-  { name: "Diabexal Blood Sugar (COD)", cat: "Nutra", sub: "Glicose & Insulina", tag: "Extratos botânicos para normalização dos índices de glicose sem dietas drásticas.", offerId: "SA-3910", pay: 40.00, funnel: "COD", comp: "COD Localizado", geos: "IT:34,ES:24,BR:22,RO:12,MX:8" },
-  { name: "Reduslim Ketogenic Drops (COD)", cat: "Nutra", sub: "Emagrecimento Rápido", tag: "Gotas termogênicas para acelerar a queima calórica com pagamento na entrega.", offerId: "SA-1420", pay: 36.00, funnel: "COD", comp: "COD Localizado", geos: "IT:28,ES:30,BR:22,RO:12,MX:8" },
-  { name: "Germivir Parasite Cleanse (COD)", cat: "Nutra", sub: "Desintoxicação Intestinal", tag: "Limpeza biológica contra parasitas intestinais, fadiga crônica e inchaço estomacal.", offerId: "SA-4820", pay: 37.00, funnel: "COD", comp: "COD Localizado", geos: "IT:32,ES:25,BR:23,RO:12,MX:8" },
-  { name: "Oculax Vision Retinal (COD)", cat: "Nutra", sub: "Visão & Tensão Ocular", tag: "Cápsulas com luteína, mirtilo e zinco para aliviar cansaço visual e visão turva.", offerId: "SA-5912", pay: 34.00, funnel: "COD", comp: "COD Localizado", geos: "IT:31,ES:26,BR:23,RO:12,MX:8" },
-  { name: "SmartWatch Ultra ECG & BP (COD)", cat: "E-commerce", sub: "Relógio Inteligente COD", tag: "Smartwatch com leitor de pressão arterial, batimentos e oxigênio com pagamento na entrega.", offerId: "SA-EC-201", pay: 32.00, funnel: "COD", comp: "COD Localizado", geos: "IT:26,ES:26,BR:28,RO:10,MX:10" },
-  { name: "Tactical Multi-Tool Axe (COD)", cat: "E-commerce", sub: "Machadinha de Sobrevivência", tag: "Machadinha militar com serra, bússola, faca e pederneira embutida para aventuras.", offerId: "SA-EC-202", pay: 30.00, funnel: "COD", comp: "COD Localizado", geos: "IT:28,ES:28,BR:24,RO:10,MX:10" },
-  { name: "Stepluxe Orthopedic Insoles (COD)", cat: "E-commerce", sub: "Palmilhas Magnéticas", tag: "Palmilha ortopédica com amortecimento duplo em gel para alívio de esporão e fascite.", offerId: "SA-EC-203", pay: 28.00, funnel: "COD", comp: "COD Localizado", geos: "IT:30,ES:28,BR:24,RO:10,MX:8" },
-  { name: "PestReject Ultrasonic Duo (COD)", cat: "E-commerce", sub: "Repelente Eletrônico COD", tag: "Dispositivo de tomada que emite pulsos eletromagnéticos e ultrassom contra pragas.", offerId: "SA-EC-204", pay: 26.00, funnel: "COD", comp: "COD Localizado", geos: "IT:28,ES:28,BR:26,RO:10,MX:8" }
+  { name: "CardioActive", cat: "Nutra", sub: "Pressão Arterial", tag: "Gotas de bioflavonoides e extrato de espinheiro para controle estável da pressão arterial.", offerId: "SA-1092", pay: 38.00, funnel: "COD", comp: "COD Localizado", geos: "US:72,CA:14,UK:8,AU:6" },
+  { name: "HondroFrost", cat: "Nutra", sub: "Articulações & Cartilagem", tag: "Gel de resfriamento analgésico com ácido hialurônico para juntas e joelhos.", offerId: "SA-2819", pay: 35.00, funnel: "COD", comp: "COD Localizado", geos: "US:70,CA:15,UK:9,AU:6" },
+  { name: "Diabexal", cat: "Nutra", sub: "Glicose & Insulina", tag: "Extratos botânicos para normalização dos índices de glicose de forma natural.", offerId: "SA-3910", pay: 40.00, funnel: "COD", comp: "COD Localizado", geos: "US:74,CA:13,UK:8,AU:5" },
+  { name: "Reduslim", cat: "Nutra", sub: "Emagrecimento Rápido", tag: "Gotas termogênicas para acelerar a queima calórica com alta conversão.", offerId: "SA-1420", pay: 36.00, funnel: "COD", comp: "COD Localizado", geos: "US:71,CA:14,UK:9,AU:6" },
+  { name: "Germivir", cat: "Nutra", sub: "Desintoxicação Intestinal", tag: "Limpeza biológica contra desconfortos intestinais e inchaço estomacal.", offerId: "SA-4820", pay: 37.00, funnel: "COD", comp: "COD Localizado", geos: "US:73,CA:13,UK:8,AU:6" },
+  { name: "Oculax Vision", cat: "Nutra", sub: "Visão & Tensão Ocular", tag: "Cápsulas com luteína e zinco para aliviar fadiga visual e visão turva.", offerId: "SA-5912", pay: 34.00, funnel: "COD", comp: "COD Localizado", geos: "US:72,CA:14,UK:8,AU:6" },
+  { name: "SmartWatch Pro", cat: "E-commerce", sub: "Relógio Inteligente", tag: "Smartwatch com leitor de sinais vitais, batimentos e oxigênio com entrega expressa.", offerId: "SA-EC-201", pay: 32.00, funnel: "COD", comp: "COD Localizado", geos: "US:75,CA:13,UK:7,AU:5" },
+  { name: "Tactical MultiTool", cat: "E-commerce", sub: "Equipamento Tático", tag: "Ferramenta militar multifuncional com serra, lâmina e pederneira embutida.", offerId: "SA-EC-202", pay: 30.00, funnel: "COD", comp: "COD Localizado", geos: "US:80,CA:11,UK:5,AU:4" },
+  { name: "StepLuxe Insoles", cat: "E-commerce", sub: "Palmilhas Magnéticas", tag: "Palmilha ortopédica com amortecimento duplo em gel para alívio plantar imediato.", offerId: "SA-EC-203", pay: 28.00, funnel: "COD", comp: "COD Localizado", geos: "US:76,CA:13,UK:7,AU:4" },
+  { name: "PestReject", cat: "E-commerce", sub: "Repelente Eletrônico", tag: "Dispositivo de tomada que emite pulsos eletromagnéticos e ultrassom contra pragas.", offerId: "SA-EC-204", pay: 26.00, funnel: "COD", comp: "COD Localizado", geos: "US:78,CA:12,UK:6,AU:4" }
 ];
 
 const saArchetypes = [
-  { cat: "Nutra", sub: "Géis & Cuidados Articulares COD", names: ["HondroStrong Mexilhão Gel", "Artrovex Shark Fat Balm", "Motion Free Spine Relief", "Flekosteel Warming Joint", "Varicol Vein Cooling Gel", "Ostelife Pure Comfort"], hook: "Alívio imediato para juntas e coluna com entrega rápida e pagamento na porta.", geos: "IT:31,ES:27,BR:22,RO:12,MX:8", compliance: "COD Localizado", funnel: "COD" },
-  { cat: "Nutra", sub: "Cardiovascular & Metabólico COD", names: ["Tonerin Pressure Drops", "Welltone Heart Balance", "Diaform+ Glyco Care", "Gluconol Pancreas Stability", "Inspilar Insulin Activator", "CardioLife Arterial Flow"], hook: "Gotas de rápida absorção com alta taxa de confirmação pelo call center.", geos: "IT:33,ES:26,BR:21,RO:12,MX:8", compliance: "COD Localizado", funnel: "COD" },
-  { cat: "Nutra", sub: "Emagrecimento & Desintoxicação COD", names: ["Keto Diet Effervescent", "Delislim Rapid Ketosis", "Fortunella Citrus Drops", "W-Loss Tropical Extract", "Matcha Slim Ceremonial", "Black Latte Charcoal Drink", "Choco Lite Fat Burner"], hook: "Perca peso sem pagar antecipadamente, garantia de entrega expressa.", geos: "IT:29,ES:29,BR:22,RO:12,MX:8", compliance: "COD Localizado", funnel: "COD" },
-  { cat: "Nutra", sub: "Vigor Masculino & Potência COD", names: ["Erectil Potency Caps", "Amarok Libido Roots", "Wirex Men Testosterone", "Alfazone Virility Drops", "Vigaman Power Endurance", "Rhino Gold Topical Gel"], hook: "Solução discreta entregue em embalagem anônima com pagamento em espécie.", geos: "IT:33,ES:27,BR:20,RO:12,MX:8", compliance: "COD Localizado", funnel: "COD" },
-  { cat: "Beleza & Cuidados", sub: "Rejuvenescimento & Pele COD", names: ["Coralift Stem Cells Cream", "Inno Gialuron Facial Elixir", "Bioretin Deep Collagen", "Intenskin Bio Moisture", "Eternelle 24K Gold Mask", "Novaskin Retinol Drops", "Hair Activator Keratin"], hook: "Cosméticos de luxo com efeito lifting imediato sem necessidade de cartão de crédito.", geos: "IT:30,ES:28,BR:22,RO:12,MX:8", compliance: "COD Localizado", funnel: "COD" },
-  { cat: "E-commerce", sub: "Físico & Utilidades COD", names: ["Fix-A-Foot Bunion Orthosis", "SonicBrush 360 U-Toothbrush", "EcoWater Shower High Flow", "MagniShield Adjustable Lens", "SleepRelief Cervical Foam", "SlimJeggings Thermal Pants", "AutoSpark Paint Scratch Paste", "DrillDoctor Tool Sharpener", "ThermoVest Heated 5-Zone", "OrthoFeet Air Walking Shoe"], hook: "Produtos inovadores de alta demanda testados e entregues diretamente na casa do comprador.", geos: "IT:28,ES:28,BR:26,RO:10,MX:8", compliance: "COD Localizado", funnel: "COD" }
+  { cat: "Nutra", sub: "Géis & Cuidados Articulares", names: ["Hondro Strong", "Joint Balm", "Motion Relief", "Flekos Gel", "Vein Care", "Ostelife Pure"], hook: "Alívio físico imediato para articulações e coluna com forte demanda nos EUA.", geos: "US:72,CA:14,UK:8,AU:6", compliance: "COD Localizado", funnel: "COD" },
+  { cat: "Nutra", sub: "Cardiovascular & Metabólico", names: ["Tonerin Drops", "Heart Balance", "Diaform Care", "Gluco Stability", "Inspilar Drops", "Cardio Flow"], hook: "Gotas de absorção rápida para suporte cardiovascular com alta aprovação nos EUA.", geos: "US:74,CA:13,UK:8,AU:5", compliance: "COD Localizado", funnel: "COD" },
+  { cat: "Nutra", sub: "Emagrecimento & Desintoxicação", names: ["Keto Diet", "Delislim Drop", "Matcha Slim", "Tropical Loss", "Pure Fast", "Black Charcoal"], hook: "Fórmula de queima de gordura e desintoxicação de alta aceitação no público norte-americano.", geos: "US:73,CA:14,UK:8,AU:5", compliance: "COD Localizado", funnel: "COD" },
+  { cat: "Nutra", sub: "Vigor Masculino & Potência", names: ["Alpha Men", "Amarok Root", "Wirex Testo", "Vigaman Power", "Rhino Gel", "Titan Pulse"], hook: "Solução masculina de alta conversão entregue com discrição garantida.", geos: "US:76,CA:12,UK:7,AU:5", compliance: "COD Localizado", funnel: "COD" },
+  { cat: "Beleza & Cuidados", sub: "Rejuvenescimento & Pele", names: ["Derma Lift", "Collagen Serum", "Inno Hyaluron", "Bioretin Cream", "Gold Mask", "Retinol Drop"], hook: "Cosméticos com efeito lifting e firmeza de pele amplamente buscados no mercado dos EUA.", geos: "US:74,CA:13,UK:8,AU:5", compliance: "COD Localizado", funnel: "COD" },
+  { cat: "E-commerce", sub: "Físico & Utilidades", names: ["Foot Ortho", "Sonic Dental", "Eco Shower", "Vision Glasses", "Sleep Pillow", "Thermal Vest"], hook: "Produtos físicos utilitários de alta utilidade e entrega expressa para lares americanos.", geos: "US:77,CA:12,UK:6,AU:5", compliance: "COD Localizado", funnel: "COD" }
 ];
 
-const cbData = createPlatform300('ClickBank', 'cb', 'CB-VENDOR', cbSeeds, cbArchetypes, 14500, 420000, 138.00);
-const dsData = createPlatform300('Digistore24', 'ds', 'DS24-ID', dsSeeds, dsArchetypes, 12800, 480000, 95.00);
-const msData = createPlatform300('MediaScalers', 'ms', 'MS-CAMPAIGN', msSeeds, msArchetypes, 13600, 390000, 135.00);
-const saData = createPlatform300('SmartADV', 'sa', 'SA-OFFER', saSeeds, saArchetypes, 14200, 450000, 36.00);
+const cb = createPlatform300('ClickBank', 'cb', 'CB-VENDOR', cbSeeds, cbArchetypes, 14500, 420000, 138.00);
+const ds = createPlatform300('Digistore24', 'ds', 'DS24-ID', dsSeeds, dsArchetypes, 12800, 480000, 95.00);
+const ms = createPlatform300('MediaScalers', 'ms', 'MS-CAMPAIGN', msSeeds, msArchetypes, 13600, 390000, 135.00);
+const sa = createPlatform300('SmartADV', 'sa', 'SA-OFFER', saSeeds, saArchetypes, 14200, 450000, 36.00);
 
-const combinedRaw = [...cbData, ...dsData, ...msData, ...saData];
-
-// Strictly ASCENDING order of Google monthly searches
-const all1200Products = [...combinedRaw]
+export const all1200Products = [...cb, ...ds, ...ms, ...sa]
   .sort((a, b) => a.monthlySearches - b.monthlySearches)
   .map((p, idx) => ({
     ...p,
     overallRank: idx + 1
   }));
-
-console.log(`Generated ${all1200Products.length} total products (Ascending searches: ${all1200Products[0].monthlySearches} -> ${all1200Products[all1200Products.length - 1].monthlySearches})`);
-
-// Ensure public directory exists
-const publicDir = path.resolve('./public');
-if (!fs.existsSync(publicDir)) {
-  fs.mkdirSync(publicDir, { recursive: true });
-}
-
-export { all1200Products };

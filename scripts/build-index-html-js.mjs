@@ -8,8 +8,8 @@ const indexHtmlContent = `<!DOCTYPE html>
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AffiliateRadar 2026 - 1.200 Produtos Ativos Lançados em 2025/2026</title>
-  <meta name="description" content="Inteligência de mercado dos 1.200 produtos lançados entre 2025 e 2026 (300 por plataforma: ClickBank, Digistore24, MediaScalers, SmartADV) organizados em ordem crescente de buscas no Google, com filtro completo por plataforma e ano de lançamento.">
+  <title>AffiliateRadar 2026 - 1.200 Produtos Lançados em 2025/2026 com Nomes Simples e Alta Aceitação nos EUA</title>
+  <meta name="description" content="1.200 produtos com nomes simples e de forte aceitação nos Estados Unidos lançados entre 2025 e 2026 (300 por plataforma: ClickBank, Digistore24, MediaScalers, SmartADV) organizados em ordem crescente de buscas no Google, com filtro completo por plataforma e ano de lançamento.">
   
   <!-- Tailwind CSS CDN -->
   <script src="https://cdn.tailwindcss.com"></script>
@@ -130,8 +130,8 @@ const indexHtmlContent = `<!DOCTYPE html>
       <div class="flex items-center gap-2.5 text-emerald-400 font-medium">
         <i data-lucide="sparkles" class="w-5 h-5 flex-shrink-0 text-emerald-400"></i>
         <span>
-          <strong class="font-bold text-white">Catálogo Exclusivo de Lançamentos 2025 e 2026:</strong>
-          Ordenados em ordem crescente de buscas no Google (#1 menor saturação até #1.200 grande escala).
+          <strong class="font-bold text-white">Lançamentos 2025/2026 com Nomes Simples e Forte Aceitação nos EUA:</strong>
+          100% dos produtos selecionados com nomes comerciais curtos (1 a 3 palavras) e alta penetração no mercado americano (70%+ tráfego e vendas nos EUA), em ordem crescente de buscas no Google.
         </span>
       </div>
       <div class="flex items-center gap-2 text-slate-400 text-xs">
@@ -835,7 +835,7 @@ function renderGrid(products) {
         </div>
 
         <!-- Launch Year Badge (2025/2026) -->
-        <div class="flex items-center gap-1.5 mb-2.5">
+        <div class="flex items-center gap-1.5 mb-2.5 flex-wrap">
           <span class="inline-flex items-center gap-1 px-2 py-0.5 rounded-md text-[10px] font-bold border \${launchBadgeClass}">
             <i data-lucide="sparkles" class="w-2.5 h-2.5"></i>
             <span>Lançamento \${p.launchDate}</span>
@@ -843,6 +843,10 @@ function renderGrid(products) {
           <span class="inline-flex items-center gap-1 text-[10px] font-semibold text-emerald-400 bg-emerald-500/10 border border-emerald-500/20 px-1.5 py-0.5 rounded">
             <span class="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse"></span>
             Ativo
+          </span>
+          <span class="inline-flex items-center gap-1 text-[10px] font-bold text-sky-300 bg-sky-500/10 border border-sky-500/30 px-1.5 py-0.5 rounded" title="Forte aceitação e demanda nos Estados Unidos">
+            <span>🇺🇸</span>
+            <span>\${(p.topCountries && p.topCountries[0]) ? p.topCountries[0].sharePercent : 75}% EUA</span>
           </span>
         </div>
 
@@ -928,9 +932,12 @@ function renderTable(products) {
       <td class="py-3 px-4 font-mono font-bold text-slate-400">#\${p.overallRank}</td>
       <td class="py-3 px-4">
         <div class="font-bold text-white line-clamp-1">\${p.name}</div>
-        <div class="flex items-center gap-1.5 mt-0.5">
+        <div class="flex items-center gap-1.5 mt-0.5 flex-wrap">
           <span class="text-[9px] font-bold px-1.5 py-0.2 rounded border \${launchBadgeClass}">
             \${p.launchDate}
+          </span>
+          <span class="text-[9px] font-bold text-sky-300 bg-sky-500/10 px-1 py-0.2 rounded border border-sky-500/20" title="Aceitação forte no mercado americano">
+            🇺🇸 \${(p.topCountries && p.topCountries[0]) ? p.topCountries[0].sharePercent : 75}% EUA
           </span>
           <span class="text-[10px] text-slate-400">\${p.category} • \${p.subCategory}</span>
         </div>

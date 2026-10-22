@@ -2,17 +2,17 @@ import type {Metadata} from 'next';
 import './globals.css'; // Global styles
 
 export const metadata: Metadata = {
-  title: 'AffiliateRadar 2026 | Top 100 Produtos com Mais Buscas por Plataforma',
-  description: 'Inteligência de mercado e afiliados: Os 100 produtos com maior volume de buscas no Google em Setembro e Outubro de 2026 nas plataformas ClickBank, Digistore24, MediaScalers e SmartADV.',
+  title: 'AffiliateRadar 2026 | 1.200 Produtos Lançados em 2025/2026 com Forte Aceitação nos EUA',
+  description: 'Inteligência de mercado dos 1.200 produtos com nomes simples e forte aceitação nos Estados Unidos lançados entre 2025 e 2026 (300 por plataforma: ClickBank, Digistore24, MediaScalers e SmartADV) em ordem crescente de buscas no Google.',
   openGraph: {
-    title: 'AffiliateRadar 2026 | Top 100 Produtos com Mais Buscas por Plataforma',
-    description: 'Os 100 produtos de maior volume de busca no Google em Setembro e Outubro de 2026 nas plataformas ClickBank, Digistore24, MediaScalers e SmartADV.',
+    title: 'AffiliateRadar 2026 | 1.200 Produtos Lançados em 2025/2026 com Forte Aceitação nos EUA',
+    description: '1.200 ofertas com nomes simples e forte aceitação nos Estados Unidos em ordem crescente de buscas no Google nas plataformas ClickBank, Digistore24, MediaScalers e SmartADV.',
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'AffiliateRadar 2026 | Top 100 Mais Buscados por Plataforma',
-    description: 'Monitor dos produtos com mais buscas no Google em redes de afiliados globais.',
+    title: 'AffiliateRadar 2026 | 1.200 Produtos em Ordem Crescente de Buscas',
+    description: 'Monitor dos 1.200 produtos mais buscados com nomes simples e forte aceitação nos EUA.',
   },
 };
 
