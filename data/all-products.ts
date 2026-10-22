@@ -1,4 +1,13 @@
-import { AffiliateProduct, FilterState, Platform, Category } from '@/types/affiliate';
+import { AffiliateProduct, FilterState, Platform, Category, ProductType } from '@/types/affiliate';
+
+export const productTypesList: ProductType[] = [
+  'Suplemento / Cápsulas & Gotas',
+  'Dispositivo & Gadget Físico',
+  'Utilidade Doméstica & Saúde',
+  'Áudio & Mindset Digital',
+  'Guia & Livro Digital',
+  'Software & Ferramenta',
+];
 import { clickbankProducts } from './clickbank';
 import { digistore24Products } from './digistore24';
 import { mediaScalersProducts } from './mediascalers';
@@ -113,6 +122,13 @@ export function filterAndSortProducts(
         return false;
       }
 
+      // Product Type filter (Filtro por tipo de produto)
+      if (filters.selectedProductType && filters.selectedProductType !== 'Todos') {
+        if (product.productType !== filters.selectedProductType) {
+          return false;
+        }
+      }
+
       // Launch Year filter (2025 to 2026)
       if (filters.selectedLaunchYear && filters.selectedLaunchYear !== 'Todos') {
         if (String(product.launchYear) !== filters.selectedLaunchYear) {
@@ -157,17 +173,19 @@ export function filterAndSortProducts(
       if (filters.searchQuery.trim() !== '') {
         const query = filters.searchQuery.toLowerCase();
         const matchesName = product.name.toLowerCase().includes(query);
+        const matchesType = product.productType?.toLowerCase().includes(query);
         const matchesSub = product.subCategory.toLowerCase().includes(query);
         const matchesTag = product.tagline.toLowerCase().includes(query);
         const matchesAngle = product.primaryAngle.toLowerCase().includes(query);
         const matchesPlatform = product.platform.toLowerCase().includes(query);
         const matchesCategory = product.category.toLowerCase().includes(query);
         const matchesOfferId = product.networkOfferId.toLowerCase().includes(query);
+        const matchesKeyword = product.bofuKeywords?.some(k => k.keyword.toLowerCase().includes(query));
         const matchesCountry = product.topCountries.some(
           (c) => c.countryName.toLowerCase().includes(query) || c.countryCode.toLowerCase().includes(query)
         );
 
-        if (!matchesName && !matchesSub && !matchesTag && !matchesAngle && !matchesPlatform && !matchesCategory && !matchesOfferId && !matchesCountry) {
+        if (!matchesName && !matchesType && !matchesSub && !matchesTag && !matchesAngle && !matchesPlatform && !matchesCategory && !matchesOfferId && !matchesCountry && !matchesKeyword) {
           return false;
         }
       }

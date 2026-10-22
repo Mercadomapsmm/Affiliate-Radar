@@ -8,8 +8,8 @@ const indexHtmlContent = `<!DOCTYPE html>
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AffiliateRadar 2026 - 1.200 Produtos Lançados em 2025/2026 com Nomes Simples e Alta Aceitação nos EUA</title>
-  <meta name="description" content="1.200 produtos com nomes simples e de forte aceitação nos Estados Unidos lançados entre 2025 e 2026 (300 por plataforma: ClickBank, Digistore24, MediaScalers, SmartADV) organizados em ordem crescente de buscas no Google, com filtro completo por plataforma e ano de lançamento.">
+  <title>AffiliateRadar 2026 - 1.200 Produtos Registrados nos Últimos 6 Meses com Nomes Simples, Aceitação nos EUA & Palavras-Chave BOFU</title>
+  <meta name="description" content="1.200 produtos registrados nos últimos 6 meses (Maio a Outubro/2026) com nomes simples e forte aceitação nos Estados Unidos (300 por plataforma: ClickBank, Digistore24, MediaScalers, SmartADV) organizados em ordem crescente de buscas no Google, com filtro por tipo de produto e melhores palavras-chave para fundo de funil (BOFU).">
   
   <!-- Tailwind CSS CDN -->
   <script src="https://cdn.tailwindcss.com"></script>
@@ -93,11 +93,11 @@ const indexHtmlContent = `<!DOCTYPE html>
                 AffiliateRadar
               </span>
               <span class="text-xs px-2 py-0.5 rounded-full font-bold bg-emerald-500/10 text-emerald-400 border border-emerald-500/30">
-                2025-2026 PRO
+                ÚLTIMOS 6 MESES
               </span>
             </div>
             <p class="text-xs text-slate-400 font-medium hidden sm:block">
-              Lançamentos 2025-2026: 1.200 Produtos Mais Buscados (300 por Plataforma)
+              1.200 Produtos Registrados nos Últimos 6 Meses com Filtro por Tipo & Palavras BOFU
             </p>
           </div>
         </div>
@@ -106,7 +106,7 @@ const indexHtmlContent = `<!DOCTYPE html>
         <div class="flex items-center gap-2.5 sm:gap-4">
           <div class="hidden lg:flex items-center gap-2 px-3 py-1.5 rounded-lg bg-slate-900 border border-slate-800 text-xs">
             <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
-            <span class="text-slate-300 font-medium">1.200 Lançamentos Ativos</span>
+            <span class="text-slate-300 font-medium">1.200 Registros Recentes (0-5 Meses)</span>
           </div>
 
           <div class="flex items-center gap-2">
@@ -130,8 +130,8 @@ const indexHtmlContent = `<!DOCTYPE html>
       <div class="flex items-center gap-2.5 text-emerald-400 font-medium">
         <i data-lucide="sparkles" class="w-5 h-5 flex-shrink-0 text-emerald-400"></i>
         <span>
-          <strong class="font-bold text-white">Lançamentos 2025/2026 com Nomes Simples e Forte Aceitação nos EUA:</strong>
-          100% dos produtos selecionados com nomes comerciais curtos (1 a 3 palavras) e alta penetração no mercado americano (70%+ tráfego e vendas nos EUA), em ordem crescente de buscas no Google.
+          <strong class="font-bold text-white">Registrados nos Últimos 6 Meses (Maio a Outubro/2026):</strong>
+          100% dos produtos cadastrados recentemente nas plataformas, com nomes simples (1 a 3 palavras), forte aceitação nos EUA (70%+ share), filtro dedicado por tipo de produto e as melhores palavras-chave para fundo de funil (BOFU) prontas para campanhas.
         </span>
       </div>
       <div class="flex items-center gap-2 text-slate-400 text-xs">
@@ -275,16 +275,32 @@ const indexHtmlContent = `<!DOCTYPE html>
           </select>
         </div>
 
-        <!-- 2. FILTRO POR ANO DE LANÇAMENTO (2025 a 2026) -->
+        <!-- 2. FILTRO POR TIPO DO PRODUTO (Solicitado pelo usuário) -->
+        <div>
+          <label class="block text-[11px] font-semibold text-emerald-400 mb-1 flex items-center gap-1">
+            <i data-lucide="package" class="w-3 h-3 text-emerald-400"></i>
+            <span>Tipo de Produto</span>
+          </label>
+          <select id="select-product-type" class="w-full px-3 py-2 text-xs rounded-lg bg-slate-900 border border-emerald-500/50 text-white font-medium focus:outline-none focus:border-emerald-500">
+            <option value="All" selected>Todos os Tipos</option>
+            <option value="Suplemento / Cápsulas & Gotas">💊 Suplementos / Cápsulas & Gotas</option>
+            <option value="Dispositivo & Gadget Físico">⚡ Dispositivos & Gadgets Físicos</option>
+            <option value="Utilidade Doméstica & Saúde">🏡 Utilidades Domésticas & Saúde</option>
+            <option value="Áudio & Mindset Digital">🎧 Áudios & Mindset Digital</option>
+            <option value="Guia & Livro Digital">📚 Guias & Livros Digitais</option>
+            <option value="Software & Ferramenta">💻 Softwares & Ferramentas</option>
+          </select>
+        </div>
+
+        <!-- 3. FILTRO POR REGISTRO (Últimos 6 Meses) -->
         <div>
           <label class="block text-[11px] font-semibold text-cyan-400 mb-1 flex items-center gap-1">
             <i data-lucide="calendar" class="w-3 h-3 text-cyan-400"></i>
-            <span>Ano Lançamento</span>
+            <span>Registro / Lançamento</span>
           </label>
           <select id="select-launch-year" class="w-full px-3 py-2 text-xs rounded-lg bg-slate-900 border border-slate-700/80 text-white font-medium focus:outline-none focus:border-cyan-500">
-            <option value="All" selected>Todos (2025 a 2026)</option>
-            <option value="2026">🚀 Lançados em 2026</option>
-            <option value="2025">✨ Lançados em 2025</option>
+            <option value="All" selected>Últimos 6 Meses (Mai-Out/2026)</option>
+            <option value="2026">🚀 Registrados em 2026</option>
           </select>
         </div>
 
@@ -545,6 +561,7 @@ const platformStyles = {
 // Application State
 const state = {
   platform: 'All',           // 'All' | 'ClickBank' | 'Digistore24' | 'MediaScalers' | 'SmartADV'
+  productType: 'All',        // Filtro por tipo de produto
   launchYear: 'All',         // 'All' | '2025' | '2026'
   category: 'All',
   country: 'All',
@@ -562,6 +579,7 @@ const state = {
 const elements = {
   platformTabs: document.querySelectorAll('.platform-tab'),
   selectPlatform: document.getElementById('select-platform'),
+  selectProductType: document.getElementById('select-product-type'),
   selectLaunchYear: document.getElementById('select-launch-year'),
   searchInput: document.getElementById('search-input'),
   searchClear: document.getElementById('search-clear'),
@@ -629,36 +647,43 @@ function applyFiltersAndSort() {
     list = list.filter(p => p.platform === state.platform);
   }
 
-  // 2. Launch Year filter (2025 to 2026)
+  // 2. Product Type filter (Filtro por tipo do produto)
+  if (state.productType !== 'All') {
+    list = list.filter(p => p.productType === state.productType);
+  }
+
+  // 3. Launch Year / Window filter
   if (state.launchYear !== 'All') {
     list = list.filter(p => String(p.launchYear) === state.launchYear);
   }
 
-  // 3. Category filter
+  // 4. Category filter
   if (state.category !== 'All') {
     list = list.filter(p => p.category === state.category);
   }
 
-  // 4. Country filter
+  // 5. Country filter
   if (state.country !== 'All') {
     list = list.filter(p => p.topCountries && p.topCountries.some(c => c.countryCode === state.country));
   }
 
-  // 5. Funnel filter
+  // 6. Funnel filter
   if (state.funnel !== 'All') {
     list = list.filter(p => p.funnelType === state.funnel);
   }
 
-  // 6. Search query
+  // 7. Search query (matches name, product type, BOFU keywords, niche, offer ID)
   if (state.searchQuery.trim() !== '') {
     const q = state.searchQuery.toLowerCase().trim();
     list = list.filter(p => {
       return (
         p.name.toLowerCase().includes(q) ||
+        (p.productType && p.productType.toLowerCase().includes(q)) ||
         p.category.toLowerCase().includes(q) ||
         p.subCategory.toLowerCase().includes(q) ||
         p.tagline.toLowerCase().includes(q) ||
         p.networkOfferId.toLowerCase().includes(q) ||
+        (p.bofuKeywords && p.bofuKeywords.some(k => k.keyword.toLowerCase().includes(q))) ||
         String(p.launchYear).includes(q) ||
         p.launchDate.toLowerCase().includes(q)
       );
@@ -854,11 +879,22 @@ function renderGrid(products) {
         <h3 class="text-base font-bold text-white group-hover:text-emerald-300 transition-colors line-clamp-1 mb-1">
           \${p.name}
         </h3>
-        <p class="text-xs text-slate-400 mb-3 flex items-center gap-1.5">
-          <span class="font-medium text-slate-300">\${p.category}</span>
-          <span class="text-slate-600">•</span>
-          <span class="truncate">\${p.subCategory}</span>
-        </p>
+        <div class="flex items-center gap-1.5 flex-wrap mb-2 text-xs">
+          <span class="font-bold text-[10px] text-indigo-300 bg-indigo-950/60 px-2 py-0.5 rounded border border-indigo-800/60">\${p.productType}</span>
+          <span class="text-slate-500 text-[10px]">•</span>
+          <span class="text-slate-400 text-[11px] truncate">\${p.category} · \${p.subCategory}</span>
+        </div>
+
+        <!-- BOFU Top Keyword Pill -->
+        \${(p.bofuKeywords && p.bofuKeywords[0]) ? \`
+        <div class="flex items-center justify-between p-2 rounded-lg bg-emerald-950/25 border border-emerald-500/25 text-[11px] mb-3">
+          <div class="flex items-center gap-1.5 truncate text-emerald-300 font-mono">
+            <span class="text-emerald-400 font-bold shrink-0">🎯 BOFU:</span>
+            <span class="truncate font-semibold">\${p.bofuKeywords[0].keyword}</span>
+          </div>
+          <span class="text-amber-300 font-bold shrink-0 ml-1">\${p.bofuKeywords[0].cpcEstimate}</span>
+        </div>
+        \` : ''}
 
         <!-- Metrics Box -->
         <div class="grid grid-cols-2 gap-2 p-3 rounded-lg bg-slate-900/90 border border-slate-800/80 mb-3 text-xs">
@@ -933,14 +969,23 @@ function renderTable(products) {
       <td class="py-3 px-4">
         <div class="font-bold text-white line-clamp-1">\${p.name}</div>
         <div class="flex items-center gap-1.5 mt-0.5 flex-wrap">
+          <span class="text-[9px] font-bold text-indigo-300 bg-indigo-950/60 px-1.5 py-0.2 rounded border border-indigo-800/60">
+            \${p.productType}
+          </span>
           <span class="text-[9px] font-bold px-1.5 py-0.2 rounded border \${launchBadgeClass}">
             \${p.launchDate}
           </span>
           <span class="text-[9px] font-bold text-sky-300 bg-sky-500/10 px-1 py-0.2 rounded border border-sky-500/20" title="Aceitação forte no mercado americano">
             🇺🇸 \${(p.topCountries && p.topCountries[0]) ? p.topCountries[0].sharePercent : 75}% EUA
           </span>
-          <span class="text-[10px] text-slate-400">\${p.category} • \${p.subCategory}</span>
         </div>
+        \${(p.bofuKeywords && p.bofuKeywords[0]) ? \`
+        <div class="text-[10px] text-emerald-300 font-mono mt-1 flex items-center gap-1 truncate max-w-sm">
+          <span class="text-emerald-400 font-bold">🎯 BOFU:</span>
+          <span class="truncate">\${p.bofuKeywords[0].keyword}</span>
+          <span class="text-amber-300 text-[9px] font-sans">(\${p.bofuKeywords[0].cpcEstimate})</span>
+        </div>
+        \` : ''}
       </td>
       <td class="py-3 px-4">
         <span class="inline-flex items-center gap-1 px-2 py-0.5 rounded text-[10px] font-bold border \${style.badgeBg}">
@@ -997,12 +1042,36 @@ window.openProductModal = function(productId) {
     </div>
   \`).join('');
 
+  const bofuKeywordsHtml = (product.bofuKeywords || []).map(kw => \`
+    <tr class="hover:bg-slate-800/50 transition-colors">
+      <td class="py-2.5 px-3 text-white font-medium">
+        <span class="font-mono text-xs text-amber-300 font-semibold">\${kw.keyword}</span>
+      </td>
+      <td class="py-2.5 px-2">
+        <span class="px-2 py-0.5 rounded text-[10px] bg-slate-800 text-slate-300 border border-slate-700 font-sans font-medium">\${kw.intent}</span>
+      </td>
+      <td class="py-2.5 px-3 text-right text-emerald-400 mono-num font-semibold">\${kw.monthlySearches.toLocaleString('pt-BR')}</td>
+      <td class="py-2.5 px-3 text-right text-amber-400 mono-num font-semibold">$\${kw.cpcUsd.toFixed(2)}</td>
+      <td class="py-2.5 px-2 text-center font-sans">
+        <button onclick="window.copySingleBofuKeyword('\${kw.keyword.replace(/'/g, "\\\\'")}')" class="px-2.5 py-1 rounded bg-slate-800 hover:bg-slate-700 text-slate-300 hover:text-white text-[11px] font-medium transition-all cursor-pointer">
+          Copiar
+        </button>
+      </td>
+    </tr>
+  \`).join('');
+
   elements.modalBody.innerHTML = \`
     <!-- Header -->
     <div class="border-b border-slate-800 pb-4">
       <div class="flex flex-wrap items-center gap-2 mb-2">
         <span class="px-2.5 py-0.5 rounded-full text-xs font-bold border \${style.badgeBg}">
           \${product.platform}
+        </span>
+        <span class="px-2.5 py-0.5 rounded-md text-xs font-bold bg-purple-500/10 text-purple-300 border border-purple-500/30">
+          📦 \${product.productType || 'Geral'}
+        </span>
+        <span class="px-2.5 py-0.5 rounded-md text-xs font-bold bg-amber-500/10 text-amber-300 border border-amber-500/30">
+          ⏱️ Registrado há \${product.registeredMonthsAgo ?? 2}m (\${product.registeredDateText || product.launchDate})
         </span>
         <span class="px-2.5 py-0.5 rounded-md text-xs font-bold bg-cyan-500/10 text-cyan-300 border border-cyan-500/30">
           🚀 Lançamento \${product.launchDate} (\${product.launchYear})
@@ -1037,6 +1106,41 @@ window.openProductModal = function(productId) {
         <div class="text-slate-400 text-[10px]">Taxa de Conversão</div>
         <div class="text-lg font-bold text-purple-400 mono-num">\${product.conversionRate}%</div>
         <div class="text-[10px] text-purple-400/80 mt-0.5">Gravity: \${product.gravityScore}</div>
+      </div>
+    </div>
+
+    <!-- Melhores Palavras-Chave para Fundo de Funil (BOFU) -->
+    <div class="p-4 rounded-xl bg-slate-900/90 border border-amber-500/30 space-y-3 shadow-lg">
+      <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-2 border-b border-slate-800 pb-2">
+        <div class="flex items-center gap-2">
+          <i data-lucide="key" class="w-4 h-4 text-amber-400"></i>
+          <h4 class="text-xs font-bold text-amber-300 uppercase tracking-wider">
+            Melhores Palavras-Chave para Fundo de Funil (BOFU)
+          </h4>
+        </div>
+        <button onclick="window.copyAllBofuKeywords('\${product.id}')" class="px-3 py-1.5 rounded-lg bg-amber-500/10 hover:bg-amber-500/20 text-amber-300 border border-amber-500/30 text-xs font-semibold flex items-center gap-1.5 cursor-pointer transition-all">
+          <i data-lucide="copy" class="w-3.5 h-3.5"></i>
+          <span>Copiar Todas as 5 Palavras-Chave</span>
+        </button>
+      </div>
+      <p class="text-xs text-slate-400 leading-relaxed">
+        Termos com altíssima intenção transacional recomendados para Google Search Ads, Bing Ads e páginas de review de afiliados nos EUA.
+      </p>
+      <div class="overflow-x-auto rounded-lg border border-slate-800">
+        <table class="w-full text-left text-xs">
+          <thead class="bg-slate-950/60 text-slate-400">
+            <tr class="text-[10px] uppercase font-bold border-b border-slate-800">
+              <th class="py-2 px-3">Palavra-Chave Transacional</th>
+              <th class="py-2 px-2">Intenção</th>
+              <th class="py-2 px-3 text-right">Buscas Google / Mês</th>
+              <th class="py-2 px-3 text-right">CPC Médio Est.</th>
+              <th class="py-2 px-2 text-center">Ação</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-slate-800/60">
+            \${bofuKeywordsHtml}
+          </tbody>
+        </table>
       </div>
     </div>
 
@@ -1107,6 +1211,21 @@ window.openProductModal = function(productId) {
   }
 };
 
+window.copySingleBofuKeyword = function(keyword) {
+  navigator.clipboard.writeText(keyword).then(() => {
+    showToast('Palavra-chave copiada: ' + keyword);
+  });
+};
+
+window.copyAllBofuKeywords = function(productId) {
+  const product = masterProductsData.find(p => p.id === productId);
+  if (!product || !product.bofuKeywords) return;
+  const list = product.bofuKeywords.map(k => k.keyword).join('\\n');
+  navigator.clipboard.writeText(list).then(() => {
+    showToast('5 palavras-chave BOFU copiadas para a área de transferência!');
+  });
+};
+
 window.closeProductModal = function() {
   elements.productModal.classList.add('hidden');
   state.selectedProduct = null;
@@ -1125,6 +1244,9 @@ function exportToCsv() {
     'Rank na Plataforma',
     'Nome do Produto',
     'Plataforma',
+    'Tipo de Produto',
+    'Data de Registro',
+    'Meses de Registro',
     'Ano de Lancamento',
     'Data de Lancamento',
     'Categoria',
@@ -1140,17 +1262,22 @@ function exportToCsv() {
     'Status Tendencia',
     'Compliance Anuncios',
     'Paises Principais',
+    'Palavras-Chave BOFU (Fundo de Funil)',
     'Angulo Primario',
     'URL Afiliados'
   ];
 
   const rows = products.map(p => {
     const geos = (p.topCountries || []).map(c => \`\${c.countryCode}(\${c.sharePercent}%)\`).join('|');
+    const bofuKws = (p.bofuKeywords || []).map(k => \`\${k.keyword} [\${k.intent}, \${k.monthlySearches} buscas, $\${k.cpcUsd}]\`).join('; ');
     return [
       p.overallRank,
       p.rank,
       \`"\${(p.name || '').replace(/"/g, '""')}"\`,
       \`"\${p.platform}"\`,
+      \`"\${p.productType || ''}"\`,
+      \`"\${p.registeredDateText || ''}"\`,
+      p.registeredMonthsAgo ?? 0,
       p.launchYear,
       \`"\${p.launchDate}"\`,
       \`"\${p.category}"\`,
@@ -1166,6 +1293,7 @@ function exportToCsv() {
       \`"\${p.trendStatus}"\`,
       \`"\${p.adCompliance}"\`,
       \`"\${geos}"\`,
+      \`"\${bofuKws.replace(/"/g, '""')}"\`,
       \`"\${(p.primaryAngle || '').replace(/"/g, '""')}"\`,
       \`"\${p.affiliatePageUrl}"\`
     ].join(',');
@@ -1241,6 +1369,14 @@ function initEventListeners() {
     applyFiltersAndSort();
   }
 
+  // Product Type Filter Listener
+  if (elements.selectProductType) {
+    elements.selectProductType.addEventListener('change', (e) => {
+      state.productType = e.target.value;
+      applyFiltersAndSort();
+    });
+  }
+
   // Launch Year Filter Listener
   if (elements.selectLaunchYear) {
     elements.selectLaunchYear.addEventListener('change', (e) => {
@@ -1299,6 +1435,7 @@ function initEventListeners() {
   // Reset Filters
   function resetAll() {
     state.platform = 'All';
+    state.productType = 'All';
     state.launchYear = 'All';
     state.category = 'All';
     state.country = 'All';
@@ -1310,6 +1447,7 @@ function initEventListeners() {
     elements.searchInput.value = '';
     elements.searchClear.classList.add('hidden');
     if (elements.selectPlatform) elements.selectPlatform.value = 'All';
+    if (elements.selectProductType) elements.selectProductType.value = 'All';
     if (elements.selectLaunchYear) elements.selectLaunchYear.value = 'All';
     elements.selectCategory.value = 'All';
     elements.selectCountry.value = 'All';

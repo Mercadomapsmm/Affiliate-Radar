@@ -73,20 +73,15 @@ export function ProductTable({
                       >
                         {product.name}
                       </span>
-                      <div className="flex items-center gap-1.5 mt-0.5">
+                      <div className="flex items-center gap-1.5 mt-0.5 flex-wrap">
                         <span className={`text-[9px] font-semibold px-1.5 py-0.2 rounded border ${meta.badgeBg}`}>
                           {product.platform}
                         </span>
-                        <span className={`text-[9px] font-bold px-1.5 py-0.2 rounded border ${
-                          product.launchYear === 2026
-                            ? 'bg-emerald-500/10 border-emerald-500/30 text-emerald-300'
-                            : 'bg-cyan-500/10 border-cyan-500/30 text-cyan-300'
-                        }`}>
-                          {product.launchDate}
+                        <span className="text-[9px] font-bold text-indigo-300 bg-indigo-950/60 px-1.5 py-0.2 rounded border border-indigo-800/60">
+                          {product.productType}
                         </span>
-                        <span className="inline-flex items-center gap-0.5 text-[9px] font-bold text-emerald-400 bg-emerald-500/10 px-1 py-0.2 rounded border border-emerald-500/20">
-                          <span className="w-1 h-1 rounded-full bg-emerald-400 animate-pulse" />
-                          Ativo
+                        <span className="text-[9px] font-bold px-1.5 py-0.2 rounded border bg-emerald-500/10 border-emerald-500/30 text-emerald-300">
+                          {product.launchDate}
                         </span>
                         <span className="text-[9px] font-bold text-sky-300 bg-sky-500/10 px-1 py-0.2 rounded border border-sky-500/20" title="Forte aceitação no mercado norte-americano">
                           🇺🇸 {product.topCountries[0]?.sharePercent}% EUA
@@ -95,6 +90,13 @@ export function ProductTable({
                           {product.networkOfferId}
                         </span>
                       </div>
+                      {product.bofuKeywords && product.bofuKeywords[0] && (
+                        <div className="text-[10px] text-emerald-300 font-mono mt-1 flex items-center gap-1 truncate max-w-md">
+                          <span className="text-emerald-400 font-bold">🎯 BOFU:</span>
+                          <span className="truncate">{product.bofuKeywords[0].keyword}</span>
+                          <span className="text-amber-300 text-[9px] font-sans">({product.bofuKeywords[0].cpcEstimate})</span>
+                        </div>
+                      )}
                     </div>
                   </td>
 

@@ -56,6 +56,9 @@ export function ProductCard({
             <span className="text-[10px] font-medium text-slate-400 bg-slate-950/60 px-2 py-0.5 rounded-md border border-slate-800/60">
               {product.category}
             </span>
+            <span className="text-[10px] font-semibold text-indigo-300 bg-indigo-950/60 px-2 py-0.5 rounded-md border border-indigo-800/60 truncate max-w-[140px]">
+              {product.productType}
+            </span>
           </div>
 
           {/* Quick Actions: Compare & Save */}
@@ -95,19 +98,11 @@ export function ProductCard({
           {product.name}
         </h3>
         
-        {/* Active Status, Launch Date & Offer ID */}
+        {/* Active Status, Registration in last 6 months & US top badge */}
         <div className="flex items-center gap-1.5 mt-1.5 flex-wrap">
-          <span className={`inline-flex items-center gap-1 text-[10px] font-bold px-2 py-0.5 rounded-md border ${
-            product.launchYear === 2026 
-              ? 'bg-emerald-500/10 border-emerald-500/30 text-emerald-300' 
-              : 'bg-cyan-500/10 border-cyan-500/30 text-cyan-300'
-          }`}>
+          <span className="inline-flex items-center gap-1 text-[10px] font-bold px-2 py-0.5 rounded-md border bg-emerald-500/10 border-emerald-500/30 text-emerald-300">
             <Sparkles className="w-2.5 h-2.5" />
-            <span>Lançamento {product.launchDate}</span>
-          </span>
-          <span className="inline-flex items-center gap-1 text-[10px] font-semibold text-emerald-400 bg-emerald-500/10 border border-emerald-500/20 px-1.5 py-0.5 rounded-md">
-            <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse" />
-            Ativo
+            <span>Últimos 6m ({product.launchDate})</span>
           </span>
           <span className="inline-flex items-center gap-1 text-[10px] font-bold text-sky-300 bg-sky-500/10 border border-sky-500/30 px-1.5 py-0.5 rounded-md" title="Forte aceitação e demanda comprovada nos Estados Unidos">
             <span>🇺🇸</span>
@@ -121,6 +116,21 @@ export function ProductCard({
         <p className="text-[11px] text-slate-400 mt-1.5 line-clamp-2 leading-relaxed">
           {product.tagline}
         </p>
+
+        {/* BOFU Keyword Preview */}
+        {product.bofuKeywords && product.bofuKeywords[0] && (
+          <div 
+            onClick={() => onOpenDetails(product)}
+            className="flex items-center justify-between gap-1.5 mt-2.5 px-2.5 py-1.5 rounded-lg bg-emerald-950/30 border border-emerald-500/30 text-[10px] cursor-pointer hover:border-emerald-500/50 transition-colors"
+            title="Clique para ver todas as palavras-chave de fundo de funil"
+          >
+            <div className="flex items-center gap-1 text-emerald-400 font-bold truncate">
+              <span className="shrink-0">🎯 BOFU:</span>
+              <span className="font-mono text-emerald-300 truncate">{product.bofuKeywords[0].keyword}</span>
+            </div>
+            <span className="text-amber-300 font-semibold shrink-0">{product.bofuKeywords[0].cpcEstimate}</span>
+          </div>
+        )}
 
         {/* Key Metrics Grid */}
         <div className="grid grid-cols-2 gap-2 my-3.5 p-2.5 rounded-xl bg-slate-950/60 border border-slate-800/60">

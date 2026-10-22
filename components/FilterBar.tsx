@@ -15,8 +15,9 @@ import {
   Calendar,
   Sparkles
 } from 'lucide-react';
-import { FilterState, Category, FunnelType, TrendStatus, Platform } from '@/types/affiliate';
-import { categoriesList, countryFlagMap } from '@/data/all-products';
+import { FilterState, Category, FunnelType, TrendStatus, Platform, ProductType } from '@/types/affiliate';
+import { categoriesList, countryFlagMap, productTypesList } from '@/data/all-products';
+import { Package } from 'lucide-react';
 
 interface FilterBarProps {
   filters: FilterState;
@@ -35,6 +36,7 @@ export function FilterBar({
     filters.searchQuery !== '' ||
     filters.selectedPlatform !== 'Todas' ||
     filters.selectedLaunchYear !== 'Todos' ||
+    filters.selectedProductType !== 'Todos' ||
     filters.selectedCategory !== 'Todos' ||
     filters.selectedCountry !== 'Todos' ||
     filters.selectedFunnel !== 'Todos' ||
@@ -58,7 +60,7 @@ export function FilterBar({
             type="text"
             value={filters.searchQuery}
             onChange={(e) => onUpdateFilters({ searchQuery: e.target.value })}
-            placeholder="Buscar por nome da oferta, Vendor/Offer ID (ex: puravive, 512048, 19401), nicho, país..."
+            placeholder="Buscar por produto, palavra-chave BOFU (ex: buy, discount, reviews), nicho ou ID..."
             className="w-full pl-10 pr-4 py-2 bg-slate-950/70 border border-slate-800 rounded-xl text-xs sm:text-sm text-white placeholder-slate-500 focus:outline-none focus:border-emerald-500/80 focus:ring-1 focus:ring-emerald-500/50 transition-all"
           />
           {filters.searchQuery && (
@@ -144,7 +146,7 @@ export function FilterBar({
 
       </div>
 
-      {/* Filter Row: Platform, Launch Year, Segment, Country, Funnel, Trend */}
+      {/* Filter Row: Platform, Launch (6 Months), Tipo do Produto, Segment, Country, Funnel */}
       <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-2.5 pt-1">
         
         {/* Platform Selector */}
@@ -166,20 +168,37 @@ export function FilterBar({
           </select>
         </div>
 
-        {/* Launch Year Selector (2025 - 2026) */}
+        {/* Product Type Selector (SOLICITADO: FILTRO POR TIPO DO PRODUTO) */}
+        <div className="space-y-1">
+          <label className="text-[11px] font-semibold text-emerald-400 flex items-center gap-1">
+            <Package className="w-3 h-3 text-emerald-400" />
+            Tipo de Produto
+          </label>
+          <select
+            value={filters.selectedProductType}
+            onChange={(e) => onUpdateFilters({ selectedProductType: e.target.value as ProductType | 'Todos' })}
+            className="w-full bg-slate-950/70 border border-emerald-500/40 rounded-xl px-2.5 py-1.5 text-xs text-white font-medium focus:outline-none focus:border-emerald-500 cursor-pointer"
+          >
+            <option value="Todos" className="bg-slate-900 text-white">Todos os Tipos</option>
+            {productTypesList.map((pt) => (
+              <option key={pt} value={pt} className="bg-slate-900 text-white">{pt}</option>
+            ))}
+          </select>
+        </div>
+
+        {/* Launch Window (Últimos 6 Meses) */}
         <div className="space-y-1">
           <label className="text-[11px] font-medium text-slate-400 flex items-center gap-1">
             <Calendar className="w-3 h-3 text-cyan-400" />
-            Lançamento
+            Registro / Lançamento
           </label>
           <select
             value={filters.selectedLaunchYear}
             onChange={(e) => onUpdateFilters({ selectedLaunchYear: e.target.value as any })}
             className="w-full bg-slate-950/70 border border-slate-800 rounded-xl px-2.5 py-1.5 text-xs text-white focus:outline-none focus:border-cyan-500/60 cursor-pointer font-medium"
           >
-            <option value="Todos" className="bg-slate-900 text-white">Todos (2025-2026)</option>
-            <option value="2026" className="bg-slate-900 text-emerald-300">🚀 Lançados em 2026</option>
-            <option value="2025" className="bg-slate-900 text-cyan-300">✨ Lançados em 2025</option>
+            <option value="Todos" className="bg-slate-900 text-white">Últimos 6 Meses (Mai-Out/2026)</option>
+            <option value="2026" className="bg-slate-900 text-emerald-300">🚀 Registrados em 2026</option>
           </select>
         </div>
 
